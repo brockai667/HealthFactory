@@ -1,7 +1,11 @@
 {
   "pexels_api_key": "",
   "buffer_token": "",
-  "buffer_channels": [],
+  "buffer_channels": [
+    { "id": "6a3e8e495ab6d2f106754a22", "service": "instagram", "name": "vitalitydaily667" },
+    { "id": "6a3e8ed15ab6d2f106754c32", "service": "youtube", "name": "VitalityDaily" },
+    { "id": "6a3e8eb45ab6d2f106754bca", "service": "tiktok", "name": "vitalitydaily667" }
+  ],
   "cloudinary_cloud_name": "",
   "cloudinary_api_key": "",
   "cloudinary_api_secret": "",
