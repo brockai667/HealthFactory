@@ -74,6 +74,7 @@ EXAMPLE = {
     ],
     "description": "Win the first hour, win the day. Follow for daily health tips!",
     "hashtags": ["#health", "#wellness", "#longevity", "#healthtips", "#morningroutine", "#shorts", "#fyp", "#selfcare"],
+    "voice": "en-US-AndrewNeural",
 }
 
 
@@ -102,6 +103,12 @@ def build_prompt(n, existing_titles, trending=None):
         "- About half the time, add ONE fitting emoji at the very END of the description (e.g. 💪, 🥗, 🧠, ✅). "
         "Emoji ONLY in the description text, NEVER inside any segment 'text' (spoken captions).\n"
         "- hashtags: 6-8 tags including #health #wellness #shorts #fyp.\n"
+        "- voice: pick the AI narrator that best fits WHO this topic mainly appeals to, to attract that "
+        "audience. Use \"en-US-EmmaNeural\" (warm female) for topics that mostly draw WOMEN (skin, hair, "
+        "hormones, stress, self-care, gentle movement, sleep, beauty, mood). Use \"en-US-AndrewNeural\" "
+        "(warm male) for topics that mostly draw MEN (muscle, strength, testosterone, energy, focus, "
+        "performance, discipline). For broadly neutral topics choose whichever fits the tone best. "
+        "Put the chosen value in the \"voice\" field.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
         "- HOOK RULE (critical for retention): segment 1 must be the single most shocking, "
         "curiosity-gap opener that makes the viewer unable to scroll. Under 10 words, no "
@@ -145,6 +152,14 @@ def valid(t):
             return False
     t.setdefault("description", t["title"] + " Follow for daily health tips!")
     t.setdefault("hashtags", ["#health", "#wellness", "#shorts", "#fyp"])
+    # hlas podla cielovky: zenska tema -> Emma, muzska -> Andrew (default neutral -> Andrew)
+    _v = str(t.get("voice", "")).lower()
+    if any(k in _v for k in ("emma", "women", "woman", "female")):
+        t["voice"] = "en-US-EmmaNeural"
+    elif any(k in _v for k in ("andrew", "men", "man", "male")):
+        t["voice"] = "en-US-AndrewNeural"
+    else:
+        t["voice"] = "en-US-AndrewNeural"
     return True
 
 
