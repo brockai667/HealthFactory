@@ -1362,5 +1362,134 @@
       "#fyp",
       "#healthtips"
     ]
+  },
+  {
+    "title": "What Happens When You Drink Water First",
+    "segments": [
+      {
+        "text": "Drinking water before meals can boost metabolism.",
+        "keywords": "drinking water"
+      },
+      {
+        "text": "Many skip this step and miss out.",
+        "keywords": "person skipping water"
+      },
+      {
+        "text": "Water fills you up, reducing hunger.",
+        "keywords": "full stomach"
+      },
+      {
+        "text": "It helps with digestion and nutrient absorption.",
+        "keywords": "digestion nutrients"
+      },
+      {
+        "text": "Hydration is key to energy and focus.",
+        "keywords": "hydrated focus"
+      },
+      {
+        "text": "Don't underestimate the power of water!",
+        "keywords": "power of water"
+      },
+      {
+        "text": "Follow for daily tips your body will thank you for.",
+        "keywords": "person drinking water"
+      }
+    ],
+    "description": "Start your meals right and feel the difference! Follow for daily health tips! 💧",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#hydration",
+      "#nutrition",
+      "#shorts",
+      "#fyp"
+    ],
+    "voice": "en-US-EmmaNeural"
+  },
+  {
+    "title": "Frozen vs Fresh: What's Healthier?",
+    "segments": [
+      {
+        "text": "Frozen produce can be just as nutritious as fresh.",
+        "keywords": "frozen vegetables"
+      },
+      {
+        "text": "Many are shocked by this fact!",
+        "keywords": "shocked person"
+      },
+      {
+        "text": "Freezing locks in nutrients for longer.",
+        "keywords": "nutrient preservation"
+      },
+      {
+        "text": "Always check for added sugars in frozen options.",
+        "keywords": "added sugars"
+      },
+      {
+        "text": "Choose frozen fruits for smoothies or snacks.",
+        "keywords": "smoothie frozen fruit"
+      },
+      {
+        "text": "Fresh or frozen, focus on variety!",
+        "keywords": "healthy variety"
+      },
+      {
+        "text": "Follow for daily tips your body will thank you for.",
+        "keywords": "person enjoying food"
+      }
+    ],
+    "description": "Discover the truth about your food choices! Follow for daily health tips! 🍏",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#nutrition",
+      "#foodfacts",
+      "#shorts",
+      "#fyp"
+    ],
+    "voice": "en-US-AndrewNeural"
+  },
+  {
+    "title": "How Much Sugar is Too Much?",
+    "segments": [
+      {
+        "text": "Most people consume twice the recommended sugar!",
+        "keywords": "sugar intake"
+      },
+      {
+        "text": "It goes beyond just sweets and desserts.",
+        "keywords": "hidden sugars"
+      },
+      {
+        "text": "Reading labels can reveal shocking truths.",
+        "keywords": "reading labels"
+      },
+      {
+        "text": "Beverages often pack the biggest hidden sugar punch.",
+        "keywords": "sugary beverage"
+      },
+      {
+        "text": "Swap sugary drinks for water or herbal teas.",
+        "keywords": "water herbal tea"
+      },
+      {
+        "text": "Balance your sugar intake for better health.",
+        "keywords": "balanced diet"
+      },
+      {
+        "text": "Follow for daily tips your body will thank you for.",
+        "keywords": "healthy choices"
+      }
+    ],
+    "description": "Learn to navigate your sugar intake and feel better. Follow for daily health tips! 🍭",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#sugarhealth",
+      "#nutrition",
+      "#shorts",
+      "#fyp"
+    ],
+    "voice": "en-US-EmmaNeural"
   }
 ]
