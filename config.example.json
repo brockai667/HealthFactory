@@ -73,6 +73,6 @@
   "broll_fallback_query": "healthy food nature wellness",
   "pixabay_api_key": "",
   "visual_engine": "motion",
-  "motion_bg": "gradient",
+  "motion_bg": "auto",
   "motion_style": "clean cinematic photograph, fresh natural tones, soft light, dark backdrop, single clear subject, no text, no watermark"
 }
