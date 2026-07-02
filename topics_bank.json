@@ -1491,5 +1491,361 @@
       "#fyp"
     ],
     "voice": "en-US-EmmaNeural"
+  },
+  {
+    "title": "Why You Should Rethink Frozen Foods",
+    "segments": [
+      {
+        "text": "Frozen foods can be just as nutritious.",
+        "keywords": "frozen vegetables",
+        "visual": {
+          "type": "hook",
+          "prompt": "frozen veggie bag",
+          "big": "FROZEN FOODS EQUAL NUTRITION?"
+        }
+      },
+      {
+        "text": "But most people overlook this fact.",
+        "keywords": "person shopping",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "grocery shopping aisle"
+        }
+      },
+      {
+        "text": "Freezing can lock in vitamins.",
+        "keywords": "vitamin chart",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "nutritional information on a food label"
+        }
+      },
+      {
+        "text": "Especially when comparing with fresh produce.",
+        "keywords": "fresh produce",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "fresh vegetables on a countertop"
+        }
+      },
+      {
+        "text": "Look for those with no added sugars.",
+        "keywords": "no sugar label",
+        "visual": {
+          "type": "callouts",
+          "prompt": "frozen food packaging",
+          "labels": [
+            "NO ADDED SUGAR"
+          ]
+        }
+      },
+      {
+        "text": "Frozen options can simplify meal prep.",
+        "keywords": "meal prep containers",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "organized meal prep containers"
+        }
+      },
+      {
+        "text": "Frozen foods can be nutritious too.",
+        "keywords": "frozen veggies",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "frozen veggies in a bowl"
+        }
+      },
+      {
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "keywords": "healthy meal prep",
+        "visual": {
+          "type": "cta",
+          "prompt": "meal prep ingredients"
+        }
+      }
+    ],
+    "description": "Rethink frozen foods for better nutrition. Follow for daily health tips! 🥗",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#nutrition",
+      "#frozenfoods",
+      "#mealprep",
+      "#shorts",
+      "#fyp"
+    ],
+    "voice": "en-US-EmmaNeural"
+  },
+  {
+    "title": "Uncovering the Truth About Omega-3s",
+    "segments": [
+      {
+        "text": "Not all omega-3s are created equal.",
+        "keywords": "omega-3 pill bottle",
+        "visual": {
+          "type": "hook",
+          "prompt": "omega-3 supplements",
+          "big": "OMEGA-3S: IS IT WORTH IT?"
+        }
+      },
+      {
+        "text": "Many brands mislead about benefits.",
+        "keywords": "fish oil ad",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "fish oil supplement advertisement"
+        }
+      },
+      {
+        "text": "It’s crucial to know the source.",
+        "keywords": "fish source",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "a fish swimming in the ocean"
+        }
+      },
+      {
+        "text": "Wild-caught fish often offer more benefits.",
+        "keywords": "wild caught salmon",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "salmon swimming upstream"
+        }
+      },
+      {
+        "text": "Look for verified brands with clear testing.",
+        "keywords": "quality supplements",
+        "visual": {
+          "type": "callouts",
+          "prompt": "supplement testing lab",
+          "labels": [
+            "QUALITY TESTED"
+          ]
+        }
+      },
+      {
+        "text": "Smart choices can enhance brain health.",
+        "keywords": "brain function",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "healthy brain animation"
+        }
+      },
+      {
+        "text": "Not all omega-3s provide the same boost.",
+        "keywords": "omega-3 benefits",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "different types of fish oil"
+        }
+      },
+      {
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "keywords": "healthy lifestyle",
+        "visual": {
+          "type": "cta",
+          "prompt": "variety of health foods"
+        }
+      }
+    ],
+    "description": "Discover the right omega-3s for health benefits. Follow for daily health tips! 🧠",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#omega3",
+      "#nutrition",
+      "#brainhealth",
+      "#shorts",
+      "#fyp"
+    ],
+    "voice": "en-US-AndrewNeural"
+  },
+  {
+    "title": "How Drinking Water Before Meals Aids Digestion",
+    "segments": [
+      {
+        "text": "Drink water before meals for better digestion.",
+        "keywords": "glass of water",
+        "visual": {
+          "type": "hook",
+          "prompt": "glass of water",
+          "big": "WATER FIRST: WHY?"
+        }
+      },
+      {
+        "text": "Most people underestimate its power.",
+        "keywords": "person eating",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "person eating a meal"
+        }
+      },
+      {
+        "text": "It helps prepare your stomach.",
+        "keywords": "stomach diagram",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "illustration of human stomach"
+        }
+      },
+      {
+        "text": "Thins digestive enzymes for a smoother process.",
+        "keywords": "enzyme animation",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "digestive enzymes illustration"
+        }
+      },
+      {
+        "text": "Aim for a glass about 30 minutes before eating.",
+        "keywords": "timer",
+        "visual": {
+          "type": "lineup",
+          "items": [
+            {
+              "name": "A",
+              "prompt": "water glass"
+            },
+            {
+              "name": "B",
+              "prompt": "30-minute timer"
+            },
+            {
+              "name": "C",
+              "prompt": "plate of food"
+            }
+          ]
+        }
+      },
+      {
+        "text": "Hydration before meals can control appetite.",
+        "keywords": "healthy eating",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "balanced meal with water"
+        }
+      },
+      {
+        "text": "Drink water for better digestion.",
+        "keywords": "water benefits",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "person drinking water"
+        }
+      },
+      {
+        "text": "Follow for the wellness basics that matter.",
+        "keywords": "healthy habits",
+        "visual": {
+          "type": "cta",
+          "prompt": "healthy lifestyle collage"
+        }
+      }
+    ],
+    "description": "Boost digestion by drinking water before meals. Follow for daily health tips! 💧",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#hydration",
+      "#digestion",
+      "#nutrition",
+      "#shorts",
+      "#fyp"
+    ],
+    "voice": "en-US-EmmaNeural"
+  },
+  {
+    "title": "The Shocking Truth About Fiber Types!",
+    "segments": [
+      {
+        "text": "Not all fiber benefits your health the same!",
+        "keywords": "fiber sources",
+        "visual": {
+          "type": "hook",
+          "prompt": "variety of fiber foods",
+          "big": "FIBER: GOOD OR BAD?"
+        }
+      },
+      {
+        "text": "Many miss this crucial detail.",
+        "keywords": "person confused",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "person looking puzzled at food labels"
+        }
+      },
+      {
+        "text": "Soluble fiber is key for gut health.",
+        "keywords": "digestive health",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "gut health illustration"
+        }
+      },
+      {
+        "text": "It helps control blood sugar and improve digestion.",
+        "keywords": "blood sugar graph",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "blood sugar level chart"
+        }
+      },
+      {
+        "text": "Look for sources like oats and beans.",
+        "keywords": "oats beans",
+        "visual": {
+          "type": "lineup",
+          "items": [
+            {
+              "name": "A",
+              "prompt": "oats bowl"
+            },
+            {
+              "name": "B",
+              "prompt": "beans jar"
+            },
+            {
+              "name": "C",
+              "prompt": "fiber-rich bread"
+            }
+          ]
+        }
+      },
+      {
+        "text": "Insoluble fiber is great for regularity.",
+        "keywords": "regularity benefits",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "healthy digestion animation"
+        }
+      },
+      {
+        "text": "Understanding fiber helps enhance your diet.",
+        "keywords": "healthy diet",
+        "visual": {
+          "type": "kenburns",
+          "prompt": "plate with fiber-rich foods"
+        }
+      },
+      {
+        "text": "Follow for daily tips to feel your best.",
+        "keywords": "healthy food choices",
+        "visual": {
+          "type": "cta",
+          "prompt": "nutrient-rich meal"
+        }
+      }
+    ],
+    "description": "Discover which fiber types truly benefit your health. Follow for daily health tips! 🥦",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#fiber",
+      "#nutrition",
+      "#diet",
+      "#shorts",
+      "#fyp"
+    ],
+    "voice": "en-US-EmmaNeural"
   }
 ]
