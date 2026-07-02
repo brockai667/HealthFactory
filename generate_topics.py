@@ -78,6 +78,17 @@ EXAMPLE = {
 }
 
 
+import random  # CTAS_ROTATE
+
+CTAS = [
+    "Follow for daily tips to feel your best.",
+    "Follow for simple habits that boost your health.",
+    "Follow if your body is worth 60 seconds a day.",
+    "Follow for the wellness basics that matter.",
+    "Follow for your daily dose of vitality.",
+]
+
+
 def build_prompt(n, existing_titles, trending=None):
     trend_block = _trend_block(trending)
     return (
@@ -109,6 +120,9 @@ def build_prompt(n, existing_titles, trending=None):
         "(warm male) for topics that mostly draw MEN (muscle, strength, testosterone, energy, focus, "
         "performance, discipline). For broadly neutral topics choose whichever fits the tone best. "
         "Put the chosen value in the \"voice\" field.\n"
+        "- VARY THE TITLE FORMAT: do NOT start more than one in five titles with a number "
+        "(avoid the repetitive 'N things' pattern). Mix a bold claim, a question, a "
+        "'why/how' angle and a curiosity gap so titles never look the same.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
         "- Do NOT repeat the same SUBJECT, fact or concept as any existing title above, even reworded, "
         "renumbered or from a different angle. Every topic must be a genuinely DIFFERENT idea.\n"
@@ -211,6 +225,8 @@ def main():
         _s = _sig(t["title"])
         if _too_similar(_s, existing_sigs):   # ta ista TEMA (iny nazov) -> preskoc (ziadne opakovanie)
             print("  preskocene (podobna tema):", t["title"]); continue
+        if t.get("segments"):
+            t["segments"][-1]["text"] = random.choice(CTAS)  # CTAS_ROTATE: nie vzdy rovnaka veta
         bank.append(t); titles.add(t["title"]); existing_sigs.append(_s); added += 1
     json.dump(bank, open(BANK, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"Pridanych {added} tem. Banka ma {len(bank)} tem.")
