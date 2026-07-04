@@ -1,0 +1,69 @@
+{
+  "title": "The Surprising Benefits of Getting Enough Sleep",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Getting enough sleep can improve your mood more than you know.",
+      "hook_top": "SLEEP BOOSTS MOOD",
+      "query": "person sleeping peacefully",
+      "query2": "calm dreamy bedroom",
+      "kokoro_voice": ""
+    },
+    {
+      "role": "fact",
+      "text": "Quality sleep contributes to better emotional regulation and resilience.",
+      "query": "person meditating",
+      "query2": "focus and calm",
+      "chips": [
+        {
+          "t": "EMOTIONAL RESILIENCE",
+          "on": "mood",
+          "style": "accent"
+        }
+      ],
+      "punch": "regulation"
+    },
+    {
+      "role": "fact",
+      "text": "Sleep helps your brain process and store memories effectively.",
+      "query": "brain activity during sleep",
+      "query2": "waking brain",
+      "chips": [
+        {
+          "t": "MEMORY BOOST",
+          "on": "memories",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Aim for 7-9 hours of sleep each night for optimum health.",
+      "query": "clock highlighting sleep duration",
+      "query2": "time for bed",
+      "label": "7-9 HOURS RULE",
+      "sub": "for better mood!",
+      "label_on": "sleep",
+      "punch": "health"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality.",
+      "query": "happy well-rested person",
+      "query2": "smiling energized person"
+    }
+  ],
+  "description": "Quality sleep contributes to improved mood and memory retention. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#sleep",
+    "#mood",
+    "#healthtips",
+    "#brain",
+    "#shorts",
+    "#fyp"
+  ]
+}

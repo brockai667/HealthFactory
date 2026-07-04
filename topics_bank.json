@@ -1847,5 +1847,281 @@
       "#fyp"
     ],
     "voice": "en-US-EmmaNeural"
+  },
+  {
+    "title": "Frozen Foods: Are They Really Less Nutritious?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Frozen fruits and veggies can pack just as much nutrition as fresh ones.",
+        "hook_top": "FROZEN DOESN'T MEAN LESS",
+        "query": "frozen fruits vegetables",
+        "query2": "frozen produce",
+        "kokoro_voice": ""
+      },
+      {
+        "role": "fact",
+        "text": "Frozen produce is often picked at peak ripeness and quickly frozen.",
+        "query": "fresh fruits being harvested",
+        "query2": "harvesting delicious fruits",
+        "chips": [
+          {
+            "t": "PICKED AT PEAK",
+            "on": "ripeness",
+            "style": "accent"
+          }
+        ],
+        "punch": "fresh"
+      },
+      {
+        "role": "fact",
+        "text": "These freezing methods preserve most vitamins and minerals effectively.",
+        "query": "nutritional information display",
+        "query2": "foods with nutrients",
+        "chips": [
+          {
+            "t": "VITAMINS PRESERVED",
+            "on": "vitamins",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Don't shy away from frozen foods – they can be just as healthy.",
+        "query": "frozen food aisle",
+        "query2": "shopping for frozen foods",
+        "label": "EMBRACE FROZEN FOODS",
+        "sub": "health in your freezer!",
+        "label_on": "frozen",
+        "punch": "health"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality.",
+        "query": "healthy frozen meal prep",
+        "query2": "colorful frozen dishes"
+      }
+    ],
+    "description": "Frozen fruits and vegetables can be just as nutritious as fresh ones. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#frozenfoods",
+      "#nutrition",
+      "#mealprep",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Surprising Benefits of Getting Enough Sleep",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Getting enough sleep can improve your mood more than you know.",
+        "hook_top": "SLEEP BOOSTS MOOD",
+        "query": "person sleeping peacefully",
+        "query2": "calm dreamy bedroom",
+        "kokoro_voice": ""
+      },
+      {
+        "role": "fact",
+        "text": "Quality sleep contributes to better emotional regulation and resilience.",
+        "query": "person meditating",
+        "query2": "focus and calm",
+        "chips": [
+          {
+            "t": "EMOTIONAL RESILIENCE",
+            "on": "mood",
+            "style": "accent"
+          }
+        ],
+        "punch": "regulation"
+      },
+      {
+        "role": "fact",
+        "text": "Sleep helps your brain process and store memories effectively.",
+        "query": "brain activity during sleep",
+        "query2": "waking brain",
+        "chips": [
+          {
+            "t": "MEMORY BOOST",
+            "on": "memories",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim for 7-9 hours of sleep each night for optimum health.",
+        "query": "clock highlighting sleep duration",
+        "query2": "time for bed",
+        "label": "7-9 HOURS RULE",
+        "sub": "for better mood!",
+        "label_on": "sleep",
+        "punch": "health"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality.",
+        "query": "happy well-rested person",
+        "query2": "smiling energized person"
+      }
+    ],
+    "description": "Quality sleep contributes to improved mood and memory retention. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#sleep",
+      "#mood",
+      "#healthtips",
+      "#brain",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Movement Matters: Boost Your Mood Instantly",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Just a few minutes of movement can instantly lift your mood!",
+        "hook_top": "MOVE FOR A MOOD LIFT",
+        "query": "person exercising outdoors",
+        "query2": "happy movement",
+        "kokoro_voice": ""
+      },
+      {
+        "role": "fact",
+        "text": "Physical activity triggers the release of endorphins, the body's natural mood lifters.",
+        "query": "happy person exercising",
+        "query2": "exercise and happiness",
+        "chips": [
+          {
+            "t": "NATURAL ENDORPHINS",
+            "on": "endorphins",
+            "style": "accent"
+          }
+        ],
+        "punch": "lift"
+      },
+      {
+        "role": "fact",
+        "text": "Even short bursts of movement can combat stress and anxiety levels.",
+        "query": "person stretching in park",
+        "query2": "relaxed outdoor space",
+        "chips": [
+          {
+            "t": "REDUCES STRESS",
+            "on": "stress",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim for 10 minutes of movement each day to feel more energized.",
+        "query": "watch showing 10 minutes",
+        "query2": "exercise duration",
+        "label": "10 MINUTES DAILY",
+        "sub": "for an energy boost!",
+        "label_on": "minutes",
+        "punch": "energy"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "active person enjoying exercise",
+        "query2": "joyful physical activities"
+      }
+    ],
+    "description": "Just a few minutes of movement can lift your mood and reduce stress. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#movement",
+      "#mood",
+      "#fitness",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Stress Management is Key to Health",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Effective stress management can significantly improve your health and longevity.",
+        "hook_top": "STRESS MANAGEMENT SAVES LIVES",
+        "query": "peaceful person meditating",
+        "query2": "serene meditation",
+        "kokoro_voice": ""
+      },
+      {
+        "role": "fact",
+        "text": "High stress levels can lead to a range of health issues, including heart disease.",
+        "query": "person with stress-induced symptoms",
+        "query2": "stressful situations",
+        "chips": [
+          {
+            "t": "HEALTH ISSUES RISE",
+            "on": "stress",
+            "style": "accent"
+          }
+        ],
+        "punch": "heart"
+      },
+      {
+        "role": "fact",
+        "text": "Managing stress also enhances your immune system function.",
+        "query": "person focusing on health",
+        "query2": "healthy lifestyle habits",
+        "chips": [
+          {
+            "t": "BOOSTS IMMUNITY",
+            "on": "immune",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Incorporate stress-reduction practices like meditation into your routine.",
+        "query": "person meditating in nature",
+        "query2": "meditative calmness",
+        "label": "MEDITATION FOR STRESS",
+        "sub": "essential for health!",
+        "label_on": "stress",
+        "punch": "health"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "stress-free person outdoors",
+        "query2": "happy outdoor life"
+      }
+    ],
+    "description": "Proper stress management is crucial for overall health and immunity. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#stress",
+      "#meditation",
+      "#lifestyle",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

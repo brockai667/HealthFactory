@@ -1,0 +1,69 @@
+{
+  "title": "Frozen Foods: Are They Really Less Nutritious?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Frozen fruits and veggies can pack just as much nutrition as fresh ones.",
+      "hook_top": "FROZEN DOESN'T MEAN LESS",
+      "query": "frozen fruits vegetables",
+      "query2": "frozen produce",
+      "kokoro_voice": ""
+    },
+    {
+      "role": "fact",
+      "text": "Frozen produce is often picked at peak ripeness and quickly frozen.",
+      "query": "fresh fruits being harvested",
+      "query2": "harvesting delicious fruits",
+      "chips": [
+        {
+          "t": "PICKED AT PEAK",
+          "on": "ripeness",
+          "style": "accent"
+        }
+      ],
+      "punch": "fresh"
+    },
+    {
+      "role": "fact",
+      "text": "These freezing methods preserve most vitamins and minerals effectively.",
+      "query": "nutritional information display",
+      "query2": "foods with nutrients",
+      "chips": [
+        {
+          "t": "VITAMINS PRESERVED",
+          "on": "vitamins",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Don't shy away from frozen foods – they can be just as healthy.",
+      "query": "frozen food aisle",
+      "query2": "shopping for frozen foods",
+      "label": "EMBRACE FROZEN FOODS",
+      "sub": "health in your freezer!",
+      "label_on": "frozen",
+      "punch": "health"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality.",
+      "query": "healthy frozen meal prep",
+      "query2": "colorful frozen dishes"
+    }
+  ],
+  "description": "Frozen fruits and vegetables can be just as nutritious as fresh ones. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#frozenfoods",
+    "#nutrition",
+    "#mealprep",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
