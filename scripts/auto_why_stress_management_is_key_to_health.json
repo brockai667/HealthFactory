@@ -1,0 +1,69 @@
+{
+  "title": "Why Stress Management is Key to Health",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Effective stress management can significantly improve your health and longevity.",
+      "hook_top": "STRESS MANAGEMENT SAVES LIVES",
+      "query": "peaceful person meditating",
+      "query2": "serene meditation",
+      "kokoro_voice": ""
+    },
+    {
+      "role": "fact",
+      "text": "High stress levels can lead to a range of health issues, including heart disease.",
+      "query": "person with stress-induced symptoms",
+      "query2": "stressful situations",
+      "chips": [
+        {
+          "t": "HEALTH ISSUES RISE",
+          "on": "stress",
+          "style": "accent"
+        }
+      ],
+      "punch": "heart"
+    },
+    {
+      "role": "fact",
+      "text": "Managing stress also enhances your immune system function.",
+      "query": "person focusing on health",
+      "query2": "healthy lifestyle habits",
+      "chips": [
+        {
+          "t": "BOOSTS IMMUNITY",
+          "on": "immune",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Incorporate stress-reduction practices like meditation into your routine.",
+      "query": "person meditating in nature",
+      "query2": "meditative calmness",
+      "label": "MEDITATION FOR STRESS",
+      "sub": "essential for health!",
+      "label_on": "stress",
+      "punch": "health"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "stress-free person outdoors",
+      "query2": "happy outdoor life"
+    }
+  ],
+  "description": "Proper stress management is crucial for overall health and immunity. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#stress",
+    "#meditation",
+    "#lifestyle",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

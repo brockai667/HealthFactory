@@ -1,0 +1,69 @@
+{
+  "title": "Movement Matters: Boost Your Mood Instantly",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Just a few minutes of movement can instantly lift your mood!",
+      "hook_top": "MOVE FOR A MOOD LIFT",
+      "query": "person exercising outdoors",
+      "query2": "happy movement",
+      "kokoro_voice": ""
+    },
+    {
+      "role": "fact",
+      "text": "Physical activity triggers the release of endorphins, the body's natural mood lifters.",
+      "query": "happy person exercising",
+      "query2": "exercise and happiness",
+      "chips": [
+        {
+          "t": "NATURAL ENDORPHINS",
+          "on": "endorphins",
+          "style": "accent"
+        }
+      ],
+      "punch": "lift"
+    },
+    {
+      "role": "fact",
+      "text": "Even short bursts of movement can combat stress and anxiety levels.",
+      "query": "person stretching in park",
+      "query2": "relaxed outdoor space",
+      "chips": [
+        {
+          "t": "REDUCES STRESS",
+          "on": "stress",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Aim for 10 minutes of movement each day to feel more energized.",
+      "query": "watch showing 10 minutes",
+      "query2": "exercise duration",
+      "label": "10 MINUTES DAILY",
+      "sub": "for an energy boost!",
+      "label_on": "minutes",
+      "punch": "energy"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "active person enjoying exercise",
+      "query2": "joyful physical activities"
+    }
+  ],
+  "description": "Just a few minutes of movement can lift your mood and reduce stress. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#movement",
+    "#mood",
+    "#fitness",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
