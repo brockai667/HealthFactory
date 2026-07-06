@@ -2123,5 +2123,343 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Can Your Breakfast Destroy Your Day?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Your breakfast choices can set you up for success or failure.",
+        "hook_top": "BREAKFAST CAN BREAK YOU",
+        "query": "plate of unhealthy breakfast",
+        "query2": "morning breakfast table",
+        "kokoro_voice": "am_michael"
+      },
+      {
+        "role": "fact",
+        "text": "High sugar breakfasts spike your blood sugar, leading to energy crashes.",
+        "query": "sugary breakfast items",
+        "query2": "fruity breakfast table",
+        "chips": [
+          {
+            "t": "AVOID SUGAR",
+            "on": "breakfast",
+            "style": "accent"
+          }
+        ],
+        "punch": "energy"
+      },
+      {
+        "role": "fact",
+        "text": "Balanced meals with protein and fiber promote sustained energy throughout the day.",
+        "query": "healthy breakfast items",
+        "query2": "oatmeal and fruit",
+        "chips": [
+          {
+            "t": "SUSTAINED ENERGY",
+            "on": "protein",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Choose whole grains, lean proteins, and fruits for lasting energy.",
+        "query": "healthy breakfast choices",
+        "query2": "colorful healthy plate",
+        "label": "SMART CHOICES",
+        "sub": "for lasting energy",
+        "label_on": "choose",
+        "punch": "energy"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "healthy person enjoying breakfast",
+        "query2": "happy healthy eating"
+      }
+    ],
+    "description": "Your breakfast can influence your energy and focus for the day. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#breakfast",
+      "#energy",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Is Your Water Intake Enough?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Most people are not drinking enough water daily.",
+        "hook_top": "ARE YOU DEHYDRATED",
+        "query": "person drinking water",
+        "query2": "clear water glass",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Even mild dehydration can affect your mood and energy levels.",
+        "query": "person tired at work",
+        "query2": "office mood",
+        "chips": [
+          {
+            "t": "BOOST MOOD",
+            "on": "dehydration",
+            "style": "accent"
+          }
+        ],
+        "punch": "mood"
+      },
+      {
+        "role": "fact",
+        "text": "Drinking water before meals can aid digestion and prevent overeating.",
+        "query": "water before meal",
+        "query2": "dinner table water",
+        "chips": [
+          {
+            "t": "EASY DIGESTION",
+            "on": "meals",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim to drink water consistently throughout the day, not just when you're thirsty.",
+        "query": "person drinking water regularly",
+        "query2": "hydration reminder",
+        "label": "STAY HYDRATED",
+        "sub": "don't wait for thirst",
+        "label_on": "aim",
+        "punch": "hydrate"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "healthy person staying hydrated",
+        "query2": "fresh outdoor scene"
+      }
+    ],
+    "description": "Proper hydration is key for mood and digestion. Follow for daily health tips!",
+    "hashtags": [
+      "#hydration",
+      "#wellness",
+      "#water",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why You Need to Move Every Hour",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Sitting for too long may harm your health more than you think.",
+        "hook_top": "SITTING IS THE ENEMY",
+        "query": "person sitting at desk",
+        "query2": "stressed office worker",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Prolonged sitting increases the risk of chronic diseases over time.",
+        "query": "unhealthy lifestyle",
+        "query2": "people sedentary lifestyle",
+        "chips": [
+          {
+            "t": "CHRONIC RISK",
+            "on": "sitting",
+            "style": "accent"
+          }
+        ],
+        "punch": "risk"
+      },
+      {
+        "role": "fact",
+        "text": "Moving for just a few minutes each hour can reverse some of these effects.",
+        "query": "person stretching at desk",
+        "query2": "stretching office worker",
+        "chips": [
+          {
+            "t": "MOVE MORE",
+            "on": "moving",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Set a timer to remind you to stand up and stretch every hour.",
+        "query": "person setting timer",
+        "query2": "stretching away from desk",
+        "label": "HOURLY REMINDER",
+        "sub": "for better health",
+        "label_on": "remind",
+        "punch": "stand"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "energetic person moving",
+        "query2": "active lifestyle scene"
+      }
+    ],
+    "description": "Regular movement can reduce health risks related to sitting too much. Follow for daily health tips!",
+    "hashtags": [
+      "#movement",
+      "#health",
+      "#wellness",
+      "#active",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How Stress Affects Your Body",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Did you know chronic stress can change your brain structure?",
+        "hook_top": "STRESS CHANGES YOU",
+        "query": "stressed out person",
+        "query2": "person overwhelmed at desk",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "High stress levels can reduce the size of your hippocampus, affecting memory.",
+        "query": "brain scan images",
+        "query2": "human brain anatomical",
+        "chips": [
+          {
+            "t": "MEMORY LOSS",
+            "on": "stress",
+            "style": "accent"
+          }
+        ],
+        "punch": "memory"
+      },
+      {
+        "role": "fact",
+        "text": "Chronic stress can weaken your immune response, making you more susceptible to illness.",
+        "query": "person sick on couch",
+        "query2": "sick person indoor",
+        "chips": [
+          {
+            "t": "WEAK IMMUNITY",
+            "on": "immune",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Incorporate relaxation techniques like breathing exercises to combat stress.",
+        "query": "person practicing breathing",
+        "query2": "person meditating",
+        "label": "FIGHT STRESS",
+        "sub": "with relaxation techniques",
+        "label_on": "relax",
+        "punch": "stress"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality.",
+        "query": "relaxed person outdoors",
+        "query2": "tranquil nature setting"
+      }
+    ],
+    "description": "Chronic stress can impact your brain and immune system. Follow for daily health tips!",
+    "hashtags": [
+      "#stressmanagement",
+      "#wellness",
+      "#mentalhealth",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Eating More Fiber? It’s Key!",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Increasing your fiber intake can boost your health dramatically.",
+        "hook_top": "FIBER FOR BETTER HEALTH",
+        "query": "variety of fiber foods",
+        "query2": "colorful fruits and veggies",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Fiber-rich foods can help regulate blood sugar levels and improve digestion.",
+        "query": "healthy digestive foods",
+        "query2": "whole grains vegetables",
+        "chips": [
+          {
+            "t": "REGULATE SUGAR",
+            "on": "fiber",
+            "style": "accent"
+          }
+        ],
+        "punch": "digestion"
+      },
+      {
+        "role": "fact",
+        "text": "High fiber diets are linked to a lower risk of heart disease.",
+        "query": "heart disease awareness",
+        "query2": "healthy heart",
+        "chips": [
+          {
+            "t": "HEART HEALTH",
+            "on": "disease",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim for at least 25-30 grams of fiber daily from various sources.",
+        "query": "high fiber meal prep",
+        "query2": "fiber-rich foods",
+        "label": "DAILY GOAL",
+        "sub": "for optimal health",
+        "label_on": "aim",
+        "punch": "fiber"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "happy person eating healthy",
+        "query2": "positive healthy eating"
+      }
+    ],
+    "description": "Eating more fiber can significantly improve digestion and heart health. Follow for daily health tips!",
+    "hashtags": [
+      "#fiber",
+      "#health",
+      "#nutrition",
+      "#wellness",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

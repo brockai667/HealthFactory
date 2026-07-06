@@ -1,0 +1,67 @@
+{
+  "title": "Is Your Water Intake Enough?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Most people are not drinking enough water daily.",
+      "hook_top": "ARE YOU DEHYDRATED",
+      "query": "person drinking water",
+      "query2": "clear water glass",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Even mild dehydration can affect your mood and energy levels.",
+      "query": "person tired at work",
+      "query2": "office mood",
+      "chips": [
+        {
+          "t": "BOOST MOOD",
+          "on": "dehydration",
+          "style": "accent"
+        }
+      ],
+      "punch": "mood"
+    },
+    {
+      "role": "fact",
+      "text": "Drinking water before meals can aid digestion and prevent overeating.",
+      "query": "water before meal",
+      "query2": "dinner table water",
+      "chips": [
+        {
+          "t": "EASY DIGESTION",
+          "on": "meals",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Aim to drink water consistently throughout the day, not just when you're thirsty.",
+      "query": "person drinking water regularly",
+      "query2": "hydration reminder",
+      "label": "STAY HYDRATED",
+      "sub": "don't wait for thirst",
+      "label_on": "aim",
+      "punch": "hydrate"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "healthy person staying hydrated",
+      "query2": "fresh outdoor scene"
+    }
+  ],
+  "description": "Proper hydration is key for mood and digestion. Follow for daily health tips!",
+  "hashtags": [
+    "#hydration",
+    "#wellness",
+    "#water",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

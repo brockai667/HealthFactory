@@ -1,0 +1,68 @@
+{
+  "title": "Can Your Breakfast Destroy Your Day?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Your breakfast choices can set you up for success or failure.",
+      "hook_top": "BREAKFAST CAN BREAK YOU",
+      "query": "plate of unhealthy breakfast",
+      "query2": "morning breakfast table",
+      "kokoro_voice": "am_michael"
+    },
+    {
+      "role": "fact",
+      "text": "High sugar breakfasts spike your blood sugar, leading to energy crashes.",
+      "query": "sugary breakfast items",
+      "query2": "fruity breakfast table",
+      "chips": [
+        {
+          "t": "AVOID SUGAR",
+          "on": "breakfast",
+          "style": "accent"
+        }
+      ],
+      "punch": "energy"
+    },
+    {
+      "role": "fact",
+      "text": "Balanced meals with protein and fiber promote sustained energy throughout the day.",
+      "query": "healthy breakfast items",
+      "query2": "oatmeal and fruit",
+      "chips": [
+        {
+          "t": "SUSTAINED ENERGY",
+          "on": "protein",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Choose whole grains, lean proteins, and fruits for lasting energy.",
+      "query": "healthy breakfast choices",
+      "query2": "colorful healthy plate",
+      "label": "SMART CHOICES",
+      "sub": "for lasting energy",
+      "label_on": "choose",
+      "punch": "energy"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "healthy person enjoying breakfast",
+      "query2": "happy healthy eating"
+    }
+  ],
+  "description": "Your breakfast can influence your energy and focus for the day. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#breakfast",
+    "#energy",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
