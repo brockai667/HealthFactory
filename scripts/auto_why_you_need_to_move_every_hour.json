@@ -1,0 +1,68 @@
+{
+  "title": "Why You Need to Move Every Hour",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Sitting for too long may harm your health more than you think.",
+      "hook_top": "SITTING IS THE ENEMY",
+      "query": "person sitting at desk",
+      "query2": "stressed office worker",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Prolonged sitting increases the risk of chronic diseases over time.",
+      "query": "unhealthy lifestyle",
+      "query2": "people sedentary lifestyle",
+      "chips": [
+        {
+          "t": "CHRONIC RISK",
+          "on": "sitting",
+          "style": "accent"
+        }
+      ],
+      "punch": "risk"
+    },
+    {
+      "role": "fact",
+      "text": "Moving for just a few minutes each hour can reverse some of these effects.",
+      "query": "person stretching at desk",
+      "query2": "stretching office worker",
+      "chips": [
+        {
+          "t": "MOVE MORE",
+          "on": "moving",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Set a timer to remind you to stand up and stretch every hour.",
+      "query": "person setting timer",
+      "query2": "stretching away from desk",
+      "label": "HOURLY REMINDER",
+      "sub": "for better health",
+      "label_on": "remind",
+      "punch": "stand"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "energetic person moving",
+      "query2": "active lifestyle scene"
+    }
+  ],
+  "description": "Regular movement can reduce health risks related to sitting too much. Follow for daily health tips!",
+  "hashtags": [
+    "#movement",
+    "#health",
+    "#wellness",
+    "#active",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

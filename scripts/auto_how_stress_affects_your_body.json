@@ -1,0 +1,67 @@
+{
+  "title": "How Stress Affects Your Body",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Did you know chronic stress can change your brain structure?",
+      "hook_top": "STRESS CHANGES YOU",
+      "query": "stressed out person",
+      "query2": "person overwhelmed at desk",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "High stress levels can reduce the size of your hippocampus, affecting memory.",
+      "query": "brain scan images",
+      "query2": "human brain anatomical",
+      "chips": [
+        {
+          "t": "MEMORY LOSS",
+          "on": "stress",
+          "style": "accent"
+        }
+      ],
+      "punch": "memory"
+    },
+    {
+      "role": "fact",
+      "text": "Chronic stress can weaken your immune response, making you more susceptible to illness.",
+      "query": "person sick on couch",
+      "query2": "sick person indoor",
+      "chips": [
+        {
+          "t": "WEAK IMMUNITY",
+          "on": "immune",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Incorporate relaxation techniques like breathing exercises to combat stress.",
+      "query": "person practicing breathing",
+      "query2": "person meditating",
+      "label": "FIGHT STRESS",
+      "sub": "with relaxation techniques",
+      "label_on": "relax",
+      "punch": "stress"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality.",
+      "query": "relaxed person outdoors",
+      "query2": "tranquil nature setting"
+    }
+  ],
+  "description": "Chronic stress can impact your brain and immune system. Follow for daily health tips!",
+  "hashtags": [
+    "#stressmanagement",
+    "#wellness",
+    "#mentalhealth",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
