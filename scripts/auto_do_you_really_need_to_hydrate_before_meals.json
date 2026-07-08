@@ -1,0 +1,69 @@
+{
+  "title": "Do You Really Need to Hydrate Before Meals?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Drinking before meals can help with digestion and satiety.",
+      "hook_top": "HYDRATION HELPS DIGESTION",
+      "query": "glasses of water on table",
+      "query2": "water pouring glass",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Water consumption before meals can lower overeating by making you feel fuller.",
+      "query": "person drinking water before meal",
+      "query2": "dinner table with water",
+      "chips": [
+        {
+          "t": "FEEL FULL FASTER",
+          "on": "water",
+          "style": "accent"
+        }
+      ],
+      "punch": "fuller"
+    },
+    {
+      "role": "fact",
+      "text": "Staying hydrated helps maintain optimal digestion and nutrient absorption.",
+      "query": "healthy foods on table",
+      "query2": "colorful nutritious spread",
+      "chips": [
+        {
+          "t": "OPTIMAL DIGESTION",
+          "on": "hydrated",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Try drinking a glass of water about 30 minutes before meals.",
+      "query": "person pouring water",
+      "query2": "water with slice of lemon",
+      "label": "PRE-MEAL HYDRATION",
+      "sub": "optimize your digestion!",
+      "label_on": "drinking",
+      "punch": "optimize"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "person drinking water outdoors",
+      "query2": "clear water glass"
+    }
+  ],
+  "description": "Drinking water before meals supports digestion and helps control appetite. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#hydration",
+    "#digestion",
+    "#appetite",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

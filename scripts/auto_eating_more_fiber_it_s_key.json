@@ -1,0 +1,68 @@
+{
+  "title": "Eating More Fiber? It’s Key!",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Increasing your fiber intake can boost your health dramatically.",
+      "hook_top": "FIBER FOR BETTER HEALTH",
+      "query": "variety of fiber foods",
+      "query2": "colorful fruits and veggies",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Fiber-rich foods can help regulate blood sugar levels and improve digestion.",
+      "query": "healthy digestive foods",
+      "query2": "whole grains vegetables",
+      "chips": [
+        {
+          "t": "REGULATE SUGAR",
+          "on": "fiber",
+          "style": "accent"
+        }
+      ],
+      "punch": "digestion"
+    },
+    {
+      "role": "fact",
+      "text": "High fiber diets are linked to a lower risk of heart disease.",
+      "query": "heart disease awareness",
+      "query2": "healthy heart",
+      "chips": [
+        {
+          "t": "HEART HEALTH",
+          "on": "disease",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Aim for at least 25-30 grams of fiber daily from various sources.",
+      "query": "high fiber meal prep",
+      "query2": "fiber-rich foods",
+      "label": "DAILY GOAL",
+      "sub": "for optimal health",
+      "label_on": "aim",
+      "punch": "fiber"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "happy person eating healthy",
+      "query2": "positive healthy eating"
+    }
+  ],
+  "description": "Eating more fiber can significantly improve digestion and heart health. Follow for daily health tips!",
+  "hashtags": [
+    "#fiber",
+    "#health",
+    "#nutrition",
+    "#wellness",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
