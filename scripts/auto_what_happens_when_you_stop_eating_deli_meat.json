@@ -1,0 +1,69 @@
+{
+  "title": "What Happens When You Stop Eating Deli Meat?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Cutting deli meat may have unexpected benefits for your health.",
+      "hook_top": "SKIP THE DELI MEAT",
+      "query": "deli meats on a platter",
+      "query2": "sandwich on a table",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Deli meats often contain preservatives and sodium, which can impact your heart health.",
+      "query": "person checking food label",
+      "query2": "close up of processed meat",
+      "chips": [
+        {
+          "t": "HEART HEALTH MATTERS",
+          "on": "sodium",
+          "style": "accent"
+        }
+      ],
+      "punch": "impact"
+    },
+    {
+      "role": "fact",
+      "text": "Eliminating processed meats can lower cancer risk according to some studies.",
+      "query": "healthy food choices",
+      "query2": "fresh vegetables and fruit",
+      "chips": [
+        {
+          "t": "LOWER CANCER RISK",
+          "on": "eliminating",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Consider healthier protein options like grilled chicken or legumes.",
+      "query": "grilled chicken meal prep",
+      "query2": "healthy protein sources",
+      "label": "HEALTHIER ALTERNATIVES",
+      "sub": "improve your diet!",
+      "label_on": "consider",
+      "punch": "healthier"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "person enjoying healthy meal",
+      "query2": "happy eating healthy"
+    }
+  ],
+  "description": "Cutting out deli meat can improve heart health and lower cancer risk. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#deli",
+    "#hearthealth",
+    "#diet",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -2383,5 +2383,418 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Zero Prep, High Protein Meals You Need",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Busy days? You can still eat protein-rich meals without prep!",
+        "hook_top": "ZERO PREP HIGH PROTEIN",
+        "query": "meal prep protein foods",
+        "query2": "healthy meal ideas",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Canned beans and chickpeas are affordable, protein-packed staples.",
+        "query": "canned beans shelf",
+        "query2": "chickpeas in kitchen",
+        "chips": [
+          {
+            "t": "AFFORDABLE PROTEIN",
+            "on": "staples",
+            "style": "accent"
+          }
+        ],
+        "punch": "staples"
+      },
+      {
+        "role": "fact",
+        "text": "Rotisserie chicken is a no-cook option that's delicious and versatile.",
+        "query": "rotisserie chicken display",
+        "query2": "grocery store chicken",
+        "chips": [
+          {
+            "t": "DELICIOUS AND EASY",
+            "on": "option",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Grab ready-to-eat Greek yogurt for a quick protein boost!",
+        "query": "greek yogurt fridge",
+        "query2": "healthy snack yogurt",
+        "label": "EASY PROTEIN BOOST",
+        "sub": "grab and go!",
+        "label_on": "yogurt",
+        "punch": "grab"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "healthy meal on table",
+        "query2": "colorful meal spread"
+      }
+    ],
+    "description": "Busy days don't mean sacrificing protein! Learn about zero prep meals that keep you nourished. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#mealprep",
+      "#highprotein",
+      "#quickmeals",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How Does Stress Affect You?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Stress affects more than just your mood; it impacts your body too!",
+        "hook_top": "STRESS IMPACTS YOU",
+        "query": "stress effects body",
+        "query2": "stressed person",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Chronic stress can lead to high blood pressure and heart issues.",
+        "query": "high blood pressure symptoms",
+        "query2": "heart health infographic",
+        "chips": [
+          {
+            "t": "HEART HEALTH",
+            "on": "stress",
+            "style": "accent"
+          }
+        ],
+        "punch": "health"
+      },
+      {
+        "role": "fact",
+        "text": "It can also impact your sleep quality and lead to insomnia.",
+        "query": "person insomnia",
+        "query2": "tired person in bed",
+        "chips": [
+          {
+            "t": "SLEEP QUALITY",
+            "on": "insomnia",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Use mindfulness and breathing techniques to manage stress effectively.",
+        "query": "person meditating outdoors",
+        "query2": "outdoor meditation scene",
+        "label": "MANAGE STRESS",
+        "sub": "with mindfulness!",
+        "label_on": "breathe",
+        "punch": "manage"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "calm person breath",
+        "query2": "peaceful nature"
+      }
+    ],
+    "description": "Stress impacts both your mind and body in significant ways. Learn how to manage it effectively with mindfulness. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#stressmanagement",
+      "#mindfulness",
+      "#wellbeing",
+      "#mentalhealth",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Is Cooking with a Wok Healthy?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Cooking with a wok might be one of the healthiest ways to stir-fry!",
+        "hook_top": "WOK COOKING HEALTHY",
+        "query": "cooking with wok",
+        "query2": "stir fry vegetables",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Wok cooking uses less oil compared to traditional frying methods.",
+        "query": "wok with vegetables",
+        "query2": "oil in frying pan",
+        "chips": [
+          {
+            "t": "LESS OIL NEEDED",
+            "on": "cooking",
+            "style": "accent"
+          }
+        ],
+        "punch": "oil"
+      },
+      {
+        "role": "fact",
+        "text": "It retains nutrients in vegetables better due to quick cooking times.",
+        "query": "fresh vegetables in wok",
+        "query2": "colorful veggie stir fry",
+        "chips": [
+          {
+            "t": "NUTRIENT PRESERVATION",
+            "on": "cooking",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Choose a variety of vegetables for an even healthier meal.",
+        "query": "variety of vegetables",
+        "query2": "assorted veggie platter",
+        "label": "VARIETY IS KEY",
+        "sub": "for better nutrition!",
+        "label_on": "vegetables",
+        "punch": "variety"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "person cooking healthy",
+        "query2": "cooking delicious meal"
+      }
+    ],
+    "description": "Wok cooking can be healthier due to less oil and quick nutrition retention. Learn how to stir-fry effectively! Follow for daily health tips!",
+    "hashtags": [
+      "#cooking",
+      "#health",
+      "#wok",
+      "#stirfry",
+      "#nutrition",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Can Your Lunch Damage Your Day?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Your lunch can make or break your entire afternoon mood and energy!",
+        "hook_top": "LUNCH CAN BREAK YOU",
+        "query": "unhealthy lunch plate",
+        "query2": "dinner table",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Foods high in sugar can lead to an energy crash later in the day.",
+        "query": "sugar high foods",
+        "query2": "sweets and candy",
+        "chips": [
+          {
+            "t": "SUGAR CRASH",
+            "on": "energy",
+            "style": "accent"
+          }
+        ],
+        "punch": "sugar"
+      },
+      {
+        "role": "fact",
+        "text": "Balanced meals with protein and fiber help stabilize energy levels.",
+        "query": "balanced healthy meal",
+        "query2": "healthy plate lunch",
+        "chips": [
+          {
+            "t": "STABLE ENERGY",
+            "on": "balanced meal",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Focus on whole grains, veggies, and lean protein for lunch.",
+        "query": "healthy lunch spread",
+        "query2": "colorful lunch plate",
+        "label": "SMART LUNCHES",
+        "sub": "for lasting energy!",
+        "label_on": "whole grains",
+        "punch": "smart"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "happy person enjoying meal",
+        "query2": "satisfied eating"
+      }
+    ],
+    "description": "Lunch has the power to influence your mood and productivity. Learn how to choose smart meals for sustained energy! Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#lunch",
+      "#nutrition",
+      "#energy",
+      "#healthytips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How Water Intake Affects Your Mood",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Did you know that being dehydrated can negatively affect your mood?",
+        "hook_top": "WATER MOOD CONNECTION",
+        "query": "person drinking water",
+        "query2": "hydration concept",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Even mild dehydration can cause fatigue and irritability.",
+        "query": "fatigued person",
+        "query2": "uncomfortable feeling",
+        "chips": [
+          {
+            "t": "FATIGUE & IRRITABILITY",
+            "on": "dehydration",
+            "style": "accent"
+          }
+        ],
+        "punch": "fatigue"
+      },
+      {
+        "role": "fact",
+        "text": "Hydration supports cognitive function and keeps you alert.",
+        "query": "person studying hydrated",
+        "query2": "student drinking water",
+        "chips": [
+          {
+            "t": "STAY ALERT",
+            "on": "hydration",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim for hydration throughout the day to maintain your mood!",
+        "query": "glass of water on table",
+        "query2": "sipping water",
+        "label": "STAY HYDRATED",
+        "sub": "for a better mood!",
+        "label_on": "hydration",
+        "punch": "hydrated"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "happy hydrated person",
+        "query2": "smiling while drinking"
+      }
+    ],
+    "description": "Hydration plays a critical role in your mood and energy. Discover how staying hydrated can boost your well-being! Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#hydration",
+      "#mood",
+      "#wellness",
+      "#stayhydrated",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Is Your Dinner Harming Your Sleep?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "What you eat for dinner could be ruining your sleep quality!",
+        "hook_top": "DINNER AFFECTS SLEEP",
+        "query": "unhealthy dinner plate",
+        "query2": "person unable to sleep",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Heavy, rich foods take longer to digest and can disrupt sleep.",
+        "query": "rich food display",
+        "query2": "unpleasant meal experience",
+        "chips": [
+          {
+            "t": "DISRUPT SLEEP",
+            "on": "heavy foods",
+            "style": "accent"
+          }
+        ],
+        "punch": "disrupt"
+      },
+      {
+        "role": "fact",
+        "text": "Spicy foods can lead to indigestion and restlessness at night.",
+        "query": "spicy food plate",
+        "query2": "spicy pepper closeup",
+        "chips": [
+          {
+            "t": "INDIGESTION CAUSE",
+            "on": "spicy foods",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim for light, nutrient-rich meals in the evening for better rest.",
+        "query": "light dinner plate",
+        "query2": "healthy evening meal",
+        "label": "LIGHT DINNER FOCUS",
+        "sub": "for better sleep!",
+        "label_on": "healthy choice",
+        "punch": "light"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "happy person sleeping",
+        "query2": "peaceful sleep scene"
+      }
+    ],
+    "description": "Your dinner choices may be affecting your sleep quality. Discover how to eat better in the evening for restful sleep! Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#dinner",
+      "#sleep",
+      "#nutrition",
+      "#wellness",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

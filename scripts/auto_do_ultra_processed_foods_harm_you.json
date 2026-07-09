@@ -1,0 +1,69 @@
+{
+  "title": "Do Ultra-Processed Foods Harm You?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Ultra-processed foods may not be as harmful as you think.",
+      "hook_top": "UNPACKING FOOD MYTHS",
+      "query": "various processed foods",
+      "query2": "fast food spread",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Not all processed foods are unhealthy; some can be part of balanced diets.",
+      "query": "grocery cart with processed items",
+      "query2": "aisle with healthy options",
+      "chips": [
+        {
+          "t": "NOT ALL BAD",
+          "on": "processed foods",
+          "style": "accent"
+        }
+      ],
+      "punch": "balanced"
+    },
+    {
+      "role": "fact",
+      "text": "Focus on moderation and overall diet quality instead of labeling foods.",
+      "query": "meal prep containers",
+      "query2": "foods on a kitchen counter",
+      "chips": [
+        {
+          "t": "MODERATION IS KEY",
+          "on": "diet",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Learn to read labels to make informed choices about food.",
+      "query": "person reading nutrition label",
+      "query2": "close up of label",
+      "label": "LABEL WISELY",
+      "sub": "knowing helps health!",
+      "label_on": "learn",
+      "punch": "choices"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health.",
+      "query": "happy person cooking",
+      "query2": "meal prep in kitchen"
+    }
+  ],
+  "description": "Moderation is key when it comes to processed foods—some can fit into a balanced diet. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#foodmyths",
+    "#moderation",
+    "#diet",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
