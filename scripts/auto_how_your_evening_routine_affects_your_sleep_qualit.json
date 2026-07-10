@@ -1,0 +1,69 @@
+{
+  "title": "How Your Evening Routine Affects Your Sleep Quality",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "A calming evening routine can transform your sleep quality.",
+      "hook_top": "BETTER SLEEP AHEAD",
+      "query": "person relaxing in evening",
+      "query2": "cozy evening room",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Activities like reading or meditating before bed can signal your brain to wind down.",
+      "query": "person reading in bed",
+      "query2": "quiet reading nook",
+      "chips": [
+        {
+          "t": "SIGNAL TO WIND DOWN",
+          "on": "activities",
+          "style": "accent"
+        }
+      ],
+      "punch": "wind down"
+    },
+    {
+      "role": "fact",
+      "text": "Limiting screen time before bed can reduce sleep disturbances.",
+      "query": "person putting away phone",
+      "query2": "phone turned off in drawer",
+      "chips": [
+        {
+          "t": "LESS DISTURBANCE",
+          "on": "screen time",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Create a calming ritual to help transition from day to night.",
+      "query": "preparing a bedtime drink",
+      "query2": "dim bedroom atmosphere",
+      "label": "CALMING EVENING RITUAL",
+      "sub": "your sleep deserves it!",
+      "label_on": "create",
+      "punch": "calming"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health.",
+      "query": "person cozy in bed",
+      "query2": "happy person sleeping"
+    }
+  ],
+  "description": "Crafting a calming evening routine significantly enhances sleep quality. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#sleep",
+    "#eveningroutine",
+    "#mentalhealth",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

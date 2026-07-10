@@ -2796,5 +2796,143 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Are Fortified Foods Beneficial?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Fortified foods might boost your nutrition more than you think!",
+        "hook_top": "FORTIFIED FOODS POWER",
+        "query": "fortified foods benefits",
+        "query2": "fortified cereals",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Fortified foods can provide essential nutrients that may be lacking in your diet.",
+        "query": "fortified food labels",
+        "query2": "nutritional labels",
+        "chips": [
+          {
+            "t": "ESSENTIAL NUTRIENTS",
+            "on": "fortified",
+            "style": "accent"
+          }
+        ],
+        "punch": "nutrients"
+      },
+      {
+        "role": "fact",
+        "text": "For example, vitamin D is often added to milk and cereals to prevent deficiencies.",
+        "query": "milk cereal fortified",
+        "query2": "vitamin D supplements",
+        "chips": [
+          {
+            "t": "VITAMIN D BOOST",
+            "on": "vitamin",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Check labels to see how fortified your favorite foods are!",
+        "query": "checking nutrition labels supermarket",
+        "query2": "shopping for healthy food",
+        "label": "CHECK LABELS!",
+        "sub": "for improved nutrition",
+        "label_on": "labels",
+        "punch": "check"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "healthy person shopping",
+        "query2": "grocery shopping fresh produce"
+      }
+    ],
+    "description": "Explore how fortified foods can enhance your nutrition. Follow for daily health tips!",
+    "hashtags": [
+      "#nutrition",
+      "#health",
+      "#fortifiedfoods",
+      "#wellness",
+      "#vitamins",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Can Cooking Methods Affect Health?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "The cooking method you choose could impact your health!",
+        "hook_top": "COOKING MATTERS",
+        "query": "cooking healthy method",
+        "query2": "various cooking methods",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Steaming vegetables can retain more nutrients compared to boiling.",
+        "query": "steamed vegetables plate",
+        "query2": "boiled vegetables",
+        "chips": [
+          {
+            "t": "RETENTION MATTERS",
+            "on": "nutrients",
+            "style": "accent"
+          }
+        ],
+        "punch": "steaming"
+      },
+      {
+        "role": "fact",
+        "text": "Grilling can help reduce fat content while adding flavor to your meals.",
+        "query": "grilled vegetables meat",
+        "query2": "grilling process",
+        "chips": [
+          {
+            "t": "REDUCES FAT",
+            "on": "grilling",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Choose healthier cooking methods for better nutrition overall!",
+        "query": "healthy cooking methods",
+        "query2": "cooking techniques",
+        "label": "COOK HEALTHY!",
+        "sub": "for better nutrition",
+        "label_on": "methods",
+        "punch": "cook"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "healthy cooking kitchen",
+        "query2": "cooking nutritious meals"
+      }
+    ],
+    "description": "Discover how different cooking methods can impact the health of your meals. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#cooking",
+      "#nutrition",
+      "#wellness",
+      "#healthyfood",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

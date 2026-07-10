@@ -1,0 +1,68 @@
+{
+  "title": "Can You Trust Food Labels?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Food labels can be misleading—know what to look for.",
+      "hook_top": "TRUST BUT VERIFY",
+      "query": "variety of food labels",
+      "query2": "grocery store aisle",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Terms like 'natural' and 'organic' can sometimes lack regulation.",
+      "query": "close up of natural label",
+      "query2": "organic produce",
+      "chips": [
+        {
+          "t": "UNDERSTAND TERMS",
+          "on": "natural",
+          "style": "accent"
+        }
+      ],
+      "punch": "verify"
+    },
+    {
+      "role": "fact",
+      "text": "Nutrition facts must be accurate, but serving sizes can be misleading.",
+      "query": "person checking nutrition facts",
+      "query2": "nutrition facts close up",
+      "chips": [
+        {
+          "t": "MISLEADING SERVINGS",
+          "on": "sizes",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Always read labels carefully to ensure informed choices.",
+      "query": "person examining labels",
+      "query2": "label close up on shelf",
+      "label": "READ LABELS!",
+      "sub": "make informed choices!",
+      "label_on": "always",
+      "punch": "informed"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "happy shopping",
+      "query2": "people shopping together"
+    }
+  ],
+  "description": "Understanding food labels helps you make better dietary choices. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#foodlabels",
+    "#nutrition",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
