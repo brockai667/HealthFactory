@@ -1,0 +1,69 @@
+{
+  "title": "Unlock Higher Energy with Movement",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Regular movement can skyrocket your energy levels throughout the day.",
+      "hook_top": "BOOST ENERGY WITH MOVEMENT",
+      "query": "people exercising outside",
+      "query2": "happy group yoga",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Physical activity increases your endorphin levels, improving mood and energy.",
+      "query": "happy people exercising",
+      "query2": "group of friends enjoying fitness",
+      "chips": [
+        {
+          "t": "INCREASE ENDORPHINS",
+          "on": "activity",
+          "style": "accent"
+        }
+      ],
+      "punch": "increase"
+    },
+    {
+      "role": "fact",
+      "text": "Just a short walk can refresh your mind and reduce fatigue.",
+      "query": "person walking in park",
+      "query2": "peaceful park walking",
+      "chips": [
+        {
+          "t": "REFRESH YOUR MIND",
+          "on": "walk",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Aim for 10 minutes of movement every hour to maintain energy.",
+      "query": "person taking a short walk",
+      "query2": "quick walk in the neighborhood",
+      "label": "SHORT MOVEMENT BREAKS",
+      "sub": "energize your day!",
+      "label_on": "aim",
+      "punch": "energize"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "person enjoying nature",
+      "query2": "people in nature happy"
+    }
+  ],
+  "description": "Incorporating movement into your day boosts energy and mood. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#movement",
+    "#energy",
+    "#fitness",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Can Food Waste Be Your Fiber Source?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Food waste can actually be a surprising source of fiber!",
+      "hook_top": "SURPRISING FIBER SOURCE",
+      "query": "leftover vegetable scraps",
+      "query2": "compost bin",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Peels and stems from fruits and vegetables contain valuable fiber.",
+      "query": "fruit and vegetable scraps",
+      "query2": "healthy composting",
+      "chips": [
+        {
+          "t": "VALUE IN SCRAPS",
+          "on": "peels",
+          "style": "accent"
+        }
+      ],
+      "punch": "value"
+    },
+    {
+      "role": "fact",
+      "text": "Incorporating these leftovers can enhance your fiber intake easily.",
+      "query": "person adding scraps to meal",
+      "query2": "creative cooking meal",
+      "chips": [
+        {
+          "t": "INCREASE FIBER LEVEL",
+          "on": "incorporating",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Use food scraps in smoothies or homemade broths for extra fiber.",
+      "query": "making smoothie with scraps",
+      "query2": "healthy delicious smoothie",
+      "label": "CRAFT SMART MEALS!",
+      "sub": "reduce waste, boost fiber!",
+      "label_on": "use",
+      "punch": "smart"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "person enjoying smoothie",
+      "query2": "happy healthy drink"
+    }
+  ],
+  "description": "Using food scraps can increase fiber intake while reducing waste. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#fiber",
+    "#foodwaste",
+    "#sustainable",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
