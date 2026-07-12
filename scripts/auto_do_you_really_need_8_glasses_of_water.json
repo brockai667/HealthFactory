@@ -1,0 +1,69 @@
+{
+  "title": "Do You Really Need 8 Glasses of Water?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The 8-glasses rule might not apply to everyone’s hydration needs.",
+      "hook_top": "HYDRATION MYTH BUSTED",
+      "query": "water bottles on table",
+      "query2": "various drinks display",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Hydration needs vary based on factors like age, activity, and climate.",
+      "query": "person exercising in the sun",
+      "query2": "people in outdoor heat",
+      "chips": [
+        {
+          "t": "VARIES FOR YOU",
+          "on": "needs",
+          "style": "accent"
+        }
+      ],
+      "punch": "varies"
+    },
+    {
+      "role": "fact",
+      "text": "Foods can also contribute to hydration—fruits and vegetables are great sources.",
+      "query": "water-rich fruits and veggies",
+      "query2": "colorful fruit bowl",
+      "chips": [
+        {
+          "t": "FOODS COUNT TOO",
+          "on": "foods",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Listen to your body: drink when thirsty and adjust for your activity level.",
+      "query": "person drinking water after exercise",
+      "query2": "hydrating after workouts",
+      "label": "LISTEN TO YOUR BODY",
+      "sub": "stay mindful!",
+      "label_on": "listen",
+      "punch": "mindful"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "person drinking water outside",
+      "query2": "refreshing drink outdoors"
+    }
+  ],
+  "description": "Hydration needs fluctuate for each individual; listen to your body. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#hydration",
+    "#myths",
+    "#stayhydrated",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

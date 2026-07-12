@@ -1,0 +1,69 @@
+{
+  "title": "The Surprising Effects of Laughing",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Laughing regularly can significantly reduce stress levels.",
+      "hook_top": "LAUGHTER IS MEDICINE",
+      "query": "people laughing together",
+      "query2": "friends having fun",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Laughter triggers the release of endorphins, promoting a sense of well-being.",
+      "query": "happy person laughing",
+      "query2": "people enjoying comedy",
+      "chips": [
+        {
+          "t": "ENDORPHIN RELEASE",
+          "on": "laughter",
+          "style": "accent"
+        }
+      ],
+      "punch": "well-being"
+    },
+    {
+      "role": "fact",
+      "text": "It can also lower cortisol levels, the hormone linked to stress.",
+      "query": "calm person smiling",
+      "query2": "peaceful happy moment",
+      "chips": [
+        {
+          "t": "LOWER CORTISOL",
+          "on": "stress",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Make time for humor and laughter in your daily life for better health.",
+      "query": "people watching comedy",
+      "query2": "friends enjoying laughter",
+      "label": "FIND YOUR FUN!",
+      "sub": "laughter is healing!",
+      "label_on": "make time",
+      "punch": "healing"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health.",
+      "query": "people enjoying life together",
+      "query2": "happy gathering moment"
+    }
+  ],
+  "description": "Incorporating laughter into your routine can lower stress and improve well-being. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#laughter",
+    "#stressrelief",
+    "#mentalhealth",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

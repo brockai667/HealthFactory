@@ -2934,5 +2934,212 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Is Your Food Label Accurate?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Food labels can be off by 20%—are you eating what you think?",
+        "hook_top": "FOOD LABEL MYSTERY",
+        "query": "food label close-up",
+        "query2": "person reading label",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "The FDA allows a margin of error in food labeling, sometimes up to 20%.",
+        "query": "food label nutrition facts",
+        "query2": "nutrition label detail",
+        "chips": [
+          {
+            "t": "UP TO 20% OFF",
+            "on": "labeling",
+            "style": "accent"
+          }
+        ],
+        "punch": "error"
+      },
+      {
+        "role": "fact",
+        "text": "This can lead to confusion about actual calorie and nutrient content.",
+        "query": "person confused reading labels",
+        "query2": "person looking puzzled",
+        "chips": [
+          {
+            "t": "CONTAINS UNCERTAINTY",
+            "on": "content",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Always check multiple factors: ingredients, serving size, and brand trust.",
+        "query": "healthy shopping groceries",
+        "query2": "shopping cart with healthy food",
+        "label": "CHECK LABELS THOROUGHLY",
+        "sub": "know what you're eating",
+        "label_on": "check",
+        "punch": "thoroughly"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "happy shopper buying food",
+        "query2": "person enjoying grocery shopping"
+      }
+    ],
+    "description": "Food labels can mislead—learn how to read them accurately. Understand the importance of verifying labels beyond just calories. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#foodlabels",
+      "#nutrition",
+      "#eatinghealthy",
+      "#shopwise",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Drink These for Better Health",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Some drinks can boost your health significantly!",
+        "hook_top": "HEALTHY DRINKS",
+        "query": "healthy drinks variety",
+        "query2": "colorful smoothie drinks",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Green tea is rich in antioxidants, linked to improved brain function.",
+        "query": "cup of green tea",
+        "query2": "green tea close-up",
+        "chips": [
+          {
+            "t": "ANTIOXIDANT POWER",
+            "on": "brain",
+            "style": "accent"
+          }
+        ],
+        "punch": "brain"
+      },
+      {
+        "role": "fact",
+        "text": "Water is essential for every function in your body—aim for regular intake.",
+        "query": "person drinking water",
+        "query2": "glass of water refreshing",
+        "chips": [
+          {
+            "t": "STAY HYDRATED",
+            "on": "intake",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Swap sugary drinks for herbal teas or infused waters for a boost.",
+        "query": "herbal tea infusion",
+        "query2": "infused water colorful",
+        "label": "HEALTHY SWAP",
+        "sub": "choose better beverages",
+        "label_on": "swap",
+        "punch": "better"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "healthy person enjoying drinks",
+        "query2": "happy drink choices"
+      }
+    ],
+    "description": "Certain drinks can substantially improve your health! Explore the benefits of green tea and hydration. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#hydration",
+      "#teatime",
+      "#healthydrinks",
+      "#nutrition",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "What Foods Support Your Joints?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Eating certain foods can support your joint health.",
+        "hook_top": "FOODS FOR JOINTS",
+        "query": "healthy foods joints",
+        "query2": "variety of nutritious meals",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Fatty fish like salmon are high in omega-3s, which reduce inflammation.",
+        "query": "salmon dish prepared",
+        "query2": "cooked salmon plate",
+        "chips": [
+          {
+            "t": "INFLAMMATION REDUCER",
+            "on": "omega-3s",
+            "style": "accent"
+          }
+        ],
+        "punch": "omega-3s"
+      },
+      {
+        "role": "fact",
+        "text": "Leafy greens like spinach contain antioxidants that promote joint health.",
+        "query": "fresh leafy greens",
+        "query2": "spinach leafy nutrients",
+        "chips": [
+          {
+            "t": "ANTIOXIDANT BOOST",
+            "on": "greens",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Incorporate foods like nuts, seeds, and berries for a balanced diet.",
+        "query": "variety of nuts and berries",
+        "query2": "healthy snack bowl",
+        "label": "BALANCED DIET",
+        "sub": "support your joints",
+        "label_on": "incorporate",
+        "punch": "balance"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "healthy meals on table",
+        "query2": "balanced daily meals"
+      }
+    ],
+    "description": "Certain foods can significantly benefit joint health! Discover the power of omega-3s and antioxidants for maintaining healthy joints. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#jointhealth",
+      "#nutrition",
+      "#eatwell",
+      "#superfoods",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
