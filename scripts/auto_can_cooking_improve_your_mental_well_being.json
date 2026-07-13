@@ -1,0 +1,69 @@
+{
+  "title": "Can Cooking Improve Your Mental Well-Being?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Cooking at home can enhance your mental health and creativity.",
+      "hook_top": "COOK FOR YOUR MIND",
+      "query": "person cooking in kitchen",
+      "query2": "home cooking scene",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Engaging in cooking can reduce stress and boost mood through creativity.",
+      "query": "person happily cooking",
+      "query2": "colorful cooking process",
+      "chips": [
+        {
+          "t": "BOOST YOUR MOOD",
+          "on": "cooking",
+          "style": "accent"
+        }
+      ],
+      "punch": "creativity"
+    },
+    {
+      "role": "fact",
+      "text": "It also fosters mindfulness, keeping you present and focused.",
+      "query": "person chopping vegetables mindfully",
+      "query2": "slow cooking preparation",
+      "chips": [
+        {
+          "t": "MINDFUL COOKING",
+          "on": "mindfulness",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Try experimenting with new recipes to keep things exciting.",
+      "query": "variety of new recipes",
+      "query2": "recipe books displayed",
+      "label": "EXPERIMENT IN THE KITCHEN",
+      "sub": "keep your mind engaged!",
+      "label_on": "try",
+      "punch": "exciting"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "happy person cooking",
+      "query2": "enjoying home cooked meal"
+    }
+  ],
+  "description": "Cooking can be a fulfilling activity that boosts mental well-being. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#cooking",
+    "#mentalhealth",
+    "#mindfulness",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

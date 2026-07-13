@@ -3141,5 +3141,351 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Is What You Don't Eat Just as Important?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Sometimes, what you leave off your plate matters more than what's on it.",
+        "hook_top": "LESS IS MORE",
+        "query": "empty plate healthy food",
+        "query2": "plate with fruits and veggies",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Eliminating ultra-processed foods can significantly improve your overall health.",
+        "query": "processed foods comparison",
+        "query2": "healthy meal vs junk food",
+        "chips": [
+          {
+            "t": "IMPROVES HEALTH",
+            "on": "processed",
+            "style": "accent"
+          }
+        ],
+        "punch": "health"
+      },
+      {
+        "role": "fact",
+        "text": "Reducing sugar intake is linked to lower risks of chronic diseases.",
+        "query": "sugar vs healthy foods",
+        "query2": "sugar cubes and healthy fruit",
+        "chips": [
+          {
+            "t": "LOWER DISEASE RISK",
+            "on": "sugar",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Consider cutting back on processed snacks to enhance your wellness journey.",
+        "query": "healthy snack options",
+        "query2": "snacks on healthy plate",
+        "label": "CUT THE PROCESSED",
+        "sub": "embrace whole foods",
+        "label_on": "cutting",
+        "punch": "snacks"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "healthy lifestyle person",
+        "query2": "happy healthy person outdoors"
+      }
+    ],
+    "description": "What you don’t eat can shape your health just as much as what you do. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#nutrition",
+      "#processedfoods",
+      "#wholefoods",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How Eating Slowly Enhances Digestion",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Eating slowly can help your body absorb nutrients better.",
+        "hook_top": "EAT SLOW DIGEST BETTER",
+        "query": "person eating slowly",
+        "query2": "close-up of food on table",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Chewing food thoroughly breaks it down and aids digestion.",
+        "query": "chewing food close up",
+        "query2": "person chewing slowly",
+        "chips": [
+          {
+            "t": "AIDS DIGESTION",
+            "on": "chewing",
+            "style": "accent"
+          }
+        ],
+        "punch": "aids"
+      },
+      {
+        "role": "fact",
+        "text": "Eating slowly is also linked to feeling fuller, helping manage weight.",
+        "query": "full person happy",
+        "query2": "happy person with full plate",
+        "chips": [
+          {
+            "t": "WEIGHT MANAGEMENT",
+            "on": "weight",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim for at least 20 minutes per meal to benefit from mindful eating.",
+        "query": "timer set for 20 minutes",
+        "query2": "clock in meal setting",
+        "label": "20 MINUTES",
+        "sub": "mindful eating",
+        "label_on": "20 minutes",
+        "punch": "mindful"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "healthy meal table",
+        "query2": "beautiful meal setup"
+      }
+    ],
+    "description": "Eating slowly not only enhances digestion but can also help in weight management. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#digestion",
+      "#mindfuleating",
+      "#weightmanagement",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Staying Hydrated Boosts Focus",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Staying hydrated can enhance your concentration and mental clarity.",
+        "hook_top": "HYDRATION BOOSTS FOCUS",
+        "query": "person drinking water",
+        "query2": "water glass fresh",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Even mild dehydration can negatively impact your cognitive performance.",
+        "query": "brain focus work",
+        "query2": "busy office worker",
+        "chips": [
+          {
+            "t": "NEGATIVE IMPACT",
+            "on": "dehydration",
+            "style": "accent"
+          }
+        ],
+        "punch": "cognitive"
+      },
+      {
+        "role": "fact",
+        "text": "Drinking water regularly can help maintain your energy levels throughout the day.",
+        "query": "water bottle on desk",
+        "query2": "person drinking water during work",
+        "chips": [
+          {
+            "t": "BOOSTS ENERGY",
+            "on": "energy",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim for consistent hydration by having water nearby during work hours.",
+        "query": "water bottle beside laptop",
+        "query2": "water beside working person",
+        "label": "STAY HYDRATED",
+        "sub": "keep water close",
+        "label_on": "hydrated",
+        "punch": "focus"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "healthy lifestyle person",
+        "query2": "person enjoying water outdoors"
+      }
+    ],
+    "description": "Staying hydrated enhances focus and helps maintain energy levels! Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#hydration",
+      "#focus",
+      "#energy",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How Cardio Can Boost Your Mood",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Just 20 minutes of cardio can elevate your mood significantly.",
+        "hook_top": "CARDIO LIFTS YOUR MOOD",
+        "query": "person jogging outside",
+        "query2": "happy runner outdoors",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Exercise releases endorphins, hormones that create feelings of happiness.",
+        "query": "happy person after workout",
+        "query2": "person smiling after running",
+        "chips": [
+          {
+            "t": "RELEASES ENDORPHINS",
+            "on": "endorphins",
+            "style": "accent"
+          }
+        ],
+        "punch": "happiness"
+      },
+      {
+        "role": "fact",
+        "text": "Cardio also helps reduce anxiety and stress levels.",
+        "query": "person meditating after workout",
+        "query2": "yoga after run",
+        "chips": [
+          {
+            "t": "REDUCES STRESS",
+            "on": "stress",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Incorporate at least 20 minutes of cardio into your daily routine.",
+        "query": "person running through park",
+        "query2": "beautiful outdoor run",
+        "label": "20 MINUTES DAILY",
+        "sub": "for strong mood boost",
+        "label_on": "cardio",
+        "punch": "daily"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "active healthy lifestyle",
+        "query2": "happy person outdoor activities"
+      }
+    ],
+    "description": "A short cardio session can significantly lift your mood! Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#exercise",
+      "#cardio",
+      "#moodboost",
+      "#stressrelief",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Daily Movement is Key to Stress Relief",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Daily movement can be one of the best ways to combat stress.",
+        "hook_top": "MOVE TO DESTRESS",
+        "query": "person stretching outdoors",
+        "query2": "yoga in park",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Physical activity produces endorphins that help fight stress and anxiety.",
+        "query": "person exercising happily",
+        "query2": "working out with friends",
+        "chips": [
+          {
+            "t": "BOOSTS ENDORPHINS",
+            "on": "stress",
+            "style": "accent"
+          }
+        ],
+        "punch": "endorphins"
+      },
+      {
+        "role": "fact",
+        "text": "Even a short walk can clear your mind and improve your mood.",
+        "query": "person walking in nature",
+        "query2": "peaceful walking trail",
+        "chips": [
+          {
+            "t": "CLEAR YOUR MIND",
+            "on": "walk",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim for at least 30 minutes of movement each day for effective stress relief.",
+        "query": "person jogging in park",
+        "query2": "30-minute treadmill session",
+        "label": "30 MINUTES DAILY",
+        "sub": "for stress relief",
+        "label_on": "movement",
+        "punch": "relief"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "fit person exercising outdoors",
+        "query2": "happy activities in nature"
+      }
+    ],
+    "description": "Incorporating daily movement can be a powerful way to reduce stress! Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#wellness",
+      "#movement",
+      "#stressrelief",
+      "#exercise",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

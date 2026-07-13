@@ -1,0 +1,69 @@
+{
+  "title": "Zero Prep, High Protein Meals You Need",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Busy days? You can still eat protein-rich meals without prep!",
+      "hook_top": "ZERO PREP HIGH PROTEIN",
+      "query": "meal prep protein foods",
+      "query2": "healthy meal ideas",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Canned beans and chickpeas are affordable, protein-packed staples.",
+      "query": "canned beans shelf",
+      "query2": "chickpeas in kitchen",
+      "chips": [
+        {
+          "t": "AFFORDABLE PROTEIN",
+          "on": "staples",
+          "style": "accent"
+        }
+      ],
+      "punch": "staples"
+    },
+    {
+      "role": "fact",
+      "text": "Rotisserie chicken is a no-cook option that's delicious and versatile.",
+      "query": "rotisserie chicken display",
+      "query2": "grocery store chicken",
+      "chips": [
+        {
+          "t": "DELICIOUS AND EASY",
+          "on": "option",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Grab ready-to-eat Greek yogurt for a quick protein boost!",
+      "query": "greek yogurt fridge",
+      "query2": "healthy snack yogurt",
+      "label": "EASY PROTEIN BOOST",
+      "sub": "grab and go!",
+      "label_on": "yogurt",
+      "punch": "grab"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "healthy meal on table",
+      "query2": "colorful meal spread"
+    }
+  ],
+  "description": "Busy days don't mean sacrificing protein! Learn about zero prep meals that keep you nourished. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#mealprep",
+    "#highprotein",
+    "#quickmeals",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
