@@ -1,0 +1,69 @@
+{
+  "title": "Is Cooking with a Wok Healthy?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Cooking with a wok might be one of the healthiest ways to stir-fry!",
+      "hook_top": "WOK COOKING HEALTHY",
+      "query": "cooking with wok",
+      "query2": "stir fry vegetables",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Wok cooking uses less oil compared to traditional frying methods.",
+      "query": "wok with vegetables",
+      "query2": "oil in frying pan",
+      "chips": [
+        {
+          "t": "LESS OIL NEEDED",
+          "on": "cooking",
+          "style": "accent"
+        }
+      ],
+      "punch": "oil"
+    },
+    {
+      "role": "fact",
+      "text": "It retains nutrients in vegetables better due to quick cooking times.",
+      "query": "fresh vegetables in wok",
+      "query2": "colorful veggie stir fry",
+      "chips": [
+        {
+          "t": "NUTRIENT PRESERVATION",
+          "on": "cooking",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Choose a variety of vegetables for an even healthier meal.",
+      "query": "variety of vegetables",
+      "query2": "assorted veggie platter",
+      "label": "VARIETY IS KEY",
+      "sub": "for better nutrition!",
+      "label_on": "vegetables",
+      "punch": "variety"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "person cooking healthy",
+      "query2": "cooking delicious meal"
+    }
+  ],
+  "description": "Wok cooking can be healthier due to less oil and quick nutrition retention. Learn how to stir-fry effectively! Follow for daily health tips!",
+  "hashtags": [
+    "#cooking",
+    "#health",
+    "#wok",
+    "#stirfry",
+    "#nutrition",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

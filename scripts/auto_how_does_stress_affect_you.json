@@ -1,0 +1,69 @@
+{
+  "title": "How Does Stress Affect You?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Stress affects more than just your mood; it impacts your body too!",
+      "hook_top": "STRESS IMPACTS YOU",
+      "query": "stress effects body",
+      "query2": "stressed person",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Chronic stress can lead to high blood pressure and heart issues.",
+      "query": "high blood pressure symptoms",
+      "query2": "heart health infographic",
+      "chips": [
+        {
+          "t": "HEART HEALTH",
+          "on": "stress",
+          "style": "accent"
+        }
+      ],
+      "punch": "health"
+    },
+    {
+      "role": "fact",
+      "text": "It can also impact your sleep quality and lead to insomnia.",
+      "query": "person insomnia",
+      "query2": "tired person in bed",
+      "chips": [
+        {
+          "t": "SLEEP QUALITY",
+          "on": "insomnia",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Use mindfulness and breathing techniques to manage stress effectively.",
+      "query": "person meditating outdoors",
+      "query2": "outdoor meditation scene",
+      "label": "MANAGE STRESS",
+      "sub": "with mindfulness!",
+      "label_on": "breathe",
+      "punch": "manage"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "calm person breath",
+      "query2": "peaceful nature"
+    }
+  ],
+  "description": "Stress impacts both your mind and body in significant ways. Learn how to manage it effectively with mindfulness. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#stressmanagement",
+    "#mindfulness",
+    "#wellbeing",
+    "#mentalhealth",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
