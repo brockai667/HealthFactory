@@ -1,0 +1,69 @@
+{
+  "title": "How Water Intake Affects Your Mood",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Did you know that being dehydrated can negatively affect your mood?",
+      "hook_top": "WATER MOOD CONNECTION",
+      "query": "person drinking water",
+      "query2": "hydration concept",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Even mild dehydration can cause fatigue and irritability.",
+      "query": "fatigued person",
+      "query2": "uncomfortable feeling",
+      "chips": [
+        {
+          "t": "FATIGUE & IRRITABILITY",
+          "on": "dehydration",
+          "style": "accent"
+        }
+      ],
+      "punch": "fatigue"
+    },
+    {
+      "role": "fact",
+      "text": "Hydration supports cognitive function and keeps you alert.",
+      "query": "person studying hydrated",
+      "query2": "student drinking water",
+      "chips": [
+        {
+          "t": "STAY ALERT",
+          "on": "hydration",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Aim for hydration throughout the day to maintain your mood!",
+      "query": "glass of water on table",
+      "query2": "sipping water",
+      "label": "STAY HYDRATED",
+      "sub": "for a better mood!",
+      "label_on": "hydration",
+      "punch": "hydrated"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "happy hydrated person",
+      "query2": "smiling while drinking"
+    }
+  ],
+  "description": "Hydration plays a critical role in your mood and energy. Discover how staying hydrated can boost your well-being! Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#hydration",
+    "#mood",
+    "#wellness",
+    "#stayhydrated",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

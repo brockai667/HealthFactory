@@ -1,0 +1,68 @@
+{
+  "title": "Can Your Lunch Damage Your Day?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Your lunch can make or break your entire afternoon mood and energy!",
+      "hook_top": "LUNCH CAN BREAK YOU",
+      "query": "unhealthy lunch plate",
+      "query2": "dinner table",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Foods high in sugar can lead to an energy crash later in the day.",
+      "query": "sugar high foods",
+      "query2": "sweets and candy",
+      "chips": [
+        {
+          "t": "SUGAR CRASH",
+          "on": "energy",
+          "style": "accent"
+        }
+      ],
+      "punch": "sugar"
+    },
+    {
+      "role": "fact",
+      "text": "Balanced meals with protein and fiber help stabilize energy levels.",
+      "query": "balanced healthy meal",
+      "query2": "healthy plate lunch",
+      "chips": [
+        {
+          "t": "STABLE ENERGY",
+          "on": "balanced meal",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Focus on whole grains, veggies, and lean protein for lunch.",
+      "query": "healthy lunch spread",
+      "query2": "colorful lunch plate",
+      "label": "SMART LUNCHES",
+      "sub": "for lasting energy!",
+      "label_on": "whole grains",
+      "punch": "smart"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health.",
+      "query": "happy person enjoying meal",
+      "query2": "satisfied eating"
+    }
+  ],
+  "description": "Lunch has the power to influence your mood and productivity. Learn how to choose smart meals for sustained energy! Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#lunch",
+    "#nutrition",
+    "#energy",
+    "#healthytips",
+    "#shorts",
+    "#fyp"
+  ]
+}

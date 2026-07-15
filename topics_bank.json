@@ -3487,5 +3487,343 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Is Water Intake Must Overrated?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "You might not need eight glasses of water daily!",
+        "hook_top": "WATER TRUTH REVEALED",
+        "query": "person drinking water",
+        "query2": "water on a table",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Hydration needs vary based on activity level, climate, and individual health.",
+        "query": "person jogging hot weather",
+        "query2": "sunny outdoor exercise",
+        "chips": [
+          {
+            "t": "STAY HYDRATED",
+            "on": "hydration",
+            "style": "accent"
+          }
+        ],
+        "punch": "individual health"
+      },
+      {
+        "role": "fact",
+        "text": "You can also hydrate through food; fruits and veggies contribute!",
+        "query": "plate of fruits vegetables",
+        "query2": "fresh produce market",
+        "chips": [
+          {
+            "t": "FOOD IS FLUID",
+            "on": "food",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Listen to your body; drink when thirsty!",
+        "query": "person drinking when thirsty",
+        "query2": "thirsty person in sun",
+        "label": "THIRST IS YOUR GUIDE",
+        "sub": "trust your body’s signals",
+        "label_on": "thirsty",
+        "punch": "body's signals"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "healthy person drinking water",
+        "query2": "hydrated lifestyle"
+      }
+    ],
+    "description": "Hydration needs differ based on many factors, so trust your body! Follow for daily health tips!",
+    "hashtags": [
+      "#hydration",
+      "#waterintake",
+      "#wellnesstips",
+      "#health",
+      "#nutrition",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Butter Coffee: Health or Hype?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Butter in coffee? It’s got health fans buzzing!",
+        "hook_top": "BUTTER COFFEE BUZZ",
+        "query": "cup of coffee with butter",
+        "query2": "coffee preparation",
+        "kokoro_voice": "am_michael"
+      },
+      {
+        "role": "fact",
+        "text": "Butter coffee may provide sustained energy without crashes due to fat content.",
+        "query": "coffee energy focus",
+        "query2": "person productive",
+        "chips": [
+          {
+            "t": "STAY ENERGIZED",
+            "on": "energy",
+            "style": "accent"
+          }
+        ],
+        "punch": "sustained energy"
+      },
+      {
+        "role": "fact",
+        "text": "However, it’s high in calories; moderation is key!",
+        "query": "calorie chart food",
+        "query2": "nutrition labels",
+        "chips": [
+          {
+            "t": "ENJOY MODERATELY",
+            "on": "moderation",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Consider balancing it with a nutritious breakfast.",
+        "query": "healthy breakfast spread",
+        "query2": "nutritious meal",
+        "label": "BALANCE IS KEY",
+        "sub": "don’t skip breakfast nutrients",
+        "label_on": "nutritious",
+        "punch": "breakfast"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "healthy lifestyle coffee",
+        "query2": "smiling person coffee"
+      }
+    ],
+    "description": "Butter coffee can provide energy but should be enjoyed in moderation. Follow for daily health tips!",
+    "hashtags": [
+      "#buttercoffee",
+      "#energy",
+      "#mentalclarity",
+      "#healthtips",
+      "#nutrition",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Do You Really Need to Cook Vegetables?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Cooking veggies can lower their nutrient content!",
+        "hook_top": "COOKING VEGETABLES MYTH",
+        "query": "cooked vegetables",
+        "query2": "vegetable dish",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Overcooking can lead to significant loss of vitamins.",
+        "query": "lose nutrients in cooking",
+        "query2": "steamed vegetables",
+        "chips": [
+          {
+            "t": "PRESERVE NUTRIENTS",
+            "on": "cooking",
+            "style": "accent"
+          }
+        ],
+        "punch": "vitamins"
+      },
+      {
+        "role": "fact",
+        "text": "Eating raw can retain more vitamins; consider salads!",
+        "query": "fresh salad bowl",
+        "query2": "healthy salad preparation",
+        "chips": [
+          {
+            "t": "RAW IS RICH",
+            "on": "raw",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Try gentle cooking methods like steaming or microwaving!",
+        "query": "steaming vegetables",
+        "query2": "healthy cooking",
+        "label": "GENTLE COOKING",
+        "sub": "preserve nutrients",
+        "label_on": "steam",
+        "punch": "cooking"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "healthy and happy eating",
+        "query2": "fresh vegetables"
+      }
+    ],
+    "description": "Cooking can diminish nutrients in vegetables, so opt for gentle methods. Follow for daily health tips!",
+    "hashtags": [
+      "#vegetables",
+      "#health",
+      "#nutrition",
+      "#cookingtips",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Find Your Stress Relieving Method!",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Did you know different methods can reduce stress effectively?",
+        "hook_top": "STRESS RELIEF VARIETY",
+        "query": "stress relief activities",
+        "query2": "calm activities",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Physical activity can boost your mood and lower stress hormones.",
+        "query": "people jogging outdoors",
+        "query2": "exercise in nature",
+        "chips": [
+          {
+            "t": "MOVE TO RELAX",
+            "on": "activity",
+            "style": "accent"
+          }
+        ],
+        "punch": "mood"
+      },
+      {
+        "role": "fact",
+        "text": "Mindfulness practices such as meditation can greatly aid stress reduction.",
+        "query": "person meditating peacefully",
+        "query2": "calm meditation setting",
+        "chips": [
+          {
+            "t": "MINDFUL MOMENTS",
+            "on": "mindfulness",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Experiment with different methods to find what works for you.",
+        "query": "person trying yoga",
+        "query2": "various activities",
+        "label": "FIND YOUR FIT",
+        "sub": "everyone’s unique!",
+        "label_on": "experiment",
+        "punch": "works"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality.",
+        "query": "happy calm person outdoors",
+        "query2": "nature relaxation"
+      }
+    ],
+    "description": "Different methods can help relieve stress, so experiment to find your fit! Follow for daily health tips!",
+    "hashtags": [
+      "#stressrelief",
+      "#mindfulness",
+      "#wellbeing",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Do You Underestimate Your Sleep Quality?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Your sleep quality affects your entire day more than you think!",
+        "hook_top": "SLEEP MATTERS MORE",
+        "query": "person sleeping peacefully",
+        "query2": "calm night setting",
+        "kokoro_voice": "am_michael"
+      },
+      {
+        "role": "fact",
+        "text": "Poor sleep can impair cognitive function and memory retention.",
+        "query": "person struggling to focus",
+        "query2": "frustrated student",
+        "chips": [
+          {
+            "t": "BOOST MIND",
+            "on": "cognitive",
+            "style": "accent"
+          }
+        ],
+        "punch": "memory"
+      },
+      {
+        "role": "fact",
+        "text": "Good sleep supports emotional regulation, reducing stress levels.",
+        "query": "person looking relaxed",
+        "query2": "calm office space",
+        "chips": [
+          {
+            "t": "FEEL BETTER",
+            "on": "emotion",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Prioritize restorative sleep for your mental health!",
+        "query": "peaceful sleep environment",
+        "query2": "serene bedroom",
+        "label": "SLEEP IS ESSENTIAL",
+        "sub": "it impacts your whole day",
+        "label_on": "essential",
+        "punch": "restore"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "healthy person waking up",
+        "query2": "morning routine"
+      }
+    ],
+    "description": "Quality sleep impacts your entire day; prioritize it for better mental health! Follow for daily health tips!",
+    "hashtags": [
+      "#sleep",
+      "#mentalhealth",
+      "#wellness",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
