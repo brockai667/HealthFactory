@@ -1,0 +1,69 @@
+{
+  "title": "Is Your Dinner Harming Your Sleep?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "What you eat for dinner could be ruining your sleep quality!",
+      "hook_top": "DINNER AFFECTS SLEEP",
+      "query": "unhealthy dinner plate",
+      "query2": "person unable to sleep",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Heavy, rich foods take longer to digest and can disrupt sleep.",
+      "query": "rich food display",
+      "query2": "unpleasant meal experience",
+      "chips": [
+        {
+          "t": "DISRUPT SLEEP",
+          "on": "heavy foods",
+          "style": "accent"
+        }
+      ],
+      "punch": "disrupt"
+    },
+    {
+      "role": "fact",
+      "text": "Spicy foods can lead to indigestion and restlessness at night.",
+      "query": "spicy food plate",
+      "query2": "spicy pepper closeup",
+      "chips": [
+        {
+          "t": "INDIGESTION CAUSE",
+          "on": "spicy foods",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Aim for light, nutrient-rich meals in the evening for better rest.",
+      "query": "light dinner plate",
+      "query2": "healthy evening meal",
+      "label": "LIGHT DINNER FOCUS",
+      "sub": "for better sleep!",
+      "label_on": "healthy choice",
+      "punch": "light"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "happy person sleeping",
+      "query2": "peaceful sleep scene"
+    }
+  ],
+  "description": "Your dinner choices may be affecting your sleep quality. Discover how to eat better in the evening for restful sleep! Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#dinner",
+    "#sleep",
+    "#nutrition",
+    "#wellness",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
