@@ -1,0 +1,69 @@
+{
+  "title": "Can Cooking Methods Affect Health?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The cooking method you choose could impact your health!",
+      "hook_top": "COOKING MATTERS",
+      "query": "cooking healthy method",
+      "query2": "various cooking methods",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Steaming vegetables can retain more nutrients compared to boiling.",
+      "query": "steamed vegetables plate",
+      "query2": "boiled vegetables",
+      "chips": [
+        {
+          "t": "RETENTION MATTERS",
+          "on": "nutrients",
+          "style": "accent"
+        }
+      ],
+      "punch": "steaming"
+    },
+    {
+      "role": "fact",
+      "text": "Grilling can help reduce fat content while adding flavor to your meals.",
+      "query": "grilled vegetables meat",
+      "query2": "grilling process",
+      "chips": [
+        {
+          "t": "REDUCES FAT",
+          "on": "grilling",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Choose healthier cooking methods for better nutrition overall!",
+      "query": "healthy cooking methods",
+      "query2": "cooking techniques",
+      "label": "COOK HEALTHY!",
+      "sub": "for better nutrition",
+      "label_on": "methods",
+      "punch": "cook"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "healthy cooking kitchen",
+      "query2": "cooking nutritious meals"
+    }
+  ],
+  "description": "Discover how different cooking methods can impact the health of your meals. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#cooking",
+    "#nutrition",
+    "#wellness",
+    "#healthyfood",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

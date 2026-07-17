@@ -1,0 +1,69 @@
+{
+  "title": "Is Your Food Label Accurate?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Food labels can be off by 20%—are you eating what you think?",
+      "hook_top": "FOOD LABEL MYSTERY",
+      "query": "food label close-up",
+      "query2": "person reading label",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "The FDA allows a margin of error in food labeling, sometimes up to 20%.",
+      "query": "food label nutrition facts",
+      "query2": "nutrition label detail",
+      "chips": [
+        {
+          "t": "UP TO 20% OFF",
+          "on": "labeling",
+          "style": "accent"
+        }
+      ],
+      "punch": "error"
+    },
+    {
+      "role": "fact",
+      "text": "This can lead to confusion about actual calorie and nutrient content.",
+      "query": "person confused reading labels",
+      "query2": "person looking puzzled",
+      "chips": [
+        {
+          "t": "CONTAINS UNCERTAINTY",
+          "on": "content",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Always check multiple factors: ingredients, serving size, and brand trust.",
+      "query": "healthy shopping groceries",
+      "query2": "shopping cart with healthy food",
+      "label": "CHECK LABELS THOROUGHLY",
+      "sub": "know what you're eating",
+      "label_on": "check",
+      "punch": "thoroughly"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "happy shopper buying food",
+      "query2": "person enjoying grocery shopping"
+    }
+  ],
+  "description": "Food labels can mislead—learn how to read them accurately. Understand the importance of verifying labels beyond just calories. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#foodlabels",
+    "#nutrition",
+    "#eatinghealthy",
+    "#shopwise",
+    "#shorts",
+    "#fyp"
+  ]
+}
