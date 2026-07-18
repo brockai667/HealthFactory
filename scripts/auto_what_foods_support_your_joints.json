@@ -1,0 +1,69 @@
+{
+  "title": "What Foods Support Your Joints?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Eating certain foods can support your joint health.",
+      "hook_top": "FOODS FOR JOINTS",
+      "query": "healthy foods joints",
+      "query2": "variety of nutritious meals",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Fatty fish like salmon are high in omega-3s, which reduce inflammation.",
+      "query": "salmon dish prepared",
+      "query2": "cooked salmon plate",
+      "chips": [
+        {
+          "t": "INFLAMMATION REDUCER",
+          "on": "omega-3s",
+          "style": "accent"
+        }
+      ],
+      "punch": "omega-3s"
+    },
+    {
+      "role": "fact",
+      "text": "Leafy greens like spinach contain antioxidants that promote joint health.",
+      "query": "fresh leafy greens",
+      "query2": "spinach leafy nutrients",
+      "chips": [
+        {
+          "t": "ANTIOXIDANT BOOST",
+          "on": "greens",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Incorporate foods like nuts, seeds, and berries for a balanced diet.",
+      "query": "variety of nuts and berries",
+      "query2": "healthy snack bowl",
+      "label": "BALANCED DIET",
+      "sub": "support your joints",
+      "label_on": "incorporate",
+      "punch": "balance"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "healthy meals on table",
+      "query2": "balanced daily meals"
+    }
+  ],
+  "description": "Certain foods can significantly benefit joint health! Discover the power of omega-3s and antioxidants for maintaining healthy joints. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#jointhealth",
+    "#nutrition",
+    "#eatwell",
+    "#superfoods",
+    "#shorts",
+    "#fyp"
+  ]
+}
