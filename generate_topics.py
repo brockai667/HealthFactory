@@ -23,8 +23,8 @@ MODEL = os.environ.get("MODELS_MODEL", "openai/gpt-4o-mini")
 BASE = os.environ.get("MODELS_BASE_URL", "https://models.github.ai/inference")
 TOKEN = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 
-TREND_SUBREDDITS = ['nutrition', 'Health', 'longevity', 'HealthyFood']
-TREND_YT_QUERIES = ['health tips', 'nutrition facts', 'healthy habits']
+TREND_SUBREDDITS = ['nutrition', 'Health', 'longevity', 'HealthyFood', 'Fitness']
+TREND_YT_QUERIES = ['nutrition facts', 'healthy eating tips', 'protein myths', 'hydration health']
 
 SYSTEM = ("You are a scriptwriter for a short-form brand about practical, science-backed HEALTH and wellness habits (sleep, hydration, movement, food, stress). "
           "ACCURACY IS CRITICAL: use ONLY widely-documented, verifiable facts. NEVER invent or guess "
@@ -113,6 +113,13 @@ CTAS = [
 ]
 
 
+
+PERFORMANCE = (
+    "\nPERFORMANCE DATA (real results - obey this, it decides reach):\n"
+    "- WHAT PERFORMS (strongly prefer these): practical, actionable everyday health Q&A that answers a real question people ask (hydration, protein, frozen vs fresh food, sleep, common-food myths, simple habits).\n"
+    "- WHAT KILLS REACH (avoid): obscure medical conditions, generic wellness platitudes ('drink water, sleep well'), supplement hype, and scary unverified health claims.\n"
+)
+
 def build_prompt(n, existing_titles, trending=None):
     trend_block = ""
     if trending:
@@ -157,7 +164,7 @@ def build_prompt(n, existing_titles, trending=None):
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
         "- Do NOT repeat the same SUBJECT or fact as any existing title above, even reworded. Every "
         "topic must be a genuinely DIFFERENT idea.\n"
-        + trend_block +
+        + PERFORMANCE + trend_block +
         "Return ONLY the JSON array."
     )
 
