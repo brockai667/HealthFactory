@@ -4027,5 +4027,277 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "How Sugar Affects Your Energy Crash",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "A sugary snack can lead to an energy crash just an hour later.",
+        "hook_top": "SUGAR CRASH YOU BET",
+        "query": "person eating candy",
+        "query2": "sugary snacks table",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Eating sugar spikes your blood glucose, giving you a quick energy boost.",
+        "query": "blood glucose rise graph",
+        "query2": "blood sugar spike",
+        "chips": [
+          {
+            "t": "QUICK ENERGY BOOST",
+            "on": "energy",
+            "style": "accent"
+          }
+        ],
+        "punch": "boost"
+      },
+      {
+        "role": "fact",
+        "text": "But your body reacts by releasing insulin, which can drop your energy level.",
+        "query": "insulin release diagram",
+        "query2": "insulin interaction body",
+        "chips": [
+          {
+            "t": "ENERGY DIPS",
+            "on": "insulin",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Swap sugary snacks for fruits. They give you sustained energy!",
+        "query": "fruits healthy snack",
+        "query2": "variety of fruits",
+        "label": "MAKE THE SWAP",
+        "sub": "for better energy",
+        "label_on": "snack",
+        "punch": "fruits"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "healthy lifestyle person",
+        "query2": "fresh foods kitchen"
+      }
+    ],
+    "description": "A sugary snack may feel good initially but prepare for an energy crash. Follow for daily health tips!",
+    "hashtags": [
+      "#health",
+      "#energy",
+      "#sugar",
+      "#wellness",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How to Hydrate for Better Focus",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Just a 2% drop in hydration can impact your focus!",
+        "hook_top": "HYDRATION AND FOCUS",
+        "query": "person drinking water",
+        "query2": "glass of water desk",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Dehydration affects cognitive performance and mood.",
+        "query": "brain activity hydration",
+        "query2": "brain activity graphic",
+        "chips": [
+          {
+            "t": "STAY SHARP",
+            "on": "hydration",
+            "style": "accent"
+          }
+        ],
+        "punch": "mood"
+      },
+      {
+        "role": "fact",
+        "text": "Even mild dehydration can slow down your reaction times.",
+        "query": "reaction time measurement",
+        "query2": "person testing reaction time",
+        "chips": [
+          {
+            "t": "SLOW RESPONSE",
+            "on": "reaction",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Aim for a glass of water every hour to keep your focus sharp!",
+        "query": "person pouring water",
+        "query2": "refilling water bottle",
+        "label": "HOURLY HABIT",
+        "sub": "stay focused",
+        "label_on": "glass",
+        "punch": "focus"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "motivated person desk",
+        "query2": "productive workspace"
+      }
+    ],
+    "description": "Hydration is key to maintaining focus and cognitive performance. Follow for daily health tips!",
+    "hashtags": [
+      "#hydration",
+      "#focus",
+      "#productivity",
+      "#wellness",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Can Eating One Dish Help You Lose Weight?",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Eating one balanced dish might actually support weight loss.",
+        "hook_top": "ONE DISH LESS WEIGHT",
+        "query": "person enjoying meal",
+        "query2": "balanced meal on table",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Balanced meals provide all nutrients, helping you feel fuller longer.",
+        "query": "nutrient-rich meals",
+        "query2": "healthy meals variety",
+        "chips": [
+          {
+            "t": "FEEL FULLER",
+            "on": "full",
+            "style": "accent"
+          }
+        ],
+        "punch": "nutrients"
+      },
+      {
+        "role": "fact",
+        "text": "Less decision fatigue around food can lead to healthier choices.",
+        "query": "person choosing food",
+        "query2": "decisions on food",
+        "chips": [
+          {
+            "t": "LESS DECISION FATIGUE",
+            "on": "choices",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Try meal preps with one dish to simplify your eating habits!",
+        "query": "meal prep containers",
+        "query2": "organized meal prep",
+        "label": "MEAL PREP STRATEGY",
+        "sub": "for better choices",
+        "label_on": "prep",
+        "punch": "meal"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "person relaxed after meal",
+        "query2": "content after eating"
+      }
+    ],
+    "description": "Eating one dish can reduce decision fatigue and help you stay full longer. Follow for daily health tips!",
+    "hashtags": [
+      "#weightloss",
+      "#mealprep",
+      "#nutrition",
+      "#wellness",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Movement Can Lift Your Mood",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "You can boost your mood in just 10 minutes of movement!",
+        "hook_top": "MOVE FOR A HAPPIER DAY",
+        "query": "person exercising outside",
+        "query2": "people running in park",
+        "kokoro_voice": "af_sarah"
+      },
+      {
+        "role": "fact",
+        "text": "Physical activity increases endorphin levels—your body’s feel-good hormones.",
+        "query": "endorphins in the brain",
+        "query2": "happy person exercising",
+        "chips": [
+          {
+            "t": "ENDLESS ENERGY",
+            "on": "movement",
+            "style": "accent"
+          }
+        ],
+        "punch": "feel-good"
+      },
+      {
+        "role": "fact",
+        "text": "Movement can also lower stress hormones like cortisol.",
+        "query": "stress hormone levels",
+        "query2": "cortisol chart",
+        "chips": [
+          {
+            "t": "LESS STRESS",
+            "on": "cortisol",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Even a brisk walk can make a difference. Just get moving!",
+        "query": "person walking briskly",
+        "query2": "brisk walking in park",
+        "label": "BRISK WALK BOOST",
+        "sub": "even for a few minutes",
+        "label_on": "walking",
+        "punch": "move"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "happy group exercising",
+        "query2": "people enjoying workout"
+      }
+    ],
+    "description": "Movement can lift your mood by releasing endorphins and reducing stress. Follow for daily health tips!",
+    "hashtags": [
+      "#movement",
+      "#moodboost",
+      "#endorphins",
+      "#wellness",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

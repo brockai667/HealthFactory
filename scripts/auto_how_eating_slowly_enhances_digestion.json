@@ -1,0 +1,69 @@
+{
+  "title": "How Eating Slowly Enhances Digestion",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Eating slowly can help your body absorb nutrients better.",
+      "hook_top": "EAT SLOW DIGEST BETTER",
+      "query": "person eating slowly",
+      "query2": "close-up of food on table",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Chewing food thoroughly breaks it down and aids digestion.",
+      "query": "chewing food close up",
+      "query2": "person chewing slowly",
+      "chips": [
+        {
+          "t": "AIDS DIGESTION",
+          "on": "chewing",
+          "style": "accent"
+        }
+      ],
+      "punch": "aids"
+    },
+    {
+      "role": "fact",
+      "text": "Eating slowly is also linked to feeling fuller, helping manage weight.",
+      "query": "full person happy",
+      "query2": "happy person with full plate",
+      "chips": [
+        {
+          "t": "WEIGHT MANAGEMENT",
+          "on": "weight",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Aim for at least 20 minutes per meal to benefit from mindful eating.",
+      "query": "timer set for 20 minutes",
+      "query2": "clock in meal setting",
+      "label": "20 MINUTES",
+      "sub": "mindful eating",
+      "label_on": "20 minutes",
+      "punch": "mindful"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health.",
+      "query": "healthy meal table",
+      "query2": "beautiful meal setup"
+    }
+  ],
+  "description": "Eating slowly not only enhances digestion but can also help in weight management. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#digestion",
+    "#mindfuleating",
+    "#weightmanagement",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

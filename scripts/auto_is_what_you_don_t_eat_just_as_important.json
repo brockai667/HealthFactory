@@ -1,0 +1,69 @@
+{
+  "title": "Is What You Don't Eat Just as Important?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Sometimes, what you leave off your plate matters more than what's on it.",
+      "hook_top": "LESS IS MORE",
+      "query": "empty plate healthy food",
+      "query2": "plate with fruits and veggies",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Eliminating ultra-processed foods can significantly improve your overall health.",
+      "query": "processed foods comparison",
+      "query2": "healthy meal vs junk food",
+      "chips": [
+        {
+          "t": "IMPROVES HEALTH",
+          "on": "processed",
+          "style": "accent"
+        }
+      ],
+      "punch": "health"
+    },
+    {
+      "role": "fact",
+      "text": "Reducing sugar intake is linked to lower risks of chronic diseases.",
+      "query": "sugar vs healthy foods",
+      "query2": "sugar cubes and healthy fruit",
+      "chips": [
+        {
+          "t": "LOWER DISEASE RISK",
+          "on": "sugar",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Consider cutting back on processed snacks to enhance your wellness journey.",
+      "query": "healthy snack options",
+      "query2": "snacks on healthy plate",
+      "label": "CUT THE PROCESSED",
+      "sub": "embrace whole foods",
+      "label_on": "cutting",
+      "punch": "snacks"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "healthy lifestyle person",
+      "query2": "happy healthy person outdoors"
+    }
+  ],
+  "description": "What you don’t eat can shape your health just as much as what you do. Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#nutrition",
+    "#processedfoods",
+    "#wholefoods",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
