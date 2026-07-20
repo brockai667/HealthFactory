@@ -1,0 +1,69 @@
+{
+  "title": "Why Staying Hydrated Boosts Focus",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Staying hydrated can enhance your concentration and mental clarity.",
+      "hook_top": "HYDRATION BOOSTS FOCUS",
+      "query": "person drinking water",
+      "query2": "water glass fresh",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Even mild dehydration can negatively impact your cognitive performance.",
+      "query": "brain focus work",
+      "query2": "busy office worker",
+      "chips": [
+        {
+          "t": "NEGATIVE IMPACT",
+          "on": "dehydration",
+          "style": "accent"
+        }
+      ],
+      "punch": "cognitive"
+    },
+    {
+      "role": "fact",
+      "text": "Drinking water regularly can help maintain your energy levels throughout the day.",
+      "query": "water bottle on desk",
+      "query2": "person drinking water during work",
+      "chips": [
+        {
+          "t": "BOOSTS ENERGY",
+          "on": "energy",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Aim for consistent hydration by having water nearby during work hours.",
+      "query": "water bottle beside laptop",
+      "query2": "water beside working person",
+      "label": "STAY HYDRATED",
+      "sub": "keep water close",
+      "label_on": "hydrated",
+      "punch": "focus"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "healthy lifestyle person",
+      "query2": "person enjoying water outdoors"
+    }
+  ],
+  "description": "Staying hydrated enhances focus and helps maintain energy levels! Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#hydration",
+    "#focus",
+    "#energy",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

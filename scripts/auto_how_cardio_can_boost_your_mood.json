@@ -1,0 +1,70 @@
+{
+  "title": "How Cardio Can Boost Your Mood",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Just 20 minutes of cardio can elevate your mood significantly.",
+      "hook_top": "CARDIO LIFTS YOUR MOOD",
+      "query": "person jogging outside",
+      "query2": "happy runner outdoors",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Exercise releases endorphins, hormones that create feelings of happiness.",
+      "query": "happy person after workout",
+      "query2": "person smiling after running",
+      "chips": [
+        {
+          "t": "RELEASES ENDORPHINS",
+          "on": "endorphins",
+          "style": "accent"
+        }
+      ],
+      "punch": "happiness"
+    },
+    {
+      "role": "fact",
+      "text": "Cardio also helps reduce anxiety and stress levels.",
+      "query": "person meditating after workout",
+      "query2": "yoga after run",
+      "chips": [
+        {
+          "t": "REDUCES STRESS",
+          "on": "stress",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Incorporate at least 20 minutes of cardio into your daily routine.",
+      "query": "person running through park",
+      "query2": "beautiful outdoor run",
+      "label": "20 MINUTES DAILY",
+      "sub": "for strong mood boost",
+      "label_on": "cardio",
+      "punch": "daily"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "active healthy lifestyle",
+      "query2": "happy person outdoor activities"
+    }
+  ],
+  "description": "A short cardio session can significantly lift your mood! Follow for daily health tips!",
+  "hashtags": [
+    "#health",
+    "#wellness",
+    "#exercise",
+    "#cardio",
+    "#moodboost",
+    "#stressrelief",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
