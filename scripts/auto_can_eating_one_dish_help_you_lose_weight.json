@@ -1,0 +1,68 @@
+{
+  "title": "Can Eating One Dish Help You Lose Weight?",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Eating one balanced dish might actually support weight loss.",
+      "hook_top": "ONE DISH LESS WEIGHT",
+      "query": "person enjoying meal",
+      "query2": "balanced meal on table",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Balanced meals provide all nutrients, helping you feel fuller longer.",
+      "query": "nutrient-rich meals",
+      "query2": "healthy meals variety",
+      "chips": [
+        {
+          "t": "FEEL FULLER",
+          "on": "full",
+          "style": "accent"
+        }
+      ],
+      "punch": "nutrients"
+    },
+    {
+      "role": "fact",
+      "text": "Less decision fatigue around food can lead to healthier choices.",
+      "query": "person choosing food",
+      "query2": "decisions on food",
+      "chips": [
+        {
+          "t": "LESS DECISION FATIGUE",
+          "on": "choices",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Try meal preps with one dish to simplify your eating habits!",
+      "query": "meal prep containers",
+      "query2": "organized meal prep",
+      "label": "MEAL PREP STRATEGY",
+      "sub": "for better choices",
+      "label_on": "prep",
+      "punch": "meal"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "person relaxed after meal",
+      "query2": "content after eating"
+    }
+  ],
+  "description": "Eating one dish can reduce decision fatigue and help you stay full longer. Follow for daily health tips!",
+  "hashtags": [
+    "#weightloss",
+    "#mealprep",
+    "#nutrition",
+    "#wellness",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}

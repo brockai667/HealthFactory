@@ -3554,5 +3554,353 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Is All Olive Oil Equal?",
+    "thumb": "OLIVE OIL MYTHS",
+    "scenes": [
+      {
+        "text": "Not all olive oil is high quality. Discover the truth!",
+        "hook_top": "OLIVE OIL WHATS THE TRUTH",
+        "query": "olive oil quality differences",
+        "query2": "olive oil varieties",
+        "label": "MYTH: All Olive Oil is Equal",
+        "role": "hook"
+      },
+      {
+        "text": "Many believe all olive oils have the same health benefits.",
+        "query": "myths about olive oil",
+        "query2": "olive oil misconceptions",
+        "label": "MYTH: All Olive Oil has Same Benefits",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "In reality, extra virgin olive oil is the healthiest option, containing more antioxidants and healthy fats.",
+        "query": "extra virgin olive oil benefits",
+        "query2": "healthiest type of olive oil",
+        "label": "TRUTH: Extra Virgin is Best",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Choose wisely for true health benefits.",
+        "query": "health benefits of olive oil",
+        "query2": "olive oil health effects",
+        "label": "ON-SCREEN TAKEAWAY: Choose Quality",
+        "sub": "Opt for extra virgin olive oil.",
+        "label_on": "choose",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for your daily dose of vitality.",
+        "query": "olive oil facts",
+        "query2": "olive oil health tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Is all olive oil created equal? Discover the health secrets behind olive oil varieties. Follow for more health insights!",
+    "hashtags": [
+      "#health",
+      "#nutrition",
+      "#oliveoil",
+      "#myths",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can Cooking Destroy Nutrients?",
+    "thumb": "COOKING MYTHS",
+    "scenes": [
+      {
+        "text": "Are nutrients lost when cooking? Find out now!",
+        "hook_top": "COOKING AND NUTRIENTS FACT OR MYTH",
+        "query": "nutrient loss in cooking",
+        "query2": "does cooking destroy nutrients",
+        "label": "MYTH: Cooking Destroys Nutrients",
+        "role": "hook"
+      },
+      {
+        "text": "Many think that cooking always destroys vitamins and minerals.",
+        "query": "common cooking myths",
+        "query2": "cooking nutrient loss",
+        "label": "MYTH: Cooking Always Harms Nutrients",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "In truth, some cooking methods can actually enhance nutrient absorption, like cooking tomatoes increasing lycopene availability.",
+        "query": "cooking methods nutrient benefits",
+        "query2": "how cooking affects nutrients",
+        "label": "TRUTH: Cooking Can Enhance Absorption",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Different methods yield different results.",
+        "query": "best cooking methods nutrients",
+        "query2": "nutrient retention cooking",
+        "label": "ON-SCREEN TAKEAWAY: Methods Matter!",
+        "sub": "Learn the best cooking techniques.",
+        "label_on": "methods",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "cooking health facts",
+        "query2": "nutritional cooking advice",
+        "role": "cta"
+      }
+    ],
+    "description": "Can cooking really destroy nutrients? Explore how different cooking methods impact your food's health benefits. Follow us for more insights!",
+    "hashtags": [
+      "#nutrition",
+      "#cooking",
+      "#healthtips",
+      "#mythbusters",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is Frozen Food Less Healthy?",
+    "thumb": "FROZEN FOOD MYTHS",
+    "scenes": [
+      {
+        "text": "Are frozen foods a health risk? Let's clarify!",
+        "hook_top": "FROZEN FOOD HEALTH OR HARM",
+        "query": "health risks of frozen food",
+        "query2": "are frozen foods healthy",
+        "label": "MYTH: Frozen Food is Unhealthy",
+        "role": "hook"
+      },
+      {
+        "text": "Many believe frozen foods are inferior to fresh produce.",
+        "query": "frozen vs fresh food myths",
+        "query2": "frozen food misunderstandings",
+        "label": "MYTH: Fresh is Always Better",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "However, frozen fruits and vegetables can retain similar nutritional value to fresh ones, as they are often frozen at peak ripeness.",
+        "query": "nutritional value frozen vegetables",
+        "query2": "are frozen fruits nutritious",
+        "label": "TRUTH: Frozen Can Be Just as Nutritious",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "What's your go-to frozen meal?",
+        "query": "frozen food benefits",
+        "query2": "frozen food nutrition facts",
+        "label": "ON-SCREEN TAKEAWAY: Fresh vs Frozen",
+        "sub": "Don't disregard frozen options!",
+        "label_on": "frozen",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for the wellness basics that matter.",
+        "query": "frozen food health benefits",
+        "query2": "why frozen food is good",
+        "role": "cta"
+      }
+    ],
+    "description": "Is frozen food less healthy than fresh? Unearth the real benefits of frozen produce. Follow for more health insights!",
+    "hashtags": [
+      "#healthyfood",
+      "#frozen",
+      "#nutrition",
+      "#mythbusters",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Does Snacking Ruin Your Diet?",
+    "thumb": "SNACKING MYTHS",
+    "scenes": [
+      {
+        "text": "Can snacking sabotage your health goals? Let's explore!",
+        "hook_top": "SNACKING FRIEND OR FOE",
+        "query": "snacking diet impact",
+        "query2": "does snacking hurt your diet",
+        "label": "MYTH: Snacking is Bad",
+        "role": "hook"
+      },
+      {
+        "text": "Many people think that snacking leads to weight gain and bad habits.",
+        "query": "snacking weight gain myths",
+        "query2": "snacking dieting misconceptions",
+        "label": "MYTH: Snacking Causes Weight Gain",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "In fact, healthy snacks can help control hunger and prevent overeating during meals.",
+        "query": "benefits of healthy snacking",
+        "query2": "healthy snacks benefits",
+        "label": "TRUTH: Healthy Snacks Aid Diet",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "What do you snack on?",
+        "query": "healthy snack choices",
+        "query2": "snack ideas",
+        "label": "ON-SCREEN TAKEAWAY: Choose Wisely",
+        "sub": "Smart snacking can be beneficial!",
+        "label_on": "snack",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for simple habits that boost your health.",
+        "query": "snacking health tips",
+        "query2": "healthy eating advice",
+        "role": "cta"
+      }
+    ],
+    "description": "Does snacking ruin your diet? Discover how healthy snacks can actually support your nutritional goals. Follow us for more tips!",
+    "hashtags": [
+      "#snacking",
+      "#healthydiet",
+      "#nutrition",
+      "#myths",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is Breakfast the Most Important Meal?",
+    "thumb": "BREAKFAST MYTH",
+    "scenes": [
+      {
+        "text": "Is breakfast really essential for health? Let’s dive in!",
+        "hook_top": "BREAKFAST A MUST OR NOT",
+        "query": "importance of breakfast",
+        "query2": "is breakfast really important",
+        "label": "MYTH: Breakfast is Essential",
+        "role": "hook"
+      },
+      {
+        "text": "Many believe breakfast is the key to a healthy diet.",
+        "query": "breakfast health myths",
+        "query2": "importance of breakfast",
+        "label": "MYTH: You Must Eat Breakfast",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "However, research shows that skipping breakfast may not negatively affect overall health for everyone; it's about individual needs.",
+        "query": "breakfast research findings",
+        "query2": "important facts about breakfast",
+        "label": "TRUTH: Breakfast is Individual",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "What's your breakfast routine?",
+        "query": "breakfast choices",
+        "query2": "breakfast habits",
+        "label": "ON-SCREEN TAKEAWAY: Eat for You",
+        "sub": "Tailor meals to your lifestyle.",
+        "label_on": "breakfast",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for daily tips to feel your best.",
+        "query": "breakfast nutrition",
+        "query2": "importance of meals",
+        "role": "cta"
+      }
+    ],
+    "description": "Is breakfast the most important meal of the day? Find out the truth about breakfast and health. Follow us for more food insights!",
+    "hashtags": [
+      "#breakfast",
+      "#nutrition",
+      "#myths",
+      "#healthtips",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can You Drink Too Much Water?",
+    "thumb": "WATER MYTHS",
+    "scenes": [
+      {
+        "text": "Is it possible to drink too much water? Discover the answer!",
+        "hook_top": "WATER SAFE OR NOT",
+        "query": "water intake safety",
+        "query2": "can you drink too much water",
+        "label": "MYTH: More Water is Always Better",
+        "role": "hook"
+      },
+      {
+        "text": "Some people believe you can never drink too much water.",
+        "query": "water consumption myths",
+        "query2": "myths about hydration",
+        "label": "MYTH: Overhydration Isn’t Real",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "In reality, drinking excessive amounts of water can lead to a dangerous condition known as hyponatremia.",
+        "query": "hyponatremia causes",
+        "query2": "risks of overhydration",
+        "label": "TRUTH: Too Much Water Can be Harmful",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Stay informed about your hydration!",
+        "query": "healthy water consumption",
+        "query2": "how much water is safe",
+        "label": "ON-SCREEN TAKEAWAY: Balance is Key",
+        "sub": "Hydration is essential but needs balance.",
+        "label_on": "balance",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "water intake tips",
+        "query2": "hydration habits",
+        "role": "cta"
+      }
+    ],
+    "description": "Can you drink too much water? Learn about the balance of hydration and health. Follow us for more hydration tips!",
+    "hashtags": [
+      "#hydration",
+      "#water",
+      "#healthtips",
+      "#myths",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

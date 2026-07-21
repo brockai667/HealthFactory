@@ -1,0 +1,68 @@
+{
+  "title": "Why Movement Can Lift Your Mood",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "You can boost your mood in just 10 minutes of movement!",
+      "hook_top": "MOVE FOR A HAPPIER DAY",
+      "query": "person exercising outside",
+      "query2": "people running in park",
+      "kokoro_voice": "af_sarah"
+    },
+    {
+      "role": "fact",
+      "text": "Physical activity increases endorphin levels—your body’s feel-good hormones.",
+      "query": "endorphins in the brain",
+      "query2": "happy person exercising",
+      "chips": [
+        {
+          "t": "ENDLESS ENERGY",
+          "on": "movement",
+          "style": "accent"
+        }
+      ],
+      "punch": "feel-good"
+    },
+    {
+      "role": "fact",
+      "text": "Movement can also lower stress hormones like cortisol.",
+      "query": "stress hormone levels",
+      "query2": "cortisol chart",
+      "chips": [
+        {
+          "t": "LESS STRESS",
+          "on": "cortisol",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Even a brisk walk can make a difference. Just get moving!",
+      "query": "person walking briskly",
+      "query2": "brisk walking in park",
+      "label": "BRISK WALK BOOST",
+      "sub": "even for a few minutes",
+      "label_on": "walking",
+      "punch": "move"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "happy group exercising",
+      "query2": "people enjoying workout"
+    }
+  ],
+  "description": "Movement can lift your mood by releasing endorphins and reducing stress. Follow for daily health tips!",
+  "hashtags": [
+    "#movement",
+    "#moodboost",
+    "#endorphins",
+    "#wellness",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ]
+}
