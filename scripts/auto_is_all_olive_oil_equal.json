@@ -1,0 +1,58 @@
+{
+  "title": "Is All Olive Oil Equal?",
+  "thumb": "OLIVE OIL MYTHS",
+  "scenes": [
+    {
+      "text": "Not all olive oil is high quality. Discover the truth!",
+      "hook_top": "OLIVE OIL WHATS THE TRUTH",
+      "query": "olive oil quality differences",
+      "query2": "olive oil varieties",
+      "label": "MYTH: All Olive Oil is Equal",
+      "role": "hook"
+    },
+    {
+      "text": "Many believe all olive oils have the same health benefits.",
+      "query": "myths about olive oil",
+      "query2": "olive oil misconceptions",
+      "label": "MYTH: All Olive Oil has Same Benefits",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "In reality, extra virgin olive oil is the healthiest option, containing more antioxidants and healthy fats.",
+      "query": "extra virgin olive oil benefits",
+      "query2": "healthiest type of olive oil",
+      "label": "TRUTH: Extra Virgin is Best",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Choose wisely for true health benefits.",
+      "query": "health benefits of olive oil",
+      "query2": "olive oil health effects",
+      "label": "ON-SCREEN TAKEAWAY: Choose Quality",
+      "sub": "Opt for extra virgin olive oil.",
+      "label_on": "choose",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for your daily dose of vitality.",
+      "query": "olive oil facts",
+      "query2": "olive oil health tips",
+      "role": "cta"
+    }
+  ],
+  "description": "Is all olive oil created equal? Discover the health secrets behind olive oil varieties. Follow for more health insights!",
+  "hashtags": [
+    "#health",
+    "#nutrition",
+    "#oliveoil",
+    "#myths",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

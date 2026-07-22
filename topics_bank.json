@@ -3902,5 +3902,109 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Is Whole Grain Bread Really Healthier?",
+    "thumb": "WHOLE GRAIN TRUTH",
+    "scenes": [
+      {
+        "text": "Whole grain bread is 4 times higher in fiber than white bread.",
+        "hook_top": "4 TIMES MORE FIBER",
+        "query": "whole grain bread fiber content",
+        "query2": "whole grain bread vs white bread",
+        "role": "hook"
+      },
+      {
+        "text": "Whole grains can reduce heart disease risk by nearly 25%.",
+        "chips": [
+          {
+            "t": "HEART DISEASE RISK",
+            "on": "reduce",
+            "style": "accent"
+          }
+        ],
+        "query": "whole grains heart disease risk",
+        "query2": "benefits of whole grains",
+        "role": "fact"
+      },
+      {
+        "text": "Many 'whole grain' labels can be misleading.",
+        "reveal_top": "LABELS CAN DECEIVE YOU!",
+        "query": "whole grain labels accuracy",
+        "query2": "misleading food labels",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for the wellness basics that matter.",
+        "cta": "Follow for health tips!",
+        "query": "healthy eating tips",
+        "query2": "nutrition advice",
+        "role": "cta"
+      }
+    ],
+    "description": "Are you confused about whole grain bread? Discover its hidden truths and how to spot misleading labels. Follow for more health tips!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#wholegrains",
+      "#healthylifestyle",
+      "#nutritiontips",
+      "#foodmyths"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "What’s the Truth About Processed Oils?",
+    "thumb": "OIL MYTHS REVEALED",
+    "scenes": [
+      {
+        "text": "Many processed foods contain a blend of oils instead of just one.",
+        "hook_top": "BLENDS OF OILS UNVEILED",
+        "query": "processed food oil blends",
+        "query2": "types of cooking oils",
+        "role": "hook"
+      },
+      {
+        "text": "This mix can alter the nutritional value, affecting health.",
+        "chips": [
+          {
+            "t": "NUTRITIONAL IMPACT",
+            "on": "alter",
+            "style": "white"
+          }
+        ],
+        "query": "oil blends nutritional value",
+        "query2": "health effects of oils",
+        "role": "fact"
+      },
+      {
+        "text": "Not all oils are created equal, some are worse than others.",
+        "reveal_top": "SOME OILS ARE HARMFUL!",
+        "query": "bad oils vs good oils",
+        "query2": "healthy cooking oils",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "cta": "Follow for more insights!",
+        "query": "food choices health",
+        "query2": "nutrition information",
+        "role": "cta"
+      }
+    ],
+    "description": "Wondering about the oils in your food? Uncover the truth behind oil blends and their health impacts. Follow us for more insights!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#cooking",
+      "#nutritionfacts",
+      "#foodchoices",
+      "#healthytips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

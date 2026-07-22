@@ -1,0 +1,58 @@
+{
+  "title": "Can Cooking Destroy Nutrients?",
+  "thumb": "COOKING MYTHS",
+  "scenes": [
+    {
+      "text": "Are nutrients lost when cooking? Find out now!",
+      "hook_top": "COOKING AND NUTRIENTS FACT OR MYTH",
+      "query": "nutrient loss in cooking",
+      "query2": "does cooking destroy nutrients",
+      "label": "MYTH: Cooking Destroys Nutrients",
+      "role": "hook"
+    },
+    {
+      "text": "Many think that cooking always destroys vitamins and minerals.",
+      "query": "common cooking myths",
+      "query2": "cooking nutrient loss",
+      "label": "MYTH: Cooking Always Harms Nutrients",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "In truth, some cooking methods can actually enhance nutrient absorption, like cooking tomatoes increasing lycopene availability.",
+      "query": "cooking methods nutrient benefits",
+      "query2": "how cooking affects nutrients",
+      "label": "TRUTH: Cooking Can Enhance Absorption",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Different methods yield different results.",
+      "query": "best cooking methods nutrients",
+      "query2": "nutrient retention cooking",
+      "label": "ON-SCREEN TAKEAWAY: Methods Matter!",
+      "sub": "Learn the best cooking techniques.",
+      "label_on": "methods",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "cooking health facts",
+      "query2": "nutritional cooking advice",
+      "role": "cta"
+    }
+  ],
+  "description": "Can cooking really destroy nutrients? Explore how different cooking methods impact your food's health benefits. Follow us for more insights!",
+  "hashtags": [
+    "#nutrition",
+    "#cooking",
+    "#healthtips",
+    "#mythbusters",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
