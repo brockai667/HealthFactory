@@ -2,7 +2,7 @@ name: HealthFactory Daily
 
 on:
   schedule:
-    - cron: "12 20 * * *"   # 01:12 UTC (~03:12 Bratislava) - skoro rano, hotove davno pred publik. slotom
+    - cron: "39 1 * * *"   # rozhadzane (anti rate-limit GitHub Models)
   workflow_dispatch: {}    # umoznuje rucne spustenie z GitHub UI
 
 permissions:
