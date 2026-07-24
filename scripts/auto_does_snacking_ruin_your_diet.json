@@ -1,0 +1,58 @@
+{
+  "title": "Does Snacking Ruin Your Diet?",
+  "thumb": "SNACKING MYTHS",
+  "scenes": [
+    {
+      "text": "Can snacking sabotage your health goals? Let's explore!",
+      "hook_top": "SNACKING FRIEND OR FOE",
+      "query": "snacking diet impact",
+      "query2": "does snacking hurt your diet",
+      "label": "MYTH: Snacking is Bad",
+      "role": "hook"
+    },
+    {
+      "text": "Many people think that snacking leads to weight gain and bad habits.",
+      "query": "snacking weight gain myths",
+      "query2": "snacking dieting misconceptions",
+      "label": "MYTH: Snacking Causes Weight Gain",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "In fact, healthy snacks can help control hunger and prevent overeating during meals.",
+      "query": "benefits of healthy snacking",
+      "query2": "healthy snacks benefits",
+      "label": "TRUTH: Healthy Snacks Aid Diet",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "What do you snack on?",
+      "query": "healthy snack choices",
+      "query2": "snack ideas",
+      "label": "ON-SCREEN TAKEAWAY: Choose Wisely",
+      "sub": "Smart snacking can be beneficial!",
+      "label_on": "snack",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for simple habits that boost your health.",
+      "query": "snacking health tips",
+      "query2": "healthy eating advice",
+      "role": "cta"
+    }
+  ],
+  "description": "Does snacking ruin your diet? Discover how healthy snacks can actually support your nutritional goals. Follow us for more tips!",
+  "hashtags": [
+    "#snacking",
+    "#healthydiet",
+    "#nutrition",
+    "#myths",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -4006,5 +4006,70 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Is Oat Milk Really Bad for You?",
+    "thumb": "OAT MILK MYTHS",
+    "scenes": [
+      {
+        "hook_top": "OAT MILK SUGAR TRAP",
+        "query": "oat milk sugar content",
+        "query2": "sugar in oat milk",
+        "role": "hook",
+        "text": "Did you know oat milk can have added sugars?"
+      },
+      {
+        "chips": [
+          {
+            "t": "SUGAR LEVELS",
+            "on": "added sugars",
+            "style": "white"
+          }
+        ],
+        "punch": "watch out!",
+        "query": "oat milk brand comparisons",
+        "query2": "sugar in milk alternatives",
+        "role": "fact",
+        "text": "Some brands add more sugar than regular milk alternatives."
+      },
+      {
+        "chips": [
+          {
+            "t": "PROTEIN CONTENT",
+            "on": "protein comparison",
+            "style": "accent"
+          }
+        ],
+        "punch": "important!",
+        "query": "oat milk vs soy milk protein",
+        "query2": "comparison of milk types",
+        "role": "fact",
+        "text": "It's often lower in protein compared to soy milk."
+      },
+      {
+        "reveal_top": "OAT MILK VARIES WIDELY",
+        "query": "best oat milk brands",
+        "query2": "oat milk nutritional values",
+        "role": "reveal",
+        "text": "Not all oat milk is equal; choose wisely!"
+      },
+      {
+        "query": "nutrition facts",
+        "query2": "health myths",
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best."
+      }
+    ],
+    "description": "Explore the hidden truths about oat milk, including sugar levels and protein content. Make informed choices about your beverages! Follow for more insights.",
+    "hashtags": [
+      "#shorts",
+      "#oatmilk",
+      "#nutrition",
+      "#healthyliving",
+      "#milkalternatives",
+      "#foodfacts"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

@@ -1,0 +1,58 @@
+{
+  "title": "Is Frozen Food Less Healthy?",
+  "thumb": "FROZEN FOOD MYTHS",
+  "scenes": [
+    {
+      "text": "Are frozen foods a health risk? Let's clarify!",
+      "hook_top": "FROZEN FOOD HEALTH OR HARM",
+      "query": "health risks of frozen food",
+      "query2": "are frozen foods healthy",
+      "label": "MYTH: Frozen Food is Unhealthy",
+      "role": "hook"
+    },
+    {
+      "text": "Many believe frozen foods are inferior to fresh produce.",
+      "query": "frozen vs fresh food myths",
+      "query2": "frozen food misunderstandings",
+      "label": "MYTH: Fresh is Always Better",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "However, frozen fruits and vegetables can retain similar nutritional value to fresh ones, as they are often frozen at peak ripeness.",
+      "query": "nutritional value frozen vegetables",
+      "query2": "are frozen fruits nutritious",
+      "label": "TRUTH: Frozen Can Be Just as Nutritious",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "What's your go-to frozen meal?",
+      "query": "frozen food benefits",
+      "query2": "frozen food nutrition facts",
+      "label": "ON-SCREEN TAKEAWAY: Fresh vs Frozen",
+      "sub": "Don't disregard frozen options!",
+      "label_on": "frozen",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for the wellness basics that matter.",
+      "query": "frozen food health benefits",
+      "query2": "why frozen food is good",
+      "role": "cta"
+    }
+  ],
+  "description": "Is frozen food less healthy than fresh? Unearth the real benefits of frozen produce. Follow for more health insights!",
+  "hashtags": [
+    "#healthyfood",
+    "#frozen",
+    "#nutrition",
+    "#mythbusters",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
