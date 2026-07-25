@@ -4071,5 +4071,249 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Can Cooking Oil Affect Nutrition?",
+    "thumb": "OIL IMPACT ON NUTRITION",
+    "scenes": [
+      {
+        "hook_top": "COOKING OIL MYTHS",
+        "fact": "Combining oils can impact your health benefits.",
+        "chips": [],
+        "punch": "mixing",
+        "query": "cooking oils health benefits",
+        "query2": "cooking oils nutrition",
+        "role": "hook",
+        "text": "What happens when you mix cooking oils?"
+      },
+      {
+        "chips": [
+          {
+            "t": "HEART HEALTH",
+            "on": "health benefits",
+            "style": "accent"
+          }
+        ],
+        "punch": "benefits",
+        "query": "olive oil health advantages",
+        "query2": "heart health oils",
+        "role": "fact",
+        "text": "Some oils, like olive oil, provide heart health benefits."
+      },
+      {
+        "sub": "Choose wisely for nutrition!",
+        "label_on": "combination",
+        "query": "oil combination health effects",
+        "query2": "cooking oil selection",
+        "role": "callout",
+        "text": "OIL COMBINATION MATTERS"
+      },
+      {
+        "query": "healthy cooking tips",
+        "query2": "kitchen health hacks",
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health."
+      }
+    ],
+    "description": "Mixing cooking oils can impact health benefits. Discover which oils serve your nutrition best! Follow for more healthy tips.",
+    "hashtags": [
+      "#health",
+      "#nutrition",
+      "#cooking",
+      "#oils",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Do Processed Foods Use Mixed Oils?",
+    "thumb": "MIXED OILS EXPLAINED",
+    "scenes": [
+      {
+        "hook_top": "MULTIPLE OILS MYTH",
+        "fact": "Processed foods often blend oils for cost and flavor.",
+        "chips": [],
+        "punch": "blending",
+        "query": "processed foods oil blends",
+        "query2": "mixed oils in foods",
+        "role": "hook",
+        "text": "Why do processed foods use multiple oils?"
+      },
+      {
+        "chips": [
+          {
+            "t": "FATTY ACIDS",
+            "on": "fatty acids",
+            "style": "accent"
+          }
+        ],
+        "punch": "influence",
+        "query": "oil blending fatty acids",
+        "query2": "fatty acid profiles",
+        "role": "fact",
+        "text": "Blending oils can influence fatty acid profiles."
+      },
+      {
+        "sub": "Not all oils are equal!",
+        "label_on": "understand",
+        "query": "oil blending in processing",
+        "query2": "processed oil effects",
+        "role": "callout",
+        "text": "UNDERSTAND OIL BLENDING"
+      },
+      {
+        "query": "food processing transparency",
+        "query2": "cooking oil facts",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "Processed foods often blend oils for improved cost and flavor. Understand the impact of these combinations! Follow us for more insights.",
+    "hashtags": [
+      "#nutrition",
+      "#processedfoods",
+      "#cooking",
+      "#oils",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why Your Peanut Butter Might Disappoint",
+    "thumb": "PEANUT BUTTER TRUTH",
+    "scenes": [
+      {
+        "hook_top": "PEANUT BUTTER SECRETS",
+        "query": "powdered peanut butter nutrition",
+        "query2": "nutrient content of peanut butter",
+        "role": "hook",
+        "text": "Is powdered peanut butter missing nutrients?"
+      },
+      {
+        "chips": [
+          {
+            "t": "85% LESS FAT",
+            "on": "less fat",
+            "style": "accent"
+          }
+        ],
+        "punch": "Wow!",
+        "query": "powdered peanut butter benefits",
+        "query2": "health benefits of peanut butter",
+        "role": "fact",
+        "text": "Powdered peanut butter can have up to 85% less fat than regular."
+      },
+      {
+        "chips": [
+          {
+            "t": "LESS PROTEIN",
+            "on": "less protein",
+            "style": "white"
+          }
+        ],
+        "punch": "Surprising!",
+        "query": "peanut butter protein content",
+        "query2": "protein in regular peanut butter",
+        "role": "fact",
+        "text": "However, it also contains less protein per serving."
+      },
+      {
+        "reveal_top": "NOT A COMPLETE PROTEIN",
+        "query": "complete protein definition",
+        "query2": "protein completeness",
+        "role": "reveal",
+        "text": "Powdered peanut butter is not a complete protein!"
+      },
+      {
+        "query": "food facts",
+        "query2": "healthy eating tips",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Powdered peanut butter may cut calories, but what does it lose? Discover the surprising truth about this popular swap! Follow for more!",
+    "hashtags": [
+      "#healthtips",
+      "#nutrition",
+      "#peanutbutter",
+      "#foodfacts",
+      "#healthychoices",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Are All Oils Created Equal?",
+    "thumb": "OIL MYTHS REVEALED",
+    "scenes": [
+      {
+        "hook_top": "OIL BLENDS EXPLAINED",
+        "query": "oil blends benefits",
+        "query2": "oil types comparison",
+        "role": "hook",
+        "text": "Is it true that oil blends are better?"
+      },
+      {
+        "chips": [
+          {
+            "t": "STABILIZE FLAVORS",
+            "on": "stabilize",
+            "style": "accent"
+          }
+        ],
+        "punch": "Interesting!",
+        "query": "oil blend purpose",
+        "query2": "purpose of oil blends",
+        "role": "fact",
+        "text": "Many processed foods use oil blends to stabilize flavors."
+      },
+      {
+        "chips": [
+          {
+            "t": "UNIQUE BENEFITS",
+            "on": "unique health benefits",
+            "style": "white"
+          }
+        ],
+        "punch": "Good to know!",
+        "query": "health benefits of olive oil",
+        "query2": "benefits of single oils",
+        "role": "fact",
+        "text": "Single oils may provide unique health benefits not found in blends."
+      },
+      {
+        "reveal_top": "BLENDS LOSE BENEFITS",
+        "query": "health benefits of oil",
+        "query2": "oil health comparison",
+        "role": "reveal",
+        "text": "You might miss out on health benefits with blends!"
+      },
+      {
+        "query": "healthy cooking tips",
+        "query2": "cooking with oils",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Oil blends are common in processed foods, but are they the best choice for health? Find out what you might be missing! Follow for more!",
+    "hashtags": [
+      "#healthyfats",
+      "#oilblends",
+      "#nutritionfacts",
+      "#cookinghacks",
+      "#foodmyths",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

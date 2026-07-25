@@ -1,0 +1,58 @@
+{
+  "title": "Is Breakfast the Most Important Meal?",
+  "thumb": "BREAKFAST MYTH",
+  "scenes": [
+    {
+      "text": "Is breakfast really essential for health? Let’s dive in!",
+      "hook_top": "BREAKFAST A MUST OR NOT",
+      "query": "importance of breakfast",
+      "query2": "is breakfast really important",
+      "label": "MYTH: Breakfast is Essential",
+      "role": "hook"
+    },
+    {
+      "text": "Many believe breakfast is the key to a healthy diet.",
+      "query": "breakfast health myths",
+      "query2": "importance of breakfast",
+      "label": "MYTH: You Must Eat Breakfast",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "However, research shows that skipping breakfast may not negatively affect overall health for everyone; it's about individual needs.",
+      "query": "breakfast research findings",
+      "query2": "important facts about breakfast",
+      "label": "TRUTH: Breakfast is Individual",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "What's your breakfast routine?",
+      "query": "breakfast choices",
+      "query2": "breakfast habits",
+      "label": "ON-SCREEN TAKEAWAY: Eat for You",
+      "sub": "Tailor meals to your lifestyle.",
+      "label_on": "breakfast",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for daily tips to feel your best.",
+      "query": "breakfast nutrition",
+      "query2": "importance of meals",
+      "role": "cta"
+    }
+  ],
+  "description": "Is breakfast the most important meal of the day? Find out the truth about breakfast and health. Follow us for more food insights!",
+  "hashtags": [
+    "#breakfast",
+    "#nutrition",
+    "#myths",
+    "#healthtips",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

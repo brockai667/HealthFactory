@@ -1,0 +1,58 @@
+{
+  "title": "Can You Drink Too Much Water?",
+  "thumb": "WATER MYTHS",
+  "scenes": [
+    {
+      "text": "Is it possible to drink too much water? Discover the answer!",
+      "hook_top": "WATER SAFE OR NOT",
+      "query": "water intake safety",
+      "query2": "can you drink too much water",
+      "label": "MYTH: More Water is Always Better",
+      "role": "hook"
+    },
+    {
+      "text": "Some people believe you can never drink too much water.",
+      "query": "water consumption myths",
+      "query2": "myths about hydration",
+      "label": "MYTH: Overhydration Isn’t Real",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "In reality, drinking excessive amounts of water can lead to a dangerous condition known as hyponatremia.",
+      "query": "hyponatremia causes",
+      "query2": "risks of overhydration",
+      "label": "TRUTH: Too Much Water Can be Harmful",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Stay informed about your hydration!",
+      "query": "healthy water consumption",
+      "query2": "how much water is safe",
+      "label": "ON-SCREEN TAKEAWAY: Balance is Key",
+      "sub": "Hydration is essential but needs balance.",
+      "label_on": "balance",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "water intake tips",
+      "query2": "hydration habits",
+      "role": "cta"
+    }
+  ],
+  "description": "Can you drink too much water? Learn about the balance of hydration and health. Follow us for more hydration tips!",
+  "hashtags": [
+    "#hydration",
+    "#water",
+    "#healthtips",
+    "#myths",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
