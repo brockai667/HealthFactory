@@ -1,0 +1,52 @@
+{
+  "title": "What’s the Truth About Processed Oils?",
+  "thumb": "OIL MYTHS REVEALED",
+  "scenes": [
+    {
+      "text": "Many processed foods contain a blend of oils instead of just one.",
+      "hook_top": "BLENDS OF OILS UNVEILED",
+      "query": "processed food oil blends",
+      "query2": "types of cooking oils",
+      "role": "hook"
+    },
+    {
+      "text": "This mix can alter the nutritional value, affecting health.",
+      "chips": [
+        {
+          "t": "NUTRITIONAL IMPACT",
+          "on": "alter",
+          "style": "white"
+        }
+      ],
+      "query": "oil blends nutritional value",
+      "query2": "health effects of oils",
+      "role": "fact"
+    },
+    {
+      "text": "Not all oils are created equal, some are worse than others.",
+      "reveal_top": "SOME OILS ARE HARMFUL!",
+      "query": "bad oils vs good oils",
+      "query2": "healthy cooking oils",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "cta": "Follow for more insights!",
+      "query": "food choices health",
+      "query2": "nutrition information",
+      "role": "cta"
+    }
+  ],
+  "description": "Wondering about the oils in your food? Uncover the truth behind oil blends and their health impacts. Follow us for more insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#cooking",
+    "#nutritionfacts",
+    "#foodchoices",
+    "#healthytips"
+  ],
+  "place": "",
+  "country": ""
+}

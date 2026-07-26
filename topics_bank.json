@@ -4315,5 +4315,287 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "3 Surprising Facts About Protein Quality",
+    "thumb": "PROTEIN QUALITY REVEALED",
+    "scenes": [
+      {
+        "hook_top": "PROTEIN QUALITY MATTERS",
+        "count": "1",
+        "label": "COMPLETE VS INCOMPLETE",
+        "label_on": "complete",
+        "query": "complete vs incomplete protein",
+        "query2": "protein quality types",
+        "role": "hook",
+        "text": "Are you getting enough complete protein?"
+      },
+      {
+        "label": "NUTRIENT ABSORPTION",
+        "label_on": "absorption",
+        "query": "nutrient absorption protein",
+        "query2": "protein health benefits",
+        "role": "count",
+        "text": "2",
+        "num": 1
+      },
+      {
+        "label": "SPROUTING BOOSTS PROTE",
+        "label_on": "sprouting",
+        "query": "sprouted protein benefits",
+        "query2": "sprouting beans protein",
+        "role": "count",
+        "text": "3",
+        "num": 2
+      },
+      {
+        "query": "health tips follow",
+        "query2": "health advice",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Discover the hidden truths about protein quality that could maximize your nutrition. Don't miss out on these essential insights!",
+    "hashtags": [
+      "#nutrition",
+      "#protein",
+      "#healthylifestyle",
+      "#shorts",
+      "#wellness",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Reasons to Avoid Processed Oils",
+    "thumb": "PROCESSED OIL REVELATIONS",
+    "scenes": [
+      {
+        "hook_top": "AVOID PROCESSED OILS",
+        "count": "1",
+        "label": "HIDDEN TRANS FATS",
+        "label_on": "trans fats",
+        "query": "hidden trans fats in oils",
+        "query2": "processed oils dangers",
+        "role": "hook",
+        "text": "Did you know processed oils can harm health?"
+      },
+      {
+        "label": "UNBALANCED OMEGA RATIO",
+        "label_on": "omega imbalance",
+        "query": "omega fatty acids balance",
+        "query2": "omega ratio health",
+        "role": "count",
+        "text": "2",
+        "num": 1
+      },
+      {
+        "label": "CHEMICAL ADDITIVES",
+        "label_on": "additives",
+        "query": "chemical additives in oils",
+        "query2": "processed oil risks",
+        "role": "count",
+        "text": "3",
+        "num": 2
+      },
+      {
+        "query": "cooking tips follow",
+        "query2": "kitchen advice",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "Learn why choosing unprocessed oils can benefit your health and cooking. Make informed choices in your kitchen today!",
+    "hashtags": [
+      "#health",
+      "#oils",
+      "#cooking",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Do You Need Complete Proteins?",
+    "thumb": "PROTEIN MYTHS BUSTED",
+    "scenes": [
+      {
+        "hook_top": "PROTEIN CONCERNS TODAY",
+        "fact": "Complete proteins contain all essential amino acids.",
+        "chips": [
+          {
+            "t": "MAX 22 CHARS",
+            "on": "protein",
+            "style": "accent"
+          }
+        ],
+        "query": "complete protein definition",
+        "query2": "amino acids in protein",
+        "role": "hook",
+        "text": "30% of adults ignore protein needs!"
+      },
+      {
+        "chips": [
+          {
+            "t": "MAX 22 CHARS",
+            "on": "plant foods",
+            "style": "white"
+          }
+        ],
+        "query": "plant protein combinations",
+        "query2": "plant protein sources",
+        "role": "fact",
+        "text": "Combining plant foods can provide complete proteins."
+      },
+      {
+        "label": "Are you getting enough?",
+        "sub": "Learn about protein types",
+        "label_on": "protein",
+        "query": "importance of protein",
+        "query2": "protein dietary needs",
+        "role": "callout",
+        "text": "Protein Facts!"
+      },
+      {
+        "query": "follow nutrition advice",
+        "query2": "healthy eating tips",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "Are you confused about protein sources? Learn the truth about complete and incomplete proteins! Follow us for more nutrition insights.",
+    "hashtags": [
+      "#protein",
+      "#nutrition",
+      "#healthylifestyle",
+      "#completeproteins",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Truth About Incomplete Proteins",
+    "thumb": "INCOMPLETE PROTEINS EXPLAINED",
+    "scenes": [
+      {
+        "hook_top": "INCOMPLETE PROTEINS REVEALED",
+        "fact": "20 amino acids are essential for human health.",
+        "chips": [
+          {
+            "t": "20 AMINO ACIDS",
+            "on": "essential",
+            "style": "accent"
+          }
+        ],
+        "query": "essential amino acids",
+        "query2": "amino acids sources",
+        "role": "hook",
+        "text": "7 essential amino acids are missing in some proteins."
+      },
+      {
+        "chips": [
+          {
+            "t": "ESSENTIAL AMINO ACIDS",
+            "on": "plant proteins",
+            "style": "white"
+          }
+        ],
+        "query": "plant proteins amino acids",
+        "query2": "difference between proteins",
+        "role": "fact",
+        "text": "Most plant proteins lack one or more essential amino acids."
+      },
+      {
+        "reveal_top": "COMBINE FOR COMPLETE PROTEINS",
+        "query": "complete proteins combination",
+        "query2": "combining proteins",
+        "role": "reveal",
+        "text": "But they can be combined for completeness!"
+      },
+      {
+        "query": "healthy eating habits",
+        "query2": "health tips",
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality."
+      }
+    ],
+    "description": "Learn why some proteins are called incomplete and how to pair them for optimal health. Follow for science-backed wellness tips!",
+    "hashtags": [
+      "#shorts",
+      "#health",
+      "#nutrition",
+      "#protein",
+      "#plantbased",
+      "#wellness",
+      "#fitness",
+      "#guide"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Do You Know the Best Water Intake?",
+    "thumb": "WATER INTAKE FACTS",
+    "scenes": [
+      {
+        "hook_top": "DEHYDRATION IS COMMON",
+        "fact": "Proper hydration boosts mood and cognitive function.",
+        "chips": [
+          {
+            "t": "BOOSTS MOOD!",
+            "on": "hydration",
+            "style": "accent"
+          }
+        ],
+        "query": "benefits of hydration",
+        "query2": "importance of drinking water",
+        "role": "hook",
+        "text": "75% of Americans are chronically dehydrated."
+      },
+      {
+        "chips": [
+          {
+            "t": "3.7 L FOR MEN",
+            "on": "daily intake",
+            "style": "white"
+          }
+        ],
+        "query": "water intake recommendations",
+        "query2": "hydration needs",
+        "role": "fact",
+        "text": "Experts suggest about 3.7 liters for men, and 2.7 liters for women per day."
+      },
+      {
+        "reveal_top": "ACTIVITY BOOSTS WATER NEED",
+        "query": "hydration during exercise",
+        "query2": "how much to drink when exercising",
+        "role": "reveal",
+        "text": "But you might need more when active!"
+      },
+      {
+        "query": "hydration tips",
+        "query2": "water consumption",
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best."
+      }
+    ],
+    "description": "Discover the truth about hydration and daily water intake recommendations! Don’t forget to follow for more practical health tips.",
+    "hashtags": [
+      "#shorts",
+      "#water",
+      "#hydration",
+      "#healthtips",
+      "#wellness",
+      "#fitness",
+      "#nutrition",
+      "#mindfulness"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
