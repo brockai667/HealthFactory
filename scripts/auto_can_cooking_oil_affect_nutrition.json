@@ -1,0 +1,56 @@
+{
+  "title": "Can Cooking Oil Affect Nutrition?",
+  "thumb": "OIL IMPACT ON NUTRITION",
+  "scenes": [
+    {
+      "hook_top": "COOKING OIL MYTHS",
+      "fact": "Combining oils can impact your health benefits.",
+      "chips": [],
+      "punch": "mixing",
+      "query": "cooking oils health benefits",
+      "query2": "cooking oils nutrition",
+      "role": "hook",
+      "text": "What happens when you mix cooking oils?"
+    },
+    {
+      "chips": [
+        {
+          "t": "HEART HEALTH",
+          "on": "health benefits",
+          "style": "accent"
+        }
+      ],
+      "punch": "benefits",
+      "query": "olive oil health advantages",
+      "query2": "heart health oils",
+      "role": "fact",
+      "text": "Some oils, like olive oil, provide heart health benefits."
+    },
+    {
+      "sub": "Choose wisely for nutrition!",
+      "label_on": "combination",
+      "query": "oil combination health effects",
+      "query2": "cooking oil selection",
+      "role": "callout",
+      "text": "OIL COMBINATION MATTERS"
+    },
+    {
+      "query": "healthy cooking tips",
+      "query2": "kitchen health hacks",
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "Mixing cooking oils can impact health benefits. Discover which oils serve your nutrition best! Follow for more healthy tips.",
+  "hashtags": [
+    "#health",
+    "#nutrition",
+    "#cooking",
+    "#oils",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
