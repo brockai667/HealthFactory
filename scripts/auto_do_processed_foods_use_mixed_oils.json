@@ -1,0 +1,56 @@
+{
+  "title": "Do Processed Foods Use Mixed Oils?",
+  "thumb": "MIXED OILS EXPLAINED",
+  "scenes": [
+    {
+      "hook_top": "MULTIPLE OILS MYTH",
+      "fact": "Processed foods often blend oils for cost and flavor.",
+      "chips": [],
+      "punch": "blending",
+      "query": "processed foods oil blends",
+      "query2": "mixed oils in foods",
+      "role": "hook",
+      "text": "Why do processed foods use multiple oils?"
+    },
+    {
+      "chips": [
+        {
+          "t": "FATTY ACIDS",
+          "on": "fatty acids",
+          "style": "accent"
+        }
+      ],
+      "punch": "influence",
+      "query": "oil blending fatty acids",
+      "query2": "fatty acid profiles",
+      "role": "fact",
+      "text": "Blending oils can influence fatty acid profiles."
+    },
+    {
+      "sub": "Not all oils are equal!",
+      "label_on": "understand",
+      "query": "oil blending in processing",
+      "query2": "processed oil effects",
+      "role": "callout",
+      "text": "UNDERSTAND OIL BLENDING"
+    },
+    {
+      "query": "food processing transparency",
+      "query2": "cooking oil facts",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "Processed foods often blend oils for improved cost and flavor. Understand the impact of these combinations! Follow us for more insights.",
+  "hashtags": [
+    "#nutrition",
+    "#processedfoods",
+    "#cooking",
+    "#oils",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

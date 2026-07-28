@@ -4770,5 +4770,273 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Is Brown Rice Really Healthier?",
+    "thumb": "BROWN RICE MYTH",
+    "scenes": [
+      {
+        "text": "Many believe brown rice is always the healthier choice.",
+        "label": "MYTH: Brown rice is always better.",
+        "query": "brown rice health benefits",
+        "query2": "brown rice nutrition facts",
+        "role": "hook",
+        "hook_top": "MANY BELIEVE BROWN RICE IS ALWAYS"
+      },
+      {
+        "text": "While brown rice offers more fiber, it also has higher phytic acid, which can inhibit mineral absorption.",
+        "label": "TRUTH: Nutrient absorption differs.",
+        "query": "brown rice vs white rice",
+        "query2": "phytic acid effects",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Consider your overall diet and specific nutritional needs when choosing rice.",
+        "label": "TAKEAWAY: Choose wisely!",
+        "sub": "Balance nutrients in your meals.",
+        "label_on": "Consider",
+        "role": "fact",
+        "query": "Is Brown Rice Really Healthier?",
+        "query2": "cinematic nature landscape",
+        "chips": []
+      },
+      {
+        "text": "Follow for daily tips to feel your best.",
+        "query": "health and nutrition tips",
+        "query2": "healthy eating habits",
+        "role": "cta"
+      }
+    ],
+    "description": "Is brown rice truly the superior option? Discover the truth about its nutritional impact compared to white rice. Follow for more health insights!",
+    "hashtags": [
+      "#brownrice",
+      "#nutrition",
+      "#healthmyths",
+      "#shorts",
+      "#fyp",
+      "#healthytips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Are All Plant Proteins Incomplete?",
+    "thumb": "PLANT PROTEIN MYTH",
+    "scenes": [
+      {
+        "text": "Many think all plant proteins lack essential amino acids.",
+        "label": "MYTH: All plant proteins are incomplete.",
+        "query": "plant protein completeness",
+        "query2": "amino acids plant foods",
+        "role": "hook",
+        "hook_top": "MANY THINK ALL PLANT PROTEINS LACK"
+      },
+      {
+        "text": "Some plant proteins, like quinoa and soy, are complete sources of protein with all essential amino acids.",
+        "label": "TRUTH: Some are complete proteins.",
+        "query": "complete plant proteins",
+        "query2": "quinoa soy protein",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Balance your protein sources to meet all amino acid needs.",
+        "label": "TAKEAWAY: Mix your proteins!",
+        "sub": "Diverse sources are key.",
+        "label_on": "Mix",
+        "role": "fact",
+        "query": "Are All Plant Proteins Incomplete?",
+        "query2": "cinematic nature landscape",
+        "chips": []
+      },
+      {
+        "text": "Follow for daily tips to feel your best.",
+        "query": "plant based protein tips",
+        "query2": "healthy protein sources",
+        "role": "cta"
+      }
+    ],
+    "description": "Are all plant proteins flawed? Uncover the truth about their amino acid profiles and learn how to balance your protein intake. Follow for more!",
+    "hashtags": [
+      "#plantprotein",
+      "#nutritionfacts",
+      "#healthmyths",
+      "#shorts",
+      "#fyp",
+      "#protein"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Hydration Myths: Do You Need 8 Glasses?",
+    "thumb": "WATER INTAKE MYTH",
+    "scenes": [
+      {
+        "text": "The 8-glasses-a-day rule is a common belief.",
+        "label": "MYTH: 8 glasses of water daily.",
+        "query": "daily water intake recommendations",
+        "query2": "hydration rules",
+        "role": "hook",
+        "hook_top": "THE 8GLASSESADAY RULE IS A COMMON"
+      },
+      {
+        "text": "Water needs vary based on factors like age, activity level, and climate; listen to your body's thirst cues.",
+        "label": "TRUTH: Needs vary significantly.",
+        "query": "hydration needs individual",
+        "query2": "water intake factors",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Hydrate based on your lifestyle and thirst.",
+        "label": "TAKEAWAY: Listen to your body!",
+        "sub": "Hydration is personal.",
+        "label_on": "Hydrate",
+        "role": "fact",
+        "query": "Hydration Myths: Do You Need 8 Glasses?",
+        "query2": "cinematic nature landscape",
+        "chips": []
+      },
+      {
+        "text": "Follow for your daily dose of vitality.",
+        "query": "hydration tips for health",
+        "query2": "drinking water benefits",
+        "role": "cta"
+      }
+    ],
+    "description": "Do you really need eight glasses of water every day? Find out the truth behind hydration needs and listen to your body. Follow for more insights!",
+    "hashtags": [
+      "#hydration",
+      "#waterintake",
+      "#healthmyths",
+      "#shorts",
+      "#fyp",
+      "#wellness"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "How Much Protein Do You Need?",
+    "thumb": "PROTEIN NEEDS EXPLAINED",
+    "scenes": [
+      {
+        "hook_top": "12 GRAMS PROTEIN DAILY",
+        "fact": "The Recommended Dietary Allowance (RDA) for protein is 46g for women and 56g for men.",
+        "chips": [
+          {
+            "t": "RDA PROTEIN",
+            "on": "RDA",
+            "style": "white"
+          }
+        ],
+        "query": "protein rda recommendations",
+        "query2": "protein intake guidelines",
+        "role": "hook",
+        "text": "Most adults need about 1.2 grams of protein daily."
+      },
+      {
+        "chips": [
+          {
+            "t": "MUSCLE MAINTENANCE",
+            "on": "muscle",
+            "style": "accent"
+          }
+        ],
+        "query": "protein muscle maintenance",
+        "query2": "importance of protein",
+        "role": "fact",
+        "text": "Protein is essential for muscle maintenance and repair, especially for active adults."
+      },
+      {
+        "label": "Ensure you're hitting your protein goals.",
+        "sub": "Monitor your daily intake.",
+        "label_on": "protein goals",
+        "query": "protein intake check",
+        "query2": "tracking protein intake",
+        "role": "callout",
+        "text": "CHECK YOUR INTAKE!"
+      },
+      {
+        "query": "follow health tips",
+        "query2": "nutrition advice",
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality."
+      }
+    ],
+    "description": "Are you getting enough protein for your needs? Discover the specific amounts that can help maintain your muscle health. Follow us for practical nutrition tips!",
+    "hashtags": [
+      "#health",
+      "#nutrition",
+      "#protein",
+      "#fitness",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Are Daily Protein Needs a Myth?",
+    "thumb": "PROTEIN NEEDS MYTH?",
+    "scenes": [
+      {
+        "hook_top": "50 GRAMS ENOUGH PROTEIN",
+        "query": "protein requirements for adults",
+        "query2": "protein intake guidelines",
+        "fact": "Most adults need around 0.8 grams per kg of body weight for maintenance.",
+        "chips": [
+          {
+            "t": "0.8 GRAMS PER KG",
+            "on": "grams",
+            "style": "white"
+          }
+        ],
+        "punch": "essential",
+        "role": "hook",
+        "text": "50 grams of protein? Is that enough?"
+      },
+      {
+        "chips": [
+          {
+            "t": "VARIETY IN NEEDS",
+            "on": "variety",
+            "style": "accent"
+          }
+        ],
+        "query": "protein needs by age and activity",
+        "query2": "factors influencing protein intake",
+        "role": "fact",
+        "text": "Protein requirements can vary based on activity levels and age."
+      },
+      {
+        "reveal_top": "NOT AS MUCH AS YOU THINK",
+        "query": "common protein myths",
+        "query2": "misconceptions about protein intake",
+        "role": "reveal",
+        "text": "You might not need as much as you think!"
+      },
+      {
+        "query": "health tips on social media",
+        "query2": "wellness practices daily",
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality."
+      }
+    ],
+    "description": "Understanding your protein needs is crucial for health. Find out how much is truly necessary for you. Follow for more tips!",
+    "hashtags": [
+      "#protein",
+      "#healthyliving",
+      "#nutrition",
+      "#wellness",
+      "#shorts",
+      "#fyp",
+      "#diet"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
