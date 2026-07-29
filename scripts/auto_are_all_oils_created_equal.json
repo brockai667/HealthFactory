@@ -1,0 +1,66 @@
+{
+  "title": "Are All Oils Created Equal?",
+  "thumb": "OIL MYTHS REVEALED",
+  "scenes": [
+    {
+      "hook_top": "OIL BLENDS EXPLAINED",
+      "query": "oil blends benefits",
+      "query2": "oil types comparison",
+      "role": "hook",
+      "text": "Is it true that oil blends are better?"
+    },
+    {
+      "chips": [
+        {
+          "t": "STABILIZE FLAVORS",
+          "on": "stabilize",
+          "style": "accent"
+        }
+      ],
+      "punch": "Interesting!",
+      "query": "oil blend purpose",
+      "query2": "purpose of oil blends",
+      "role": "fact",
+      "text": "Many processed foods use oil blends to stabilize flavors."
+    },
+    {
+      "chips": [
+        {
+          "t": "UNIQUE BENEFITS",
+          "on": "unique health benefits",
+          "style": "white"
+        }
+      ],
+      "punch": "Good to know!",
+      "query": "health benefits of olive oil",
+      "query2": "benefits of single oils",
+      "role": "fact",
+      "text": "Single oils may provide unique health benefits not found in blends."
+    },
+    {
+      "reveal_top": "BLENDS LOSE BENEFITS",
+      "query": "health benefits of oil",
+      "query2": "oil health comparison",
+      "role": "reveal",
+      "text": "You might miss out on health benefits with blends!"
+    },
+    {
+      "query": "healthy cooking tips",
+      "query2": "cooking with oils",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Oil blends are common in processed foods, but are they the best choice for health? Find out what you might be missing! Follow for more!",
+  "hashtags": [
+    "#healthyfats",
+    "#oilblends",
+    "#nutritionfacts",
+    "#cookinghacks",
+    "#foodmyths",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

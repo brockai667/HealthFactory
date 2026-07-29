@@ -1,0 +1,51 @@
+{
+  "title": "3 Surprising Facts About Protein Quality",
+  "thumb": "PROTEIN QUALITY REVEALED",
+  "scenes": [
+    {
+      "hook_top": "PROTEIN QUALITY MATTERS",
+      "count": "1",
+      "label": "COMPLETE VS INCOMPLETE",
+      "label_on": "complete",
+      "query": "complete vs incomplete protein",
+      "query2": "protein quality types",
+      "role": "hook",
+      "text": "Are you getting enough complete protein?"
+    },
+    {
+      "label": "NUTRIENT ABSORPTION",
+      "label_on": "absorption",
+      "query": "nutrient absorption protein",
+      "query2": "protein health benefits",
+      "role": "count",
+      "text": "2",
+      "num": 1
+    },
+    {
+      "label": "SPROUTING BOOSTS PROTE",
+      "label_on": "sprouting",
+      "query": "sprouted protein benefits",
+      "query2": "sprouting beans protein",
+      "role": "count",
+      "text": "3",
+      "num": 2
+    },
+    {
+      "query": "health tips follow",
+      "query2": "health advice",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Discover the hidden truths about protein quality that could maximize your nutrition. Don't miss out on these essential insights!",
+  "hashtags": [
+    "#nutrition",
+    "#protein",
+    "#healthylifestyle",
+    "#shorts",
+    "#wellness",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
