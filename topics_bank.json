@@ -5100,5 +5100,125 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Is Hydration Only About Water?",
+    "thumb": "HYDRATION MYTH BUSTED",
+    "scenes": [
+      {
+        "hook_top": "HYDRATION MYTH ALERT",
+        "myth": "Hydration relies solely on water intake.",
+        "label": "TRUTH: Food hydrates too",
+        "truth": "Fruits and vegetables contribute to hydration.",
+        "callout": "Hydrate with food!",
+        "sub": "Explore all hydration sources.",
+        "label_on": "Hydration sources",
+        "query": "hydration sources food water",
+        "query2": "hydration tips",
+        "role": "hook",
+        "text": "Many believe hydration only comes from drinking water."
+      },
+      {
+        "hook_top": "FOOD FOR HYDRATION",
+        "myth": "",
+        "label": "",
+        "truth": "",
+        "callout": "",
+        "sub": "",
+        "label_on": "",
+        "query": "Is Hydration Only About Water?",
+        "query2": "cinematic nature landscape",
+        "role": "hook",
+        "text": "Discover how food can also keep you hydrated."
+      },
+      {
+        "hook_top": "BALANCED HYDRATION",
+        "myth": "",
+        "label": "",
+        "truth": "",
+        "callout": "Don't forget food!",
+        "sub": "Include hydrating foods.",
+        "label_on": "Food as hydration",
+        "query": "Is Hydration Only About Water?",
+        "query2": "cinematic nature landscape",
+        "role": "hook",
+        "text": "Balanced hydration means more than just water."
+      },
+      {
+        "hook_top": "FOLLOW FOR MORE TIPS",
+        "myth": "",
+        "label": "",
+        "truth": "",
+        "callout": "Stay hydrated!",
+        "sub": "Learn to hydrate properly.",
+        "label_on": "",
+        "query": "Is Hydration Only About Water?",
+        "query2": "cinematic nature landscape",
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health."
+      }
+    ],
+    "description": "Are you underestimating hydration from your diet? Water isn't the only source! Join us as we uncover all ways to stay hydrated. Follow for more practical tips!",
+    "hashtags": [
+      "#hydration",
+      "#health",
+      "#wellness",
+      "#nutrition",
+      "#mythbusting",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why Canned Chicken is a Smart Choice",
+    "thumb": "CANNED CHICKEN WINS!",
+    "scenes": [
+      {
+        "hook_top": "CANNED CHICKEN NUTRITION",
+        "fact": "Canned chicken has about 30 grams of protein per cup.",
+        "chips": [],
+        "punch": "Protein!",
+        "query": "canned chicken protein content",
+        "query2": "nutritional value canned chicken",
+        "role": "hook",
+        "text": "Canned chicken can be a nutritious choice! Learn why."
+      },
+      {
+        "chips": [],
+        "punch": "Economical!",
+        "query": "canned chicken cost benefits",
+        "query2": "fresh vs canned chicken",
+        "role": "fact",
+        "text": "It's often lower in cost and longer lasting than fresh chicken."
+      },
+      {
+        "label": "Protein and Value",
+        "sub": "Affordable and nutritious!",
+        "label_on": "Benefits",
+        "query": "benefits of canned chicken",
+        "query2": "advantages of canned food",
+        "role": "callout",
+        "text": "Canned Chicken Benefits"
+      },
+      {
+        "query": "follow nutrition tips",
+        "query2": "health advice",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Canned chicken can be a great addition to your meals packed with protein and affordability. Discover its benefits for everyday nutrition. #Nutrition #HealthyEating #Shorts #FYP #CannedFood #Protein",
+    "hashtags": [
+      "#Nutrition",
+      "#HealthyEating",
+      "#Shorts",
+      "#FYP",
+      "#CannedFood",
+      "#Protein"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

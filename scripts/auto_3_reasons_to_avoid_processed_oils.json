@@ -1,0 +1,51 @@
+{
+  "title": "3 Reasons to Avoid Processed Oils",
+  "thumb": "PROCESSED OIL REVELATIONS",
+  "scenes": [
+    {
+      "hook_top": "AVOID PROCESSED OILS",
+      "count": "1",
+      "label": "HIDDEN TRANS FATS",
+      "label_on": "trans fats",
+      "query": "hidden trans fats in oils",
+      "query2": "processed oils dangers",
+      "role": "hook",
+      "text": "Did you know processed oils can harm health?"
+    },
+    {
+      "label": "UNBALANCED OMEGA RATIO",
+      "label_on": "omega imbalance",
+      "query": "omega fatty acids balance",
+      "query2": "omega ratio health",
+      "role": "count",
+      "text": "2",
+      "num": 1
+    },
+    {
+      "label": "CHEMICAL ADDITIVES",
+      "label_on": "additives",
+      "query": "chemical additives in oils",
+      "query2": "processed oil risks",
+      "role": "count",
+      "text": "3",
+      "num": 2
+    },
+    {
+      "query": "cooking tips follow",
+      "query2": "kitchen advice",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "Learn why choosing unprocessed oils can benefit your health and cooking. Make informed choices in your kitchen today!",
+  "hashtags": [
+    "#health",
+    "#oils",
+    "#cooking",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Do You Need Complete Proteins?",
+  "thumb": "PROTEIN MYTHS BUSTED",
+  "scenes": [
+    {
+      "hook_top": "PROTEIN CONCERNS TODAY",
+      "fact": "Complete proteins contain all essential amino acids.",
+      "chips": [
+        {
+          "t": "MAX 22 CHARS",
+          "on": "protein",
+          "style": "accent"
+        }
+      ],
+      "query": "complete protein definition",
+      "query2": "amino acids in protein",
+      "role": "hook",
+      "text": "30% of adults ignore protein needs!"
+    },
+    {
+      "chips": [
+        {
+          "t": "MAX 22 CHARS",
+          "on": "plant foods",
+          "style": "white"
+        }
+      ],
+      "query": "plant protein combinations",
+      "query2": "plant protein sources",
+      "role": "fact",
+      "text": "Combining plant foods can provide complete proteins."
+    },
+    {
+      "label": "Are you getting enough?",
+      "sub": "Learn about protein types",
+      "label_on": "protein",
+      "query": "importance of protein",
+      "query2": "protein dietary needs",
+      "role": "callout",
+      "text": "Protein Facts!"
+    },
+    {
+      "query": "follow nutrition advice",
+      "query2": "healthy eating tips",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "Are you confused about protein sources? Learn the truth about complete and incomplete proteins! Follow us for more nutrition insights.",
+  "hashtags": [
+    "#protein",
+    "#nutrition",
+    "#healthylifestyle",
+    "#completeproteins",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
