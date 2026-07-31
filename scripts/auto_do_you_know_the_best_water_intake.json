@@ -1,0 +1,60 @@
+{
+  "title": "Do You Know the Best Water Intake?",
+  "thumb": "WATER INTAKE FACTS",
+  "scenes": [
+    {
+      "hook_top": "DEHYDRATION IS COMMON",
+      "fact": "Proper hydration boosts mood and cognitive function.",
+      "chips": [
+        {
+          "t": "BOOSTS MOOD!",
+          "on": "hydration",
+          "style": "accent"
+        }
+      ],
+      "query": "benefits of hydration",
+      "query2": "importance of drinking water",
+      "role": "hook",
+      "text": "75% of Americans are chronically dehydrated."
+    },
+    {
+      "chips": [
+        {
+          "t": "3.7 L FOR MEN",
+          "on": "daily intake",
+          "style": "white"
+        }
+      ],
+      "query": "water intake recommendations",
+      "query2": "hydration needs",
+      "role": "fact",
+      "text": "Experts suggest about 3.7 liters for men, and 2.7 liters for women per day."
+    },
+    {
+      "reveal_top": "ACTIVITY BOOSTS WATER NEED",
+      "query": "hydration during exercise",
+      "query2": "how much to drink when exercising",
+      "role": "reveal",
+      "text": "But you might need more when active!"
+    },
+    {
+      "query": "hydration tips",
+      "query2": "water consumption",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Discover the truth about hydration and daily water intake recommendations! Don’t forget to follow for more practical health tips.",
+  "hashtags": [
+    "#shorts",
+    "#water",
+    "#hydration",
+    "#healthtips",
+    "#wellness",
+    "#fitness",
+    "#nutrition",
+    "#mindfulness"
+  ],
+  "place": "",
+  "country": ""
+}

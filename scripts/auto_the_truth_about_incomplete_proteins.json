@@ -1,0 +1,60 @@
+{
+  "title": "The Truth About Incomplete Proteins",
+  "thumb": "INCOMPLETE PROTEINS EXPLAINED",
+  "scenes": [
+    {
+      "hook_top": "INCOMPLETE PROTEINS REVEALED",
+      "fact": "20 amino acids are essential for human health.",
+      "chips": [
+        {
+          "t": "20 AMINO ACIDS",
+          "on": "essential",
+          "style": "accent"
+        }
+      ],
+      "query": "essential amino acids",
+      "query2": "amino acids sources",
+      "role": "hook",
+      "text": "7 essential amino acids are missing in some proteins."
+    },
+    {
+      "chips": [
+        {
+          "t": "ESSENTIAL AMINO ACIDS",
+          "on": "plant proteins",
+          "style": "white"
+        }
+      ],
+      "query": "plant proteins amino acids",
+      "query2": "difference between proteins",
+      "role": "fact",
+      "text": "Most plant proteins lack one or more essential amino acids."
+    },
+    {
+      "reveal_top": "COMBINE FOR COMPLETE PROTEINS",
+      "query": "complete proteins combination",
+      "query2": "combining proteins",
+      "role": "reveal",
+      "text": "But they can be combined for completeness!"
+    },
+    {
+      "query": "healthy eating habits",
+      "query2": "health tips",
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality."
+    }
+  ],
+  "description": "Learn why some proteins are called incomplete and how to pair them for optimal health. Follow for science-backed wellness tips!",
+  "hashtags": [
+    "#shorts",
+    "#health",
+    "#nutrition",
+    "#protein",
+    "#plantbased",
+    "#wellness",
+    "#fitness",
+    "#guide"
+  ],
+  "place": "",
+  "country": ""
+}
