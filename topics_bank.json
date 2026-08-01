@@ -5220,5 +5220,476 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "The Truth About Canned Chicken",
+    "thumb": "CANNED CHICKEN",
+    "scenes": [
+      {
+        "hook_top": "CANNED CHICKEN FACTS",
+        "query": "canned chicken",
+        "query2": "chicken cans",
+        "role": "hook",
+        "text": "1 billion cans of chicken sold daily"
+      },
+      {
+        "label": "Canned Chicken Myth",
+        "query": "canned chicken nutrition",
+        "query2": "chicken can nutrition facts",
+        "role": "myth",
+        "text": "Canned chicken is unhealthy and low in protein"
+      },
+      {
+        "label": "Canned Chicken Truth",
+        "query": "canned chicken protein content",
+        "query2": "chicken can protein",
+        "role": "truth",
+        "text": "Canned chicken is a convenient and affordable source of lean protein"
+      },
+      {
+        "label": "Protein Choices",
+        "sub": "Choose wisely",
+        "label_on": "now",
+        "query": "protein sources",
+        "query2": "lean protein options",
+        "role": "callout",
+        "text": "Make informed choices about your protein sources"
+      },
+      {
+        "query": "health tips",
+        "query2": "wellness advice",
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health."
+      }
+    ],
+    "description": "Get the facts about canned chicken and make informed choices about your protein sources. Follow us for more practical health tips!",
+    "hashtags": [
+      "#cannedchicken",
+      "#protein sources",
+      "#health tips",
+      "#wellness",
+      "#nutrition",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why White Rice?",
+    "thumb": "WHITE RICE FACTS",
+    "scenes": [
+      {
+        "hook_top": "WHITE RICE",
+        "query": "white rice",
+        "query2": "rice consumption",
+        "role": "hook",
+        "text": "Over 700 million people eat white rice daily"
+      },
+      {
+        "label": "White Rice Myth",
+        "query": "white rice nutrition",
+        "query2": "rice nutritional value",
+        "role": "myth",
+        "text": "White rice is completely devoid of nutritional value"
+      },
+      {
+        "label": "White Rice Truth",
+        "query": "balanced diet",
+        "query2": "moderate rice consumption",
+        "role": "truth",
+        "text": "White rice can be part of a balanced diet when consumed in moderation"
+      },
+      {
+        "label": "Food Choices",
+        "sub": "Be informed",
+        "label_on": "today",
+        "query": "nutrition facts",
+        "query2": "food labels",
+        "role": "callout",
+        "text": "Understand the nutritional value of your food choices"
+      },
+      {
+        "query": "nutrition advice",
+        "query2": "healthy eating tips",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "Get the facts about white rice and make informed choices about your diet. Follow us for more practical nutrition advice!",
+    "hashtags": [
+      "#whiterice",
+      "#nutrition",
+      "#health tips",
+      "#wellness",
+      "#food choices",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Settle the Debate: Pea Protein or Pea Protein Isolate?",
+    "thumb": "PEA PROTEIN DEBATE",
+    "scenes": [
+      {
+        "hook_top": "PEA PROTEIN",
+        "query": "pea protein",
+        "query2": "plant-based protein",
+        "role": "hook",
+        "text": "10 grams of pea protein per serving"
+      },
+      {
+        "label": "Pea Protein Myth",
+        "query": "pea protein isolate",
+        "query2": "protein powder",
+        "role": "myth",
+        "text": "Pea protein isolate is always superior to pea protein"
+      },
+      {
+        "label": "Pea Protein Truth",
+        "query": "protein comparison",
+        "query2": "pea protein vs isolate",
+        "role": "truth",
+        "text": "Both pea protein and pea protein isolate have their own benefits and drawbacks"
+      },
+      {
+        "label": "Protein Options",
+        "sub": "Get the facts",
+        "label_on": "now",
+        "query": "protein options",
+        "query2": "plant-based protein powder",
+        "role": "callout",
+        "text": "Choose the right protein for your needs"
+      },
+      {
+        "query": "health and nutrition",
+        "query2": "wellness tips",
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality."
+      }
+    ],
+    "description": "Get the facts about pea protein and pea protein isolate and make informed choices about your protein needs. Follow us for more practical health and nutrition advice!",
+    "hashtags": [
+      "#peaproducts",
+      "#plantbased",
+      "#proteinpowder",
+      "#health tips",
+      "#wellness",
+      "#nutrition",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can Canned Tuna Benefit Your Health?",
+    "thumb": "CANNED TUNA",
+    "scenes": [
+      {
+        "hook_top": "TUNA CONSUMPTION",
+        "query": "canned tuna",
+        "query2": "tuna fish",
+        "role": "hook",
+        "text": "12 million cans of tuna are consumed daily"
+      },
+      {
+        "num": 1,
+        "label": "OMEGA-3 SOURCE",
+        "label_on": "fatty acids",
+        "query": "omega-3 fatty acids",
+        "query2": "fish oil supplements",
+        "role": "count",
+        "text": "1 key source of omega-3 fatty acids"
+      },
+      {
+        "num": 2,
+        "label": "MINERALS IN TUNA",
+        "label_on": "minerals",
+        "query": "tuna fish minerals",
+        "query2": "canned tuna nutrition",
+        "role": "count",
+        "text": "2 essential minerals in every can"
+      },
+      {
+        "num": 3,
+        "label": "TUNA MEAL IDEAS",
+        "label_on": "tuna recipes",
+        "query": "tuna recipes",
+        "query2": "canned tuna meal ideas",
+        "role": "count",
+        "text": "3 ways to incorporate canned tuna into meals"
+      },
+      {
+        "query": "healthy eating",
+        "query2": "nutrition advice",
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best."
+      }
+    ],
+    "description": "Discover the benefits of canned tuna for your health and learn how to incorporate it into your meals. Follow for more nutrition tips!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#healthbenefits",
+      "#cannedtuna",
+      "#tunarecipes",
+      "#omeg3"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Are Daily Values on Labels for Men or Women?",
+    "thumb": "NUTRITION LABELS",
+    "scenes": [
+      {
+        "hook_top": "FOOD LABELS MATTER",
+        "query": "food labels",
+        "query2": "nutrition facts",
+        "role": "hook",
+        "text": "1 in 5 people check food labels"
+      },
+      {
+        "chips": [
+          {
+            "t": "2000",
+            "on": "calorie diet",
+            "style": "white"
+          }
+        ],
+        "query": "calorie intake",
+        "query2": "daily calorie needs",
+        "role": "fact",
+        "text": "Daily values are based on a 2,000 calorie diet"
+      },
+      {
+        "chips": [],
+        "query": "gender-specific nutrition",
+        "query2": "male vs female nutrition needs",
+        "role": "fact",
+        "text": "But are these values tailored to a specific gender?"
+      },
+      {
+        "reveal_top": "LABELS ARE GENDER NEUTRAL",
+        "query": "food label regulations",
+        "query2": "nutrition label standards",
+        "role": "reveal",
+        "text": "The answer might surprise you"
+      },
+      {
+        "query": "health and nutrition channel",
+        "query2": "wellness tips",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Ever wondered if food labels are tailored to a specific gender? The answer might surprise you. Follow us for more nutrition insights and stay healthy!",
+    "hashtags": [
+      "#nutrition",
+      "#health",
+      "#wellness",
+      "#foodlabels",
+      "#genderneutrality",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Why Whey Protein is Preferred Over Soy",
+    "thumb": "WHEY VS SOY",
+    "scenes": [
+      {
+        "hook_top": "WHEY PROTEIN DOMINATES",
+        "query": "whey protein supplements",
+        "query2": "soy protein supplements",
+        "role": "hook",
+        "text": "Whey protein is used in 8 out of 10 supplements"
+      },
+      {
+        "chips": [
+          {
+            "t": "90%",
+            "on": "bioavailability",
+            "style": "accent"
+          }
+        ],
+        "query": "protein bioavailability",
+        "query2": "whey vs soy protein",
+        "role": "fact",
+        "text": "Whey protein has a higher bioavailability than soy"
+      },
+      {
+        "chips": [
+          {
+            "t": "phytates",
+            "on": "anti-nutrients",
+            "style": "white"
+          }
+        ],
+        "query": "soy protein drawbacks",
+        "query2": "anti-nutrients in soy",
+        "role": "fact",
+        "text": "Soy protein can be high in anti-nutrients"
+      },
+      {
+        "reveal_top": "WHEY WINS DUE TO BIOAVAILABILITY",
+        "query": "whey protein benefits",
+        "query2": "soy protein limitations",
+        "role": "reveal",
+        "text": "The reason why whey is preferred is clear"
+      },
+      {
+        "query": "protein science",
+        "query2": "nutrition news",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Wondering why whey protein is the preferred choice? The answer lies in its bioavailability and lower anti-nutrient content. Stay informed about the latest protein research and make informed decisions!",
+    "hashtags": [
+      "#protein",
+      "#whey",
+      "#soy",
+      "#bioavailability",
+      "#antinutrients",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Debate: Canned Chicken vs Fresh Chicken",
+    "thumb": "CANNED CHICKEN",
+    "scenes": [
+      {
+        "hook_top": "CANNED CHICKEN WINS",
+        "query": "canned chicken recipes",
+        "query2": "chicken dishes",
+        "role": "hook",
+        "text": "Canned chicken is used in 3 out of 5 chicken dishes"
+      },
+      {
+        "chips": [
+          {
+            "t": "5 years",
+            "on": "shelf life",
+            "style": "accent"
+          }
+        ],
+        "query": "canned chicken benefits",
+        "query2": "chicken shelf life",
+        "role": "fact",
+        "text": "Canned chicken has a longer shelf life than fresh chicken"
+      },
+      {
+        "chips": [
+          {
+            "t": "sodium",
+            "on": "less sodium",
+            "style": "white"
+          }
+        ],
+        "query": "fresh chicken benefits",
+        "query2": "canned chicken drawbacks",
+        "role": "fact",
+        "text": "Fresh chicken has more nutrients and less sodium than canned chicken"
+      },
+      {
+        "reveal_top": "CHOOSE BASED ON NEEDS",
+        "query": "canned chicken vs fresh chicken",
+        "query2": "chicken options",
+        "role": "reveal",
+        "text": "The choice between canned and fresh chicken depends on your priorities"
+      },
+      {
+        "query": "food education",
+        "query2": "health tips",
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best."
+      }
+    ],
+    "description": "Wondering whether to choose canned or fresh chicken? Learn the pros and cons of each option and make informed decisions about your diet. Stay healthy and happy!",
+    "hashtags": [
+      "#cannedchicken",
+      "#freshchicken",
+      "#chickendishes",
+      "#foodtrends",
+      "#healthtips",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Do Almonds Really Deserve Their Superfood Status?",
+    "thumb": "ALMOND POWER",
+    "scenes": [
+      {
+        "hook_top": "ALMONDS ARE A STAPLE",
+        "query": "almond benefits",
+        "query2": "healthy snacks",
+        "role": "hook",
+        "text": "Almonds are eaten by 2 out of 3 health enthusiasts"
+      },
+      {
+        "chips": [
+          {
+            "t": "vitamin E",
+            "on": "high in vitamin E",
+            "style": "accent"
+          }
+        ],
+        "query": "almond nutrition",
+        "query2": "healthy fats",
+        "role": "fact",
+        "text": "Almonds are high in vitamin E and magnesium"
+      },
+      {
+        "chips": [
+          {
+            "t": "calories",
+            "on": "high in calories",
+            "style": "white"
+          }
+        ],
+        "query": "almond drawbacks",
+        "query2": "nut allergies",
+        "role": "fact",
+        "text": "But almonds are also high in calories and can cause allergies"
+      },
+      {
+        "reveal_top": "ALMONDS ARE NOT PERFECT",
+        "query": "almond benefits and drawbacks",
+        "query2": "superfood status",
+        "role": "reveal",
+        "text": "The truth about almonds is more nuanced than you think"
+      },
+      {
+        "query": "nutrition education",
+        "query2": "health advice",
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health."
+      }
+    ],
+    "description": "Wondering if almonds really deserve their superfood status? Learn the pros and cons of this popular nut and make informed decisions about your diet. Stay healthy and balanced!",
+    "hashtags": [
+      "#almonds",
+      "#superfood",
+      "#healthytips",
+      "#nutrition",
+      "#balanceddiet",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

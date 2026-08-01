@@ -1,0 +1,54 @@
+{
+  "title": "3 Cooking Techniques to Preserve Nutrients",
+  "thumb": "NUTRIENTS PRESERVED",
+  "scenes": [
+    {
+      "hook_top": "PRESERVE NUTRIENTS",
+      "count": "1",
+      "label": "STEAMING",
+      "label_on": "Steaming!",
+      "query": "steaming vegetables nutrition",
+      "query2": "cooking methods",
+      "num": 1,
+      "role": "hook",
+      "text": "Stop losing nutrients when you cook your food!"
+    },
+    {
+      "label": "MICROWAVING",
+      "label_on": "Microwaving!",
+      "query": "microwaving food nutrients",
+      "query2": "nutrient retention microwaving",
+      "num": 2,
+      "role": "count",
+      "text": "2"
+    },
+    {
+      "label": "MINIMAL WATER",
+      "label_on": "Minimal Water!",
+      "query": "cooking with minimal water nutrition",
+      "query2": "cooking techniques",
+      "num": 3,
+      "role": "count",
+      "text": "3"
+    },
+    {
+      "query": "cooking tips follow",
+      "query2": "nutrition advice follow",
+      "num": 4,
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality."
+    }
+  ],
+  "description": "Learn three effective cooking techniques to help maintain the nutrients in your food! Maximize the health benefits of your meals. Follow for more valuable cooking insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#cooking",
+    "#healthyfood",
+    "#nutrition",
+    "#healthytips",
+    "#wellness"
+  ],
+  "place": "",
+  "country": ""
+}

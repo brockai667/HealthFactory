@@ -1,0 +1,54 @@
+{
+  "title": "3 Protein Sources You Didn't Know About",
+  "thumb": "UNKNOWN PROTEINS",
+  "scenes": [
+    {
+      "hook_top": "UNIQUE PROTEIN SOURCES",
+      "count": "1",
+      "label": "SPROUTED LEGUMES",
+      "label_on": "Legumes!",
+      "query": "sprouted legumes protein",
+      "query2": "protein sources",
+      "num": 1,
+      "role": "hook",
+      "text": "Discover unique protein sources that boost your diet!"
+    },
+    {
+      "label": "NUT BUTTERS",
+      "label_on": "Nut Butters!",
+      "query": "nut butters protein content",
+      "query2": "nutritional value of nut butters",
+      "num": 2,
+      "role": "count",
+      "text": "2"
+    },
+    {
+      "label": "CANNED FISH",
+      "label_on": "Canned Fish!",
+      "query": "canned fish protein benefits",
+      "query2": "health benefits of canned fish",
+      "num": 3,
+      "role": "count",
+      "text": "3"
+    },
+    {
+      "query": "health tips follow",
+      "query2": "nutrition follow",
+      "num": 4,
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "Uncover three surprising protein sources that can enhance your meals! Keep your diet exciting and balanced with these picks. Follow for more healthy tips!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#protein",
+    "#healthyliving",
+    "#nutrition",
+    "#healthtips",
+    "#wellness"
+  ],
+  "place": "",
+  "country": ""
+}
