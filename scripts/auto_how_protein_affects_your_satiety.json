@@ -1,0 +1,65 @@
+{
+  "title": "How Protein Affects Your Satiety",
+  "thumb": "PROTEIN SATIETY TRUTH",
+  "scenes": [
+    {
+      "hook_top": "PROTEIN MEALS MORE SATIETY",
+      "query": "protein meals satiety",
+      "query2": "protein and fullness",
+      "role": "hook",
+      "text": "25% more fullness from protein meals!"
+    },
+    {
+      "chips": [
+        {
+          "t": "HORMONES",
+          "on": "hormones",
+          "style": "accent"
+        }
+      ],
+      "query": "high protein diets and hunger",
+      "query2": "how protein affects hunger",
+      "role": "fact",
+      "text": "High-protein diets can reduce hunger hormones."
+    },
+    {
+      "chips": [
+        {
+          "t": "METABOLIC RATE",
+          "on": "metabolic rate",
+          "style": "white"
+        }
+      ],
+      "query": "protein intake and metabolism",
+      "query2": "protein metabolism impact",
+      "role": "fact",
+      "text": "Eating protein can increase metabolic rate."
+    },
+    {
+      "reveal_top": "MOST DON'T EAT ENOUGH PROTEIN",
+      "query": "protein intake statistics",
+      "query2": "protein consumption rates",
+      "role": "reveal",
+      "text": "Yet, most people don’t eat enough!"
+    },
+    {
+      "query": "health tips follow",
+      "query2": "nutrition advice follow",
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "Discover how protein impacts your feelings of fullness and metabolism! Are you getting enough protein in your diet? #shorts #fyp #nutrition #health #protein #satiety #diet #wellness",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#health",
+    "#protein",
+    "#satiety",
+    "#diet",
+    "#wellness"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Is Brown Rice Really Healthier?",
+  "thumb": "BROWN RICE MYTH",
+  "scenes": [
+    {
+      "text": "Many believe brown rice is always the healthier choice.",
+      "label": "MYTH: Brown rice is always better.",
+      "query": "brown rice health benefits",
+      "query2": "brown rice nutrition facts",
+      "role": "hook",
+      "hook_top": "MANY BELIEVE BROWN RICE IS ALWAYS"
+    },
+    {
+      "text": "While brown rice offers more fiber, it also has higher phytic acid, which can inhibit mineral absorption.",
+      "label": "TRUTH: Nutrient absorption differs.",
+      "query": "brown rice vs white rice",
+      "query2": "phytic acid effects",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Consider your overall diet and specific nutritional needs when choosing rice.",
+      "label": "TAKEAWAY: Choose wisely!",
+      "sub": "Balance nutrients in your meals.",
+      "label_on": "Consider",
+      "role": "fact",
+      "query": "Is Brown Rice Really Healthier?",
+      "query2": "cinematic nature landscape",
+      "chips": []
+    },
+    {
+      "text": "Follow for daily tips to feel your best.",
+      "query": "health and nutrition tips",
+      "query2": "healthy eating habits",
+      "role": "cta"
+    }
+  ],
+  "description": "Is brown rice truly the superior option? Discover the truth about its nutritional impact compared to white rice. Follow for more health insights!",
+  "hashtags": [
+    "#brownrice",
+    "#nutrition",
+    "#healthmyths",
+    "#shorts",
+    "#fyp",
+    "#healthytips"
+  ],
+  "place": "",
+  "country": ""
+}
