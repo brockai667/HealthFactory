@@ -1,0 +1,49 @@
+{
+  "title": "Are All Plant Proteins Incomplete?",
+  "thumb": "PLANT PROTEIN MYTH",
+  "scenes": [
+    {
+      "text": "Many think all plant proteins lack essential amino acids.",
+      "label": "MYTH: All plant proteins are incomplete.",
+      "query": "plant protein completeness",
+      "query2": "amino acids plant foods",
+      "role": "hook",
+      "hook_top": "MANY THINK ALL PLANT PROTEINS LACK"
+    },
+    {
+      "text": "Some plant proteins, like quinoa and soy, are complete sources of protein with all essential amino acids.",
+      "label": "TRUTH: Some are complete proteins.",
+      "query": "complete plant proteins",
+      "query2": "quinoa soy protein",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Balance your protein sources to meet all amino acid needs.",
+      "label": "TAKEAWAY: Mix your proteins!",
+      "sub": "Diverse sources are key.",
+      "label_on": "Mix",
+      "role": "fact",
+      "query": "Are All Plant Proteins Incomplete?",
+      "query2": "cinematic nature landscape",
+      "chips": []
+    },
+    {
+      "text": "Follow for daily tips to feel your best.",
+      "query": "plant based protein tips",
+      "query2": "healthy protein sources",
+      "role": "cta"
+    }
+  ],
+  "description": "Are all plant proteins flawed? Uncover the truth about their amino acid profiles and learn how to balance your protein intake. Follow for more!",
+  "hashtags": [
+    "#plantprotein",
+    "#nutritionfacts",
+    "#healthmyths",
+    "#shorts",
+    "#fyp",
+    "#protein"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Hydration Myths: Do You Need 8 Glasses?",
+  "thumb": "WATER INTAKE MYTH",
+  "scenes": [
+    {
+      "text": "The 8-glasses-a-day rule is a common belief.",
+      "label": "MYTH: 8 glasses of water daily.",
+      "query": "daily water intake recommendations",
+      "query2": "hydration rules",
+      "role": "hook",
+      "hook_top": "THE 8GLASSESADAY RULE IS A COMMON"
+    },
+    {
+      "text": "Water needs vary based on factors like age, activity level, and climate; listen to your body's thirst cues.",
+      "label": "TRUTH: Needs vary significantly.",
+      "query": "hydration needs individual",
+      "query2": "water intake factors",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Hydrate based on your lifestyle and thirst.",
+      "label": "TAKEAWAY: Listen to your body!",
+      "sub": "Hydration is personal.",
+      "label_on": "Hydrate",
+      "role": "fact",
+      "query": "Hydration Myths: Do You Need 8 Glasses?",
+      "query2": "cinematic nature landscape",
+      "chips": []
+    },
+    {
+      "text": "Follow for your daily dose of vitality.",
+      "query": "hydration tips for health",
+      "query2": "drinking water benefits",
+      "role": "cta"
+    }
+  ],
+  "description": "Do you really need eight glasses of water every day? Find out the truth behind hydration needs and listen to your body. Follow for more insights!",
+  "hashtags": [
+    "#hydration",
+    "#waterintake",
+    "#healthmyths",
+    "#shorts",
+    "#fyp",
+    "#wellness"
+  ],
+  "place": "",
+  "country": ""
+}
