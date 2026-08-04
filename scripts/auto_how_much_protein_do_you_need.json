@@ -1,0 +1,61 @@
+{
+  "title": "How Much Protein Do You Need?",
+  "thumb": "PROTEIN NEEDS EXPLAINED",
+  "scenes": [
+    {
+      "hook_top": "12 GRAMS PROTEIN DAILY",
+      "fact": "The Recommended Dietary Allowance (RDA) for protein is 46g for women and 56g for men.",
+      "chips": [
+        {
+          "t": "RDA PROTEIN",
+          "on": "RDA",
+          "style": "white"
+        }
+      ],
+      "query": "protein rda recommendations",
+      "query2": "protein intake guidelines",
+      "role": "hook",
+      "text": "Most adults need about 1.2 grams of protein daily."
+    },
+    {
+      "chips": [
+        {
+          "t": "MUSCLE MAINTENANCE",
+          "on": "muscle",
+          "style": "accent"
+        }
+      ],
+      "query": "protein muscle maintenance",
+      "query2": "importance of protein",
+      "role": "fact",
+      "text": "Protein is essential for muscle maintenance and repair, especially for active adults."
+    },
+    {
+      "label": "Ensure you're hitting your protein goals.",
+      "sub": "Monitor your daily intake.",
+      "label_on": "protein goals",
+      "query": "protein intake check",
+      "query2": "tracking protein intake",
+      "role": "callout",
+      "text": "CHECK YOUR INTAKE!"
+    },
+    {
+      "query": "follow health tips",
+      "query2": "nutrition advice",
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality."
+    }
+  ],
+  "description": "Are you getting enough protein for your needs? Discover the specific amounts that can help maintain your muscle health. Follow us for practical nutrition tips!",
+  "hashtags": [
+    "#health",
+    "#nutrition",
+    "#protein",
+    "#fitness",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
