@@ -5813,5 +5813,186 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "The Truth About Frozen Produce",
+    "thumb": "FROZEN FOOD FACTS",
+    "scenes": [
+      {
+        "hook_top": "FROZEN FOOD SECRET",
+        "query": "frozen vegetables",
+        "query2": "fresh vs frozen produce",
+        "role": "hook",
+        "text": "70% of frozen produce is picked at peak ripeness"
+      },
+      {
+        "label": "Less Nutritious",
+        "query": "nutrient comparison",
+        "query2": "fresh vs frozen",
+        "role": "myth",
+        "text": "Frozen produce is less nutritious than fresh"
+      },
+      {
+        "label": "Equally Nutritious",
+        "query": "frozen food nutrition",
+        "query2": "nutrient retention",
+        "role": "truth",
+        "text": "Frozen produce can be just as nutritious as fresh, if not more"
+      },
+      {
+        "label": "Convenient Choice",
+        "sub": "frozen vs fresh",
+        "label_on": "frozen produce",
+        "query": "frozen food benefits",
+        "query2": "healthy eating tips",
+        "role": "callout",
+        "text": "Choose frozen produce for convenience and nutrition"
+      },
+      {
+        "query": "food education",
+        "query2": "health and wellness",
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best."
+      }
+    ],
+    "description": "Get the facts about frozen produce and its nutritional benefits. Learn how to make informed choices about your food. Follow for more food and nutrition facts.",
+    "hashtags": [
+      "#frozenfood",
+      "#nutritionfacts",
+      "#healthy eating",
+      "#wellness",
+      "#foodeducation",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Unlock the Power of Oysters",
+    "thumb": "OYSTER POWER",
+    "scenes": [
+      {
+        "hook_top": "OYSTER BENEFITS",
+        "query": "oysters on a plate",
+        "query2": "person eating oysters",
+        "role": "hook",
+        "text": "12 oysters a week"
+      },
+      {
+        "num": 1,
+        "label": "HIGH PROTEIN",
+        "label_on": "Protein content",
+        "query": "oyster nutrition facts",
+        "query2": "protein content in oysters",
+        "role": "count",
+        "text": "Oysters are a rich source of protein"
+      },
+      {
+        "num": 2,
+        "label": "RICH IN ZINC",
+        "label_on": "Zinc content",
+        "query": "zinc in oysters",
+        "query2": "zinc benefits",
+        "role": "count",
+        "text": "Oysters are one of the richest sources of zinc"
+      },
+      {
+        "num": 3,
+        "label": "LOW CALORIE",
+        "label_on": "Calorie count",
+        "query": "oyster calorie count",
+        "query2": "low calorie seafood",
+        "role": "count",
+        "text": "Oysters are low in calories"
+      },
+      {
+        "query": "person following a healthy diet",
+        "query2": "healthy eating habits",
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality."
+      }
+    ],
+    "description": "Discover the benefits of oysters and how they can improve your health. From high protein to rich in zinc, oysters are a superfood you shouldn't miss. Follow us for more health tips and unlock the power of oysters!",
+    "hashtags": [
+      "#oysters",
+      "#superfood",
+      "#healthtips",
+      "#nutrition",
+      "#wellness",
+      "#healthyhabits",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Are Frozen Fruits as Healthy as Fresh?",
+    "thumb": "FROZEN FRUIT FACTS",
+    "scenes": [
+      {
+        "hook_top": "FROZEN FRUIT",
+        "query": "frozen fruit",
+        "query2": "fresh fruit comparison",
+        "role": "hook",
+        "text": "1 in 5 people prefer frozen"
+      },
+      {
+        "chips": [
+          {
+            "t": "90%",
+            "on": "preserving",
+            "style": "accent"
+          }
+        ],
+        "punch": "ripeness",
+        "query": "freezing fruit",
+        "query2": "nutrient preservation",
+        "role": "fact",
+        "text": "Frozen fruits are picked at peak ripeness and flash frozen, preserving up to 90% of nutrients"
+      },
+      {
+        "chips": [
+          {
+            "t": "ANTIOX",
+            "on": "antioxidant",
+            "style": "white"
+          }
+        ],
+        "query": "frozen blueberries",
+        "query2": "antioxidant levels in fruit",
+        "role": "fact",
+        "text": "Some frozen fruits, like blueberries, have higher antioxidant levels than fresh due to less handling and damage"
+      },
+      {
+        "label": "Frozen Fruits",
+        "sub": "as healthy",
+        "label_on": "frozen",
+        "query": "adding frozen fruit to meals",
+        "query2": "healthy eating tips",
+        "role": "callout",
+        "text": "Make the most of frozen fruits in your diet"
+      },
+      {
+        "query": "health and wellness",
+        "query2": "nutrition advice",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "Get the facts on frozen fruits and how they can be a healthy addition to your diet. Discover the benefits of frozen fruits and make informed choices. Follow for more practical health tips",
+    "hashtags": [
+      "#frozenfruits",
+      "#healthyhabits",
+      "#nutritiontips",
+      "#wellness",
+      "#healthyliving",
+      "#foodfacts",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

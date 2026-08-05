@@ -1,0 +1,62 @@
+{
+  "title": "Why High Protein Snacks are Essential",
+  "thumb": "HIGH PROTEIN SNACKS",
+  "scenes": [
+    {
+      "hook_top": "ADULTS NEED MORE PROTEIN",
+      "fact": "A lack of protein can lead to muscle loss and fatigue.",
+      "chips": [
+        {
+          "t": "LACK OF PROTEIN",
+          "on": "protein",
+          "style": "white"
+        }
+      ],
+      "query": "adult protein needs",
+      "query2": "protein deficiency symptoms",
+      "role": "hook",
+      "text": "40% of adults struggle to get enough protein."
+    },
+    {
+      "chips": [
+        {
+          "t": "BOOST ENERGY",
+          "on": "energy",
+          "style": "accent"
+        }
+      ],
+      "query": "high protein snack benefits",
+      "query2": "energy levels and protein",
+      "role": "fact",
+      "text": "High-protein snacks can help maintain energy levels."
+    },
+    {
+      "label": "Smart Snacking Matters",
+      "sub": "Choose protein-rich options.",
+      "label_on": "snack",
+      "query": "healthy protein snacks",
+      "query2": "best protein snacks",
+      "role": "callout",
+      "text": "Snack Smart!"
+    },
+    {
+      "query": "follow healthy habits",
+      "query2": "health tips",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Learn why incorporating high-protein snacks is crucial for your daily energy and health. Follow for practical health tips!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#healthtips",
+    "#nutrition",
+    "#protein",
+    "#wellness",
+    "#snacking",
+    "#energylevels"
+  ],
+  "place": "",
+  "country": ""
+}
