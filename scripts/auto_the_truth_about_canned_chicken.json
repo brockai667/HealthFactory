@@ -1,0 +1,54 @@
+{
+  "title": "The Truth About Canned Chicken",
+  "thumb": "CANNED CHICKEN",
+  "scenes": [
+    {
+      "hook_top": "CANNED CHICKEN FACTS",
+      "query": "canned chicken",
+      "query2": "chicken cans",
+      "role": "hook",
+      "text": "1 billion cans of chicken sold daily"
+    },
+    {
+      "label": "Canned Chicken Myth",
+      "query": "canned chicken nutrition",
+      "query2": "chicken can nutrition facts",
+      "role": "myth",
+      "text": "Canned chicken is unhealthy and low in protein"
+    },
+    {
+      "label": "Canned Chicken Truth",
+      "query": "canned chicken protein content",
+      "query2": "chicken can protein",
+      "role": "truth",
+      "text": "Canned chicken is a convenient and affordable source of lean protein"
+    },
+    {
+      "label": "Protein Choices",
+      "sub": "Choose wisely",
+      "label_on": "now",
+      "query": "protein sources",
+      "query2": "lean protein options",
+      "role": "callout",
+      "text": "Make informed choices about your protein sources"
+    },
+    {
+      "query": "health tips",
+      "query2": "wellness advice",
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "Get the facts about canned chicken and make informed choices about your protein sources. Follow us for more practical health tips!",
+  "hashtags": [
+    "#cannedchicken",
+    "#protein sources",
+    "#health tips",
+    "#wellness",
+    "#nutrition",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

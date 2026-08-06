@@ -5994,5 +5994,274 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Busting the Oyster Myth",
+    "thumb": "OYSTER POWER",
+    "scenes": [
+      {
+        "hook_top": "OYSTER OVERLOAD",
+        "query": "oysters on a plate",
+        "query2": "oyster shells",
+        "role": "hook",
+        "text": "12 oysters a day"
+      },
+      {
+        "label": "High Cholesterol",
+        "query": "oyster nutrition label",
+        "query2": "cholesterol test",
+        "role": "myth",
+        "text": "Oysters are too high in cholesterol"
+      },
+      {
+        "label": "Omega-3 Rich",
+        "query": "omega-3 fatty acid structure",
+        "query2": "fatty fish comparison",
+        "role": "truth",
+        "text": "Oysters are a good source of omega-3 fatty acids and have been shown to lower cholesterol"
+      },
+      {
+        "label": "Eat Oysters",
+        "sub": "for heart health",
+        "label_on": "oyster",
+        "query": "oysters on a grill",
+        "query2": "heart healthy meal",
+        "role": "callout",
+        "text": "Incorporate oysters into your diet for a boost of omega-3s"
+      },
+      {
+        "query": "social media icons",
+        "query2": "nutrition blog",
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best."
+      }
+    ],
+    "description": "Oysters are often misunderstood, but they can be a great addition to a healthy diet. Find out why. Follow us for more nutrition myths and facts.",
+    "hashtags": [
+      "#oysters",
+      "#nutritionmyth",
+      "#healthydiet",
+      "#omega3",
+      "#fattyacids",
+      "#hearthealth",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Do You Need to Worry About Potassium and Sodium?",
+    "thumb": "SALT AND POTASSIUM",
+    "scenes": [
+      {
+        "hook_top": "SODIUM OVERLOAD",
+        "query": "salt shaker",
+        "query2": "sodium nutrition label",
+        "role": "hook",
+        "text": "90% of Americans consume too much sodium"
+      },
+      {
+        "label": "Sodium Free",
+        "query": "low sodium diet",
+        "query2": "salt free seasoning",
+        "role": "myth",
+        "text": "You need to drastically reduce sodium intake to be healthy"
+      },
+      {
+        "label": "Balance is Key",
+        "query": "potassium rich foods",
+        "query2": "blood pressure monitor",
+        "role": "truth",
+        "text": "A balance of potassium and sodium is key to maintaining healthy blood pressure"
+      },
+      {
+        "label": "Potassium Matters",
+        "sub": "for blood pressure",
+        "label_on": "potassium",
+        "query": "potassium rich foods",
+        "query2": "healthy blood pressure",
+        "role": "callout",
+        "text": "Focus on increasing potassium intake rather than drastically reducing sodium"
+      },
+      {
+        "query": "social media icons",
+        "query2": "health blog",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "The relationship between potassium and sodium is often misunderstood. Find out how to maintain a healthy balance. Follow us for more health and nutrition tips.",
+    "hashtags": [
+      "#potassium",
+      "#sodium",
+      "#bloodpressure",
+      "#healthyliving",
+      "#nutritiontips",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Dried Vegetable Powder Debate",
+    "thumb": "VEGGIE POWDER",
+    "scenes": [
+      {
+        "hook_top": "VEGGIE POWER",
+        "query": "dried vegetable powder",
+        "query2": "veggie juice",
+        "role": "hook",
+        "text": "1 cup of dried veggie powder"
+      },
+      {
+        "label": "Convenient",
+        "query": "dried vegetable powder nutrition label",
+        "query2": "juice cleanse",
+        "role": "myth",
+        "text": "Dried vegetable powder is a convenient and nutritious way to get your daily veggies"
+      },
+      {
+        "label": "Supplement Only",
+        "query": "whole vegetables",
+        "query2": "salad comparison",
+        "role": "truth",
+        "text": "While dried vegetable powder can be a good supplement, it's no replacement for whole vegetables"
+      },
+      {
+        "label": "Supplement Wisely",
+        "sub": "for added nutrition",
+        "label_on": "supplement",
+        "query": "dried vegetable powder recipe",
+        "query2": "healthy smoothie",
+        "role": "callout",
+        "text": "Use dried vegetable powder as a supplement, not a replacement for whole veggies"
+      },
+      {
+        "query": "social media icons",
+        "query2": "health blog",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Dried vegetable powder is a popular trend, but is it really a convenient and nutritious way to get your daily veggies? Find out. Follow us for more health and wellness tips.",
+    "hashtags": [
+      "#driedveggiepowder",
+      "#healthyliving",
+      "#nutritiontips",
+      "#supplementwise",
+      "#wholeveggies",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is Bone Broth Concentrate Healthy?",
+    "thumb": "BONE BROTH",
+    "scenes": [
+      {
+        "hook_top": "BONE BROTH",
+        "query": "bone broth concentrate",
+        "query2": "protein powder comparison",
+        "role": "hook",
+        "text": "10 grams of protein per cup"
+      },
+      {
+        "label": "Magic Cure",
+        "query": "bone broth benefits",
+        "query2": "joint pain relief",
+        "role": "myth",
+        "text": "Bone broth concentrate is a magic cure-all for joint pain and inflammation"
+      },
+      {
+        "label": "Nutritious Addition",
+        "query": "bone broth recipe",
+        "query2": "balanced diet comparison",
+        "role": "truth",
+        "text": "While bone broth concentrate can be a nutritious addition to your diet, it's not a replacement for a balanced diet and lifestyle"
+      },
+      {
+        "label": "Add to Diet",
+        "sub": "for added nutrition",
+        "label_on": "bone broth",
+        "query": "bone broth recipe ideas",
+        "query2": "healthy meal prep",
+        "role": "callout",
+        "text": "Incorporate bone broth concentrate into your diet for added nutrition, but don't rely on it as a cure-all"
+      },
+      {
+        "query": "social media icons",
+        "query2": "health blog",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Bone broth concentrate is a popular trend, but is it really a healthy addition to your diet? Find out. Follow us for more health and nutrition tips.",
+    "hashtags": [
+      "#bonebrothconcentrate",
+      "#healthyliving",
+      "#nutritiontips",
+      "#addednutrition",
+      "#balanceddiet",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Busting the Buckwheat Hype",
+    "thumb": "BUCKWHEAT FACTS",
+    "scenes": [
+      {
+        "hook_top": "BUCKWHEAT BENEFITS",
+        "query": "buckwheat groats",
+        "query2": "buckwheat nutrition",
+        "role": "hook",
+        "text": "1 in 5 people include buckwheat in their diet"
+      },
+      {
+        "num": 1,
+        "label": "HIGH PROTEIN",
+        "label_on": "protein",
+        "query": "buckwheat protein content",
+        "query2": "vegan protein sources",
+        "role": "count",
+        "text": "High protein content makes it a great vegan option"
+      },
+      {
+        "num": 2,
+        "label": "FIBER RICH",
+        "label_on": "fiber",
+        "query": "buckwheat fiber benefits",
+        "query2": "high fiber foods",
+        "role": "count",
+        "text": "Rich in fiber, which can help lower cholesterol"
+      },
+      {
+        "num": 3,
+        "label": "GLUTEN FREE",
+        "label_on": "gluten",
+        "query": "gluten free grains",
+        "query2": "buckwheat gluten free",
+        "role": "count",
+        "text": "Gluten-free, making it a great option for those with gluten intolerance"
+      },
+      {
+        "query": "nutrition facts",
+        "query2": "health myths",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "Buckwheat is a popular superfood, but what are its real benefits? From high protein content to being gluten-free, let's bust the buckwheat hype. Follow us for more nutrition facts and myths!",
+    "hashtags": [
+      "#buckwheat #superfood #nutrition #glutenfree #vegan #protein"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
