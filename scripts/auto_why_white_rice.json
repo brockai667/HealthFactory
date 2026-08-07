@@ -1,0 +1,54 @@
+{
+  "title": "Why White Rice?",
+  "thumb": "WHITE RICE FACTS",
+  "scenes": [
+    {
+      "hook_top": "WHITE RICE",
+      "query": "white rice",
+      "query2": "rice consumption",
+      "role": "hook",
+      "text": "Over 700 million people eat white rice daily"
+    },
+    {
+      "label": "White Rice Myth",
+      "query": "white rice nutrition",
+      "query2": "rice nutritional value",
+      "role": "myth",
+      "text": "White rice is completely devoid of nutritional value"
+    },
+    {
+      "label": "White Rice Truth",
+      "query": "balanced diet",
+      "query2": "moderate rice consumption",
+      "role": "truth",
+      "text": "White rice can be part of a balanced diet when consumed in moderation"
+    },
+    {
+      "label": "Food Choices",
+      "sub": "Be informed",
+      "label_on": "today",
+      "query": "nutrition facts",
+      "query2": "food labels",
+      "role": "callout",
+      "text": "Understand the nutritional value of your food choices"
+    },
+    {
+      "query": "nutrition advice",
+      "query2": "healthy eating tips",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "Get the facts about white rice and make informed choices about your diet. Follow us for more practical nutrition advice!",
+  "hashtags": [
+    "#whiterice",
+    "#nutrition",
+    "#health tips",
+    "#wellness",
+    "#food choices",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

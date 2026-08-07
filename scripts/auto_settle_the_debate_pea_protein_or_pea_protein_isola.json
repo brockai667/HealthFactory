@@ -1,0 +1,55 @@
+{
+  "title": "Settle the Debate: Pea Protein or Pea Protein Isolate?",
+  "thumb": "PEA PROTEIN DEBATE",
+  "scenes": [
+    {
+      "hook_top": "PEA PROTEIN",
+      "query": "pea protein",
+      "query2": "plant-based protein",
+      "role": "hook",
+      "text": "10 grams of pea protein per serving"
+    },
+    {
+      "label": "Pea Protein Myth",
+      "query": "pea protein isolate",
+      "query2": "protein powder",
+      "role": "myth",
+      "text": "Pea protein isolate is always superior to pea protein"
+    },
+    {
+      "label": "Pea Protein Truth",
+      "query": "protein comparison",
+      "query2": "pea protein vs isolate",
+      "role": "truth",
+      "text": "Both pea protein and pea protein isolate have their own benefits and drawbacks"
+    },
+    {
+      "label": "Protein Options",
+      "sub": "Get the facts",
+      "label_on": "now",
+      "query": "protein options",
+      "query2": "plant-based protein powder",
+      "role": "callout",
+      "text": "Choose the right protein for your needs"
+    },
+    {
+      "query": "health and nutrition",
+      "query2": "wellness tips",
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality."
+    }
+  ],
+  "description": "Get the facts about pea protein and pea protein isolate and make informed choices about your protein needs. Follow us for more practical health and nutrition advice!",
+  "hashtags": [
+    "#peaproducts",
+    "#plantbased",
+    "#proteinpowder",
+    "#health tips",
+    "#wellness",
+    "#nutrition",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
