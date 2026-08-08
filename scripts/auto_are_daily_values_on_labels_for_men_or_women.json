@@ -1,0 +1,58 @@
+{
+  "title": "Are Daily Values on Labels for Men or Women?",
+  "thumb": "NUTRITION LABELS",
+  "scenes": [
+    {
+      "hook_top": "FOOD LABELS MATTER",
+      "query": "food labels",
+      "query2": "nutrition facts",
+      "role": "hook",
+      "text": "1 in 5 people check food labels"
+    },
+    {
+      "chips": [
+        {
+          "t": "2000",
+          "on": "calorie diet",
+          "style": "white"
+        }
+      ],
+      "query": "calorie intake",
+      "query2": "daily calorie needs",
+      "role": "fact",
+      "text": "Daily values are based on a 2,000 calorie diet"
+    },
+    {
+      "chips": [],
+      "query": "gender-specific nutrition",
+      "query2": "male vs female nutrition needs",
+      "role": "fact",
+      "text": "But are these values tailored to a specific gender?"
+    },
+    {
+      "reveal_top": "LABELS ARE GENDER NEUTRAL",
+      "query": "food label regulations",
+      "query2": "nutrition label standards",
+      "role": "reveal",
+      "text": "The answer might surprise you"
+    },
+    {
+      "query": "health and nutrition channel",
+      "query2": "wellness tips",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Ever wondered if food labels are tailored to a specific gender? The answer might surprise you. Follow us for more nutrition insights and stay healthy!",
+  "hashtags": [
+    "#nutrition",
+    "#health",
+    "#wellness",
+    "#foodlabels",
+    "#genderneutrality",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

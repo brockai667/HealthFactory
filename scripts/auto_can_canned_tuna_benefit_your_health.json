@@ -1,0 +1,58 @@
+{
+  "title": "Can Canned Tuna Benefit Your Health?",
+  "thumb": "CANNED TUNA",
+  "scenes": [
+    {
+      "hook_top": "TUNA CONSUMPTION",
+      "query": "canned tuna",
+      "query2": "tuna fish",
+      "role": "hook",
+      "text": "12 million cans of tuna are consumed daily"
+    },
+    {
+      "num": 1,
+      "label": "OMEGA-3 SOURCE",
+      "label_on": "fatty acids",
+      "query": "omega-3 fatty acids",
+      "query2": "fish oil supplements",
+      "role": "count",
+      "text": "1 key source of omega-3 fatty acids"
+    },
+    {
+      "num": 2,
+      "label": "MINERALS IN TUNA",
+      "label_on": "minerals",
+      "query": "tuna fish minerals",
+      "query2": "canned tuna nutrition",
+      "role": "count",
+      "text": "2 essential minerals in every can"
+    },
+    {
+      "num": 3,
+      "label": "TUNA MEAL IDEAS",
+      "label_on": "tuna recipes",
+      "query": "tuna recipes",
+      "query2": "canned tuna meal ideas",
+      "role": "count",
+      "text": "3 ways to incorporate canned tuna into meals"
+    },
+    {
+      "query": "healthy eating",
+      "query2": "nutrition advice",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Discover the benefits of canned tuna for your health and learn how to incorporate it into your meals. Follow for more nutrition tips!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#healthbenefits",
+    "#cannedtuna",
+    "#tunarecipes",
+    "#omeg3"
+  ],
+  "place": "",
+  "country": ""
+}
