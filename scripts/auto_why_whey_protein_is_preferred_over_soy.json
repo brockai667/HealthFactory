@@ -1,0 +1,64 @@
+{
+  "title": "Why Whey Protein is Preferred Over Soy",
+  "thumb": "WHEY VS SOY",
+  "scenes": [
+    {
+      "hook_top": "WHEY PROTEIN DOMINATES",
+      "query": "whey protein supplements",
+      "query2": "soy protein supplements",
+      "role": "hook",
+      "text": "Whey protein is used in 8 out of 10 supplements"
+    },
+    {
+      "chips": [
+        {
+          "t": "90%",
+          "on": "bioavailability",
+          "style": "accent"
+        }
+      ],
+      "query": "protein bioavailability",
+      "query2": "whey vs soy protein",
+      "role": "fact",
+      "text": "Whey protein has a higher bioavailability than soy"
+    },
+    {
+      "chips": [
+        {
+          "t": "phytates",
+          "on": "anti-nutrients",
+          "style": "white"
+        }
+      ],
+      "query": "soy protein drawbacks",
+      "query2": "anti-nutrients in soy",
+      "role": "fact",
+      "text": "Soy protein can be high in anti-nutrients"
+    },
+    {
+      "reveal_top": "WHEY WINS DUE TO BIOAVAILABILITY",
+      "query": "whey protein benefits",
+      "query2": "soy protein limitations",
+      "role": "reveal",
+      "text": "The reason why whey is preferred is clear"
+    },
+    {
+      "query": "protein science",
+      "query2": "nutrition news",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Wondering why whey protein is the preferred choice? The answer lies in its bioavailability and lower anti-nutrient content. Stay informed about the latest protein research and make informed decisions!",
+  "hashtags": [
+    "#protein",
+    "#whey",
+    "#soy",
+    "#bioavailability",
+    "#antinutrients",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

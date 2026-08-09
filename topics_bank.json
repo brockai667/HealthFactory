@@ -6263,5 +6263,174 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Does Frozen Broccoli Retain Its Nutrients?",
+    "thumb": "FROZEN VEGGIES",
+    "scenes": [
+      {
+        "hook_top": "FROZEN BROCCOLI FACTS",
+        "query": "frozen broccoli",
+        "query2": "broccoli nutrition",
+        "role": "hook",
+        "text": "80% of broccoli"
+      },
+      {
+        "label": "Myth: Nutrient Loss",
+        "query": "broccoli nutrient loss",
+        "query2": "frozen vegetable nutrition",
+        "role": "myth",
+        "text": "Frozen broccoli loses its nutrients"
+      },
+      {
+        "label": "Truth: Nutrients Retained",
+        "query": "flash frozen broccoli",
+        "query2": "frozen vegetable nutrition facts",
+        "role": "truth",
+        "text": "Frozen broccoli retains its nutrients due to flash freezing"
+      },
+      {
+        "label": "Nutrient Power",
+        "sub": "Retains nutrients",
+        "label_on": "Flash frozen",
+        "query": "frozen broccoli benefits",
+        "query2": "healthy frozen vegetables",
+        "role": "callout",
+        "text": "Make the most of frozen broccoli"
+      },
+      {
+        "query": "nutrition tips",
+        "query2": "healthy eating advice",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Get the facts on frozen broccoli and its nutritional value. Learn how to make the most of this healthy food. Follow for more nutrition tips!",
+    "hashtags": [
+      "#frozenbroccoli",
+      "#nutritiontips",
+      "#healthyfood",
+      "#broccolibeans",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Do Probiotics Really Aid Digestion?",
+    "thumb": "PROBIOTICS WORK",
+    "scenes": [
+      {
+        "hook_top": "GUT HEALTH MATTERS",
+        "query": "probiotic supplements",
+        "query2": "gut health",
+        "role": "hook",
+        "text": "80% of gut health matters"
+      },
+      {
+        "num": 1,
+        "label": "DIGESTIVE RELIEF",
+        "label_on": "one key benefit",
+        "query": "probiotic benefits",
+        "query2": "digestive health",
+        "role": "count",
+        "text": "probiotics ease digestive issues"
+      },
+      {
+        "num": 2,
+        "label": "IMMUNE SYSTEM",
+        "label_on": "another advantage",
+        "query": "probiotics and immunity",
+        "query2": "immune system",
+        "role": "count",
+        "text": "probiotics support immune function"
+      },
+      {
+        "num": 3,
+        "label": "FOOD SOURCES",
+        "label_on": "a natural approach",
+        "query": "fermented foods",
+        "query2": "probiotic-rich foods",
+        "role": "count",
+        "text": "find probiotics in fermented foods"
+      },
+      {
+        "query": "health and wellness",
+        "query2": "nutrition advice",
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best."
+      }
+    ],
+    "description": "Discover the truth about probiotics and digestion. Learn how they can help and where to find them. Follow us for more health insights!",
+    "hashtags": [
+      "#probiotics",
+      "#guthealth",
+      "#digestion",
+      "#immunesystem",
+      "#fermentedfoods",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Which Fruit Has the Most Protein?",
+    "thumb": "PROTEIN POWER",
+    "scenes": [
+      {
+        "hook_top": "FRUIT PROTEIN",
+        "query": "guava fruit",
+        "query2": "high protein fruits",
+        "role": "hook",
+        "text": "Guava has a secret"
+      },
+      {
+        "num": 1,
+        "label": "GUAVA LEADS",
+        "label_on": "the top contender",
+        "query": "guava nutrition facts",
+        "query2": "high protein fruits",
+        "role": "count",
+        "text": "guava contains 4g of protein per cup"
+      },
+      {
+        "num": 2,
+        "label": "BANANA BENEFITS",
+        "label_on": "a close second",
+        "query": "banana nutrition facts",
+        "query2": "good sources of protein",
+        "role": "count",
+        "text": "bananas have 2g of protein per medium fruit"
+      },
+      {
+        "num": 3,
+        "label": "AVOCADO ADVANTAGE",
+        "label_on": "a creamy surprise",
+        "query": "avocado nutrition facts",
+        "query2": "healthy fats and protein",
+        "role": "count",
+        "text": "avocados provide 3g of protein per medium fruit"
+      },
+      {
+        "query": "healthy eating habits",
+        "query2": "nutrition advice",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Find out which fruit has the most protein. Discover the top contenders and add them to your diet. Follow us for more nutrition tips!",
+    "hashtags": [
+      "#proteinpower",
+      "#fruitprotein",
+      "#guava",
+      "#banana",
+      "#avocado",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

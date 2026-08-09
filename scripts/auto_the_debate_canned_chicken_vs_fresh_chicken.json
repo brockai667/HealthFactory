@@ -1,0 +1,64 @@
+{
+  "title": "The Debate: Canned Chicken vs Fresh Chicken",
+  "thumb": "CANNED CHICKEN",
+  "scenes": [
+    {
+      "hook_top": "CANNED CHICKEN WINS",
+      "query": "canned chicken recipes",
+      "query2": "chicken dishes",
+      "role": "hook",
+      "text": "Canned chicken is used in 3 out of 5 chicken dishes"
+    },
+    {
+      "chips": [
+        {
+          "t": "5 years",
+          "on": "shelf life",
+          "style": "accent"
+        }
+      ],
+      "query": "canned chicken benefits",
+      "query2": "chicken shelf life",
+      "role": "fact",
+      "text": "Canned chicken has a longer shelf life than fresh chicken"
+    },
+    {
+      "chips": [
+        {
+          "t": "sodium",
+          "on": "less sodium",
+          "style": "white"
+        }
+      ],
+      "query": "fresh chicken benefits",
+      "query2": "canned chicken drawbacks",
+      "role": "fact",
+      "text": "Fresh chicken has more nutrients and less sodium than canned chicken"
+    },
+    {
+      "reveal_top": "CHOOSE BASED ON NEEDS",
+      "query": "canned chicken vs fresh chicken",
+      "query2": "chicken options",
+      "role": "reveal",
+      "text": "The choice between canned and fresh chicken depends on your priorities"
+    },
+    {
+      "query": "food education",
+      "query2": "health tips",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Wondering whether to choose canned or fresh chicken? Learn the pros and cons of each option and make informed decisions about your diet. Stay healthy and happy!",
+  "hashtags": [
+    "#cannedchicken",
+    "#freshchicken",
+    "#chickendishes",
+    "#foodtrends",
+    "#healthtips",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
