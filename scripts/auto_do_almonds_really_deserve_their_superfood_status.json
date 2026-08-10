@@ -1,0 +1,64 @@
+{
+  "title": "Do Almonds Really Deserve Their Superfood Status?",
+  "thumb": "ALMOND POWER",
+  "scenes": [
+    {
+      "hook_top": "ALMONDS ARE A STAPLE",
+      "query": "almond benefits",
+      "query2": "healthy snacks",
+      "role": "hook",
+      "text": "Almonds are eaten by 2 out of 3 health enthusiasts"
+    },
+    {
+      "chips": [
+        {
+          "t": "vitamin E",
+          "on": "high in vitamin E",
+          "style": "accent"
+        }
+      ],
+      "query": "almond nutrition",
+      "query2": "healthy fats",
+      "role": "fact",
+      "text": "Almonds are high in vitamin E and magnesium"
+    },
+    {
+      "chips": [
+        {
+          "t": "calories",
+          "on": "high in calories",
+          "style": "white"
+        }
+      ],
+      "query": "almond drawbacks",
+      "query2": "nut allergies",
+      "role": "fact",
+      "text": "But almonds are also high in calories and can cause allergies"
+    },
+    {
+      "reveal_top": "ALMONDS ARE NOT PERFECT",
+      "query": "almond benefits and drawbacks",
+      "query2": "superfood status",
+      "role": "reveal",
+      "text": "The truth about almonds is more nuanced than you think"
+    },
+    {
+      "query": "nutrition education",
+      "query2": "health advice",
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "Wondering if almonds really deserve their superfood status? Learn the pros and cons of this popular nut and make informed decisions about your diet. Stay healthy and balanced!",
+  "hashtags": [
+    "#almonds",
+    "#superfood",
+    "#healthytips",
+    "#nutrition",
+    "#balanceddiet",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

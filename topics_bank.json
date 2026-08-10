@@ -6432,5 +6432,342 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Debunking the Frozen Veggie Myth",
+    "thumb": "FROZEN VEGGIES",
+    "scenes": [
+      {
+        "hook_top": "FROZEN FOOD FACTS",
+        "query": "frozen vegetables",
+        "query2": "fresh vegetables",
+        "role": "hook",
+        "text": "70% of frozen veggies"
+      },
+      {
+        "label": "Frozen Veggies Bad",
+        "query": "nutrient loss in frozen vegetables",
+        "query2": "fresh vs frozen vegetables",
+        "role": "myth",
+        "text": "Frozen veggies lose nutrients"
+      },
+      {
+        "label": "Frozen Veggies Good",
+        "query": "frozen vegetable nutrition",
+        "query2": "frozen vs fresh vegetable comparison",
+        "role": "truth",
+        "text": "Frozen veggies retain nutrients"
+      },
+      {
+        "label": "Go Frozen",
+        "sub": "Frozen veggies are just as healthy",
+        "label_on": "The truth is",
+        "query": "frozen vegetables benefits",
+        "query2": "convenience of frozen vegetables",
+        "role": "callout",
+        "text": "Choose frozen for convenience"
+      },
+      {
+        "query": "health and wellness tips",
+        "query2": "nutrition advice",
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health."
+      }
+    ],
+    "description": "Get the facts on frozen veggies and make informed choices. Follow for more health tips.",
+    "hashtags": [
+      "#frozenveggies",
+      "#healthtips",
+      "#nutrition",
+      "#foodmyths",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Probiotics: Separating Fact from Fiction",
+    "thumb": "PROBIOTICS",
+    "scenes": [
+      {
+        "hook_top": "GUT HEALTH MATTERS",
+        "query": "gut health and probiotics",
+        "query2": "probiotic benefits",
+        "role": "hook",
+        "text": "80% of gut health"
+      },
+      {
+        "label": "Probiotics Limited",
+        "query": "probiotic functions",
+        "query2": "probiotic benefits beyond digestion",
+        "role": "myth",
+        "text": "Probiotics only aid digestion"
+      },
+      {
+        "label": "Probiotics Powerful",
+        "query": "probiotic health benefits",
+        "query2": "probiotics and immune system",
+        "role": "truth",
+        "text": "Probiotics support overall health"
+      },
+      {
+        "label": "Probiotics Work",
+        "sub": "Probiotics support overall well-being",
+        "label_on": "The truth is",
+        "query": "probiotic benefits for overall health",
+        "query2": "probiotics and mental health",
+        "role": "callout",
+        "text": "Probiotics are a game-changer"
+      },
+      {
+        "query": "health and wellness insights",
+        "query2": "nutrition and probiotics",
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best."
+      }
+    ],
+    "description": "Discover the real benefits of probiotics and how they can improve your overall health. Follow for more health insights.",
+    "hashtags": [
+      "#probiotics",
+      "#guthealth",
+      "#healthbenefits",
+      "#wellness",
+      "#nutrition",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Frozen vs Fresh: The Great Debate",
+    "thumb": "FROZEN VS FRESH",
+    "scenes": [
+      {
+        "hook_top": "FROZEN PRODUCE FACTS",
+        "query": "frozen produce vs fresh produce",
+        "query2": "frozen fruits and vegetables",
+        "role": "hook",
+        "text": "60% of produce is frozen"
+      },
+      {
+        "label": "Fresh Is Best",
+        "query": "fresh vs frozen produce debate",
+        "query2": "frozen produce nutrition",
+        "role": "myth",
+        "text": "Fresh is always better than frozen"
+      },
+      {
+        "label": "Frozen Is Fine",
+        "query": "frozen produce nutrition facts",
+        "query2": "fresh vs frozen comparison",
+        "role": "truth",
+        "text": "Frozen can be just as nutritious"
+      },
+      {
+        "label": "Make Informed Choices",
+        "sub": "Both frozen and fresh have benefits",
+        "label_on": "The truth is",
+        "query": "frozen and fresh produce benefits",
+        "query2": "convenience of frozen produce",
+        "role": "callout",
+        "text": "Choose what works for you"
+      },
+      {
+        "query": "nutrition tips and advice",
+        "query2": "healthy eating habits",
+        "role": "cta",
+        "text": "Follow for daily tips to feel your best."
+      }
+    ],
+    "description": "Get the facts on frozen and fresh produce and make informed choices for your health. Follow for more nutrition tips.",
+    "hashtags": [
+      "#frozenvsfresh",
+      "#producedeate",
+      "#nutrition",
+      "#healthtips",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Fiber Fix: 3 Daily Habits",
+    "thumb": "FIBER BOOST",
+    "scenes": [
+      {
+        "hook_top": "FIBER FIX",
+        "query": "high fiber foods",
+        "query2": "healthy snacks",
+        "role": "hook",
+        "text": "5 grams of fiber daily"
+      },
+      {
+        "num": 1,
+        "label": "WHOLE FOODS",
+        "label_on": "whole foods",
+        "query": "whole fruits and vegetables",
+        "query2": "fresh produce",
+        "role": "count",
+        "text": "Eating whole foods like fruits and vegetables can provide essential fiber"
+      },
+      {
+        "num": 2,
+        "label": "LEGUMES",
+        "label_on": "legumes",
+        "query": "legumes",
+        "query2": "beans and lentils",
+        "role": "count",
+        "text": "Incorporating legumes like beans and lentils into meals can increase fiber intake"
+      },
+      {
+        "num": 3,
+        "label": "HYDRATION",
+        "label_on": "water",
+        "query": "water glass",
+        "query2": "hydration",
+        "role": "count",
+        "text": "Drinking enough water helps fiber move through the digestive system"
+      },
+      {
+        "query": "healthy habits",
+        "query2": "wellness tips",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Discover the fiber fix with these 3 daily habits. Improve your overall health and wellbeing by incorporating more fiber into your diet. Follow for more daily health tips",
+    "hashtags": [
+      "#fiber",
+      "#healthytips",
+      "#wellness",
+      "#nutrition",
+      "#digestivehealth",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Probiotics: Do They Really Work?",
+    "thumb": "PROBIOTICS",
+    "scenes": [
+      {
+        "hook_top": "GUT HEALTH",
+        "query": "probiotic supplements",
+        "query2": "gut health",
+        "role": "hook",
+        "text": "80% of immunity starts in the gut"
+      },
+      {
+        "num": 1,
+        "label": "DIGESTION",
+        "label_on": "digestion",
+        "query": "probiotic bacteria",
+        "query2": "gut health",
+        "role": "count",
+        "text": "Probiotics can aid digestion and absorption of essential nutrients"
+      },
+      {
+        "num": 2,
+        "label": "IBS RELIEF",
+        "label_on": "IBS",
+        "query": "probiotic supplements for IBS",
+        "query2": "IBS treatment",
+        "role": "count",
+        "text": "Certain probiotic strains can help reduce symptoms of IBS"
+      },
+      {
+        "num": 3,
+        "label": "PROBIOTIC FOODS",
+        "label_on": "probiotic foods",
+        "query": "probiotic rich foods",
+        "query2": "yogurt and kefir",
+        "role": "count",
+        "text": "Incorporating probiotic-rich foods like yogurt and kefir into your diet can support gut health"
+      },
+      {
+        "query": "health and wellness",
+        "query2": "wellness tips",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Discover the truth about probiotics and how they can benefit your health. From digestion to IBS relief, learn how probiotics can support your overall wellbeing. Follow for more health and wellness tips",
+    "hashtags": [
+      "#probiotics",
+      "#guthealth",
+      "#digestion",
+      "#IBS",
+      "#healthytips",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Frozen vs Fresh: What's the Difference?",
+    "thumb": "FROZEN VS FRESH",
+    "scenes": [
+      {
+        "hook_top": "FROZEN PRODUCE",
+        "query": "frozen vegetables",
+        "query2": "fresh produce",
+        "role": "hook",
+        "text": "70% of produce is frozen"
+      },
+      {
+        "num": 1,
+        "label": "NUTRIENT PRESERVATION",
+        "label_on": "frozen produce",
+        "query": "frozen fruits and vegetables",
+        "query2": "nutrient preservation",
+        "role": "count",
+        "text": "Frozen produce is often picked at peak ripeness and then frozen, preserving nutrients"
+      },
+      {
+        "num": 2,
+        "label": "NUTRIENT LOSS",
+        "label_on": "fresh produce",
+        "query": "fresh fruits and vegetables",
+        "query2": "nutrient loss",
+        "role": "count",
+        "text": "Fresh produce can lose nutrients during transportation and storage"
+      },
+      {
+        "num": 3,
+        "label": "HEALTHY CHOICES",
+        "label_on": "healthy choices",
+        "query": "healthy eating",
+        "query2": "balanced diet",
+        "role": "count",
+        "text": "Both frozen and fresh produce can be part of a healthy diet when chosen wisely"
+      },
+      {
+        "query": "nutrition tips",
+        "query2": "health and wellness",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Discover the truth about frozen vs fresh produce. Learn how to make healthy choices and preserve nutrients in your diet. Follow for more nutrition and health tips",
+    "hashtags": [
+      "#frozenvsfresh",
+      "#produce",
+      "#nutrition",
+      "#healthytips",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

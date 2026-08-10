@@ -1,0 +1,55 @@
+{
+  "title": "Does Buckwheat Live Up to the Hype?",
+  "thumb": "BUCKWHEAT BENEFITS",
+  "scenes": [
+    {
+      "hook_top": "BUCKWHEAT BOOST",
+      "query": "buckwheat",
+      "query2": "pseudo grains",
+      "role": "hook",
+      "text": "1 cup of buckwheat daily"
+    },
+    {
+      "label": "Complete Protein",
+      "query": "amino acid profile",
+      "query2": "protein sources",
+      "role": "myth",
+      "text": "Buckwheat is a complete protein"
+    },
+    {
+      "label": "High Protein",
+      "query": "essential amino acids",
+      "query2": "plant-based proteins",
+      "role": "truth",
+      "text": "Buckwheat is high in protein but lacks one essential amino acid"
+    },
+    {
+      "label": "Nutrient Dense",
+      "sub": "add to salads or bowls",
+      "label_on": "buckwheat",
+      "query": "buckwheat recipes",
+      "query2": "healthy meal ideas",
+      "role": "callout",
+      "text": "Incorporate buckwheat into your diet for its nutritional benefits"
+    },
+    {
+      "query": "nutrition facts",
+      "query2": "healthy eating",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Discover the truth about buckwheat and its nutritional benefits. Learn how to incorporate it into your diet for a healthier you. Follow for more nutrition tips and myth-busting!",
+  "hashtags": [
+    "#buckwheat",
+    "#nutrition",
+    "#healthyliving",
+    "#plantbased",
+    "#protein",
+    "#mythbusting",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
