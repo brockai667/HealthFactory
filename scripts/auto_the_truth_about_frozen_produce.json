@@ -1,0 +1,54 @@
+{
+  "title": "The Truth About Frozen Produce",
+  "thumb": "FROZEN FOOD FACTS",
+  "scenes": [
+    {
+      "hook_top": "FROZEN FOOD SECRET",
+      "query": "frozen vegetables",
+      "query2": "fresh vs frozen produce",
+      "role": "hook",
+      "text": "70% of frozen produce is picked at peak ripeness"
+    },
+    {
+      "label": "Less Nutritious",
+      "query": "nutrient comparison",
+      "query2": "fresh vs frozen",
+      "role": "myth",
+      "text": "Frozen produce is less nutritious than fresh"
+    },
+    {
+      "label": "Equally Nutritious",
+      "query": "frozen food nutrition",
+      "query2": "nutrient retention",
+      "role": "truth",
+      "text": "Frozen produce can be just as nutritious as fresh, if not more"
+    },
+    {
+      "label": "Convenient Choice",
+      "sub": "frozen vs fresh",
+      "label_on": "frozen produce",
+      "query": "frozen food benefits",
+      "query2": "healthy eating tips",
+      "role": "callout",
+      "text": "Choose frozen produce for convenience and nutrition"
+    },
+    {
+      "query": "food education",
+      "query2": "health and wellness",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Get the facts about frozen produce and its nutritional benefits. Learn how to make informed choices about your food. Follow for more food and nutrition facts.",
+  "hashtags": [
+    "#frozenfood",
+    "#nutritionfacts",
+    "#healthy eating",
+    "#wellness",
+    "#foodeducation",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

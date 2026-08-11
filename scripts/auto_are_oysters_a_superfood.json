@@ -1,0 +1,67 @@
+{
+  "title": "Are Oysters a Superfood?",
+  "thumb": "OYSTER POWER",
+  "scenes": [
+    {
+      "hook_top": "OYSTER NUTRITION",
+      "query": "oysters on a plate",
+      "query2": "oyster nutrition facts",
+      "role": "hook",
+      "text": "Oysters have 18 grams of protein"
+    },
+    {
+      "chips": [
+        {
+          "t": "76.7mg",
+          "on": "zinc content",
+          "style": "white"
+        }
+      ],
+      "query": "oyster nutrition label",
+      "query2": "zinc rich foods",
+      "role": "fact",
+      "text": "Oysters are a rich source of zinc, with a 3-ounce serving providing about 76.7 mg"
+    },
+    {
+      "chips": [
+        {
+          "t": "DHA",
+          "on": "omega-3",
+          "style": "accent"
+        }
+      ],
+      "query": "oysters with lemons",
+      "query2": "omega-3 rich foods",
+      "role": "fact",
+      "text": "Oysters also contain other essential nutrients like vitamin D and omega-3 fatty acids"
+    },
+    {
+      "label": "Oyster Benefits",
+      "sub": "Try them today!",
+      "label_on": "oyster benefits",
+      "query": "oysters being cooked",
+      "query2": "oyster recipes",
+      "role": "callout",
+      "text": "Incorporate oysters into your diet for a nutritional boost"
+    },
+    {
+      "query": "health and nutrition blog",
+      "query2": "healthy eating tips",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Discover the nutritional benefits of oysters and how they can boost your health. Learn more about the essential nutrients found in oysters and how to incorporate them into your diet. Follow us for more health and nutrition tips!",
+  "hashtags": [
+    "#oysters",
+    "#superfood",
+    "#nutrition",
+    "#health",
+    "#wellness",
+    "#foodie",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
