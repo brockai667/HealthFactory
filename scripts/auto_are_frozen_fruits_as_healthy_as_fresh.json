@@ -1,0 +1,68 @@
+{
+  "title": "Are Frozen Fruits as Healthy as Fresh?",
+  "thumb": "FROZEN FRUIT FACTS",
+  "scenes": [
+    {
+      "hook_top": "FROZEN FRUIT",
+      "query": "frozen fruit",
+      "query2": "fresh fruit comparison",
+      "role": "hook",
+      "text": "1 in 5 people prefer frozen"
+    },
+    {
+      "chips": [
+        {
+          "t": "90%",
+          "on": "preserving",
+          "style": "accent"
+        }
+      ],
+      "punch": "ripeness",
+      "query": "freezing fruit",
+      "query2": "nutrient preservation",
+      "role": "fact",
+      "text": "Frozen fruits are picked at peak ripeness and flash frozen, preserving up to 90% of nutrients"
+    },
+    {
+      "chips": [
+        {
+          "t": "ANTIOX",
+          "on": "antioxidant",
+          "style": "white"
+        }
+      ],
+      "query": "frozen blueberries",
+      "query2": "antioxidant levels in fruit",
+      "role": "fact",
+      "text": "Some frozen fruits, like blueberries, have higher antioxidant levels than fresh due to less handling and damage"
+    },
+    {
+      "label": "Frozen Fruits",
+      "sub": "as healthy",
+      "label_on": "frozen",
+      "query": "adding frozen fruit to meals",
+      "query2": "healthy eating tips",
+      "role": "callout",
+      "text": "Make the most of frozen fruits in your diet"
+    },
+    {
+      "query": "health and wellness",
+      "query2": "nutrition advice",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "Get the facts on frozen fruits and how they can be a healthy addition to your diet. Discover the benefits of frozen fruits and make informed choices. Follow for more practical health tips",
+  "hashtags": [
+    "#frozenfruits",
+    "#healthyhabits",
+    "#nutritiontips",
+    "#wellness",
+    "#healthyliving",
+    "#foodfacts",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

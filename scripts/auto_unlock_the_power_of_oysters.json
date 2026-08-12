@@ -1,0 +1,59 @@
+{
+  "title": "Unlock the Power of Oysters",
+  "thumb": "OYSTER POWER",
+  "scenes": [
+    {
+      "hook_top": "OYSTER BENEFITS",
+      "query": "oysters on a plate",
+      "query2": "person eating oysters",
+      "role": "hook",
+      "text": "12 oysters a week"
+    },
+    {
+      "num": 1,
+      "label": "HIGH PROTEIN",
+      "label_on": "Protein content",
+      "query": "oyster nutrition facts",
+      "query2": "protein content in oysters",
+      "role": "count",
+      "text": "Oysters are a rich source of protein"
+    },
+    {
+      "num": 2,
+      "label": "RICH IN ZINC",
+      "label_on": "Zinc content",
+      "query": "zinc in oysters",
+      "query2": "zinc benefits",
+      "role": "count",
+      "text": "Oysters are one of the richest sources of zinc"
+    },
+    {
+      "num": 3,
+      "label": "LOW CALORIE",
+      "label_on": "Calorie count",
+      "query": "oyster calorie count",
+      "query2": "low calorie seafood",
+      "role": "count",
+      "text": "Oysters are low in calories"
+    },
+    {
+      "query": "person following a healthy diet",
+      "query2": "healthy eating habits",
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality."
+    }
+  ],
+  "description": "Discover the benefits of oysters and how they can improve your health. From high protein to rich in zinc, oysters are a superfood you shouldn't miss. Follow us for more health tips and unlock the power of oysters!",
+  "hashtags": [
+    "#oysters",
+    "#superfood",
+    "#healthtips",
+    "#nutrition",
+    "#wellness",
+    "#healthyhabits",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
