@@ -1,0 +1,54 @@
+{
+  "title": "Do You Need to Worry About Potassium and Sodium?",
+  "thumb": "SALT AND POTASSIUM",
+  "scenes": [
+    {
+      "hook_top": "SODIUM OVERLOAD",
+      "query": "salt shaker",
+      "query2": "sodium nutrition label",
+      "role": "hook",
+      "text": "90% of Americans consume too much sodium"
+    },
+    {
+      "label": "Sodium Free",
+      "query": "low sodium diet",
+      "query2": "salt free seasoning",
+      "role": "myth",
+      "text": "You need to drastically reduce sodium intake to be healthy"
+    },
+    {
+      "label": "Balance is Key",
+      "query": "potassium rich foods",
+      "query2": "blood pressure monitor",
+      "role": "truth",
+      "text": "A balance of potassium and sodium is key to maintaining healthy blood pressure"
+    },
+    {
+      "label": "Potassium Matters",
+      "sub": "for blood pressure",
+      "label_on": "potassium",
+      "query": "potassium rich foods",
+      "query2": "healthy blood pressure",
+      "role": "callout",
+      "text": "Focus on increasing potassium intake rather than drastically reducing sodium"
+    },
+    {
+      "query": "social media icons",
+      "query2": "health blog",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "The relationship between potassium and sodium is often misunderstood. Find out how to maintain a healthy balance. Follow us for more health and nutrition tips.",
+  "hashtags": [
+    "#potassium",
+    "#sodium",
+    "#bloodpressure",
+    "#healthyliving",
+    "#nutritiontips",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

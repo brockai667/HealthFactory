@@ -6769,5 +6769,173 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Do Avocados Really Support Heart Health?",
+    "thumb": "AVOCADO HEALTH",
+    "scenes": [
+      {
+        "hook_top": "AVOCADO POWER",
+        "query": "avocado on toast",
+        "query2": "avocado fruit",
+        "role": "hook",
+        "text": "1 avocado a day"
+      },
+      {
+        "label": "Too Fatty",
+        "query": "avocado fat content",
+        "query2": "healthy fats in avocados",
+        "role": "myth",
+        "text": "Avocados are too high in fat to be healthy"
+      },
+      {
+        "label": "Healthy Fats",
+        "query": "avocado health benefits",
+        "query2": "monounsaturated fats in avocados",
+        "role": "truth",
+        "text": "Avocados contain healthy fats that support heart health"
+      },
+      {
+        "label": "Eat Avocados",
+        "sub": "add to salads or smoothies",
+        "label_on": "get started now",
+        "query": "avocado in salads",
+        "query2": "avocado smoothie recipe",
+        "role": "callout",
+        "text": "Add avocados to your diet for a healthier heart"
+      },
+      {
+        "query": "health and wellness blog",
+        "query2": "follow for wellness tips",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "Discover the truth about avocados and their role in supporting heart health. Learn more about the benefits of avocados and how to incorporate them into your diet. Follow us for more health and wellness tips!",
+    "hashtags": [
+      "#avocadobenefits",
+      "#hearthealth",
+      "#healthyliving",
+      "#avocadorecipes",
+      "#foodfacts",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Protein Content of Common Fruits",
+    "thumb": "FRUIT PROTEIN",
+    "scenes": [
+      {
+        "hook_top": "FRUIT POWER",
+        "query": "banana fruit",
+        "query2": "banana nutrition facts",
+        "role": "hook",
+        "text": "1 banana contains"
+      },
+      {
+        "label": "Low Protein",
+        "query": "fruit protein content",
+        "query2": "high protein fruits",
+        "role": "myth",
+        "text": "Fruits are low in protein and not a good source"
+      },
+      {
+        "label": "Good Protein",
+        "query": "high protein fruit list",
+        "query2": "fruit protein comparison",
+        "role": "truth",
+        "text": "Some fruits like bananas and avocados are good sources of protein"
+      },
+      {
+        "label": "Eat Protein",
+        "sub": "add to oatmeal or yogurt",
+        "label_on": "try it today",
+        "query": "high protein fruit smoothie",
+        "query2": "fruit and yogurt parfait",
+        "role": "callout",
+        "text": "Incorporate high protein fruits into your diet"
+      },
+      {
+        "query": "health and nutrition blog",
+        "query2": "follow for nutrition tips",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "Learn about the protein content of common fruits and how to incorporate them into your diet. Discover which fruits are high in protein and how to make the most of them. Follow us for more nutrition and health tips!",
+    "hashtags": [
+      "#fruitprotein",
+      "#highproteinfruits",
+      "#healthyliving",
+      "#nutritiontips",
+      "#foodfacts",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Fiber: The Unsung Hero of Digestion",
+    "thumb": "FIBER POWER",
+    "scenes": [
+      {
+        "hook_top": "FIBER INTAKE",
+        "query": "high fiber foods",
+        "query2": "fiber rich breakfast",
+        "role": "hook",
+        "text": "10 grams of fiber daily"
+      },
+      {
+        "num": 1,
+        "label": "WEIGHT LOSS",
+        "label_on": "losing weight",
+        "query": "satiety and weight loss",
+        "query2": "weight loss foods",
+        "role": "count",
+        "text": "1. Boosts satiety and aids weight loss"
+      },
+      {
+        "num": 2,
+        "label": "BLOOD SUGAR",
+        "label_on": "blood sugar control",
+        "query": "fiber and blood sugar",
+        "query2": "blood sugar management",
+        "role": "count",
+        "text": "2. Supports healthy blood sugar levels"
+      },
+      {
+        "num": 3,
+        "label": "BOWEL HEALTH",
+        "label_on": "bowel regularity",
+        "query": "fiber and bowel health",
+        "query2": "bowel movement support",
+        "role": "count",
+        "text": "3. Promotes regular bowel movements"
+      },
+      {
+        "query": "high fiber food recipes",
+        "query2": "fiber rich meal planning",
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality."
+      }
+    ],
+    "description": "Discover the power of fiber in digestion and overall health. Learn how to incorporate more fiber into your diet with these simple tips. Follow for more fiber-rich food ideas!",
+    "hashtags": [
+      "#fiberintake",
+      "#digestion",
+      "#weightloss",
+      "#bloodsugar",
+      "#bowelhealth",
+      "#fyp",
+      "#shorts"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

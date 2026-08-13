@@ -1,0 +1,55 @@
+{
+  "title": "Busting the Oyster Myth",
+  "thumb": "OYSTER POWER",
+  "scenes": [
+    {
+      "hook_top": "OYSTER OVERLOAD",
+      "query": "oysters on a plate",
+      "query2": "oyster shells",
+      "role": "hook",
+      "text": "12 oysters a day"
+    },
+    {
+      "label": "High Cholesterol",
+      "query": "oyster nutrition label",
+      "query2": "cholesterol test",
+      "role": "myth",
+      "text": "Oysters are too high in cholesterol"
+    },
+    {
+      "label": "Omega-3 Rich",
+      "query": "omega-3 fatty acid structure",
+      "query2": "fatty fish comparison",
+      "role": "truth",
+      "text": "Oysters are a good source of omega-3 fatty acids and have been shown to lower cholesterol"
+    },
+    {
+      "label": "Eat Oysters",
+      "sub": "for heart health",
+      "label_on": "oyster",
+      "query": "oysters on a grill",
+      "query2": "heart healthy meal",
+      "role": "callout",
+      "text": "Incorporate oysters into your diet for a boost of omega-3s"
+    },
+    {
+      "query": "social media icons",
+      "query2": "nutrition blog",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Oysters are often misunderstood, but they can be a great addition to a healthy diet. Find out why. Follow us for more nutrition myths and facts.",
+  "hashtags": [
+    "#oysters",
+    "#nutritionmyth",
+    "#healthydiet",
+    "#omega3",
+    "#fattyacids",
+    "#hearthealth",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
