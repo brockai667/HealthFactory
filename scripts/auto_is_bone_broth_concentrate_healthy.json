@@ -1,0 +1,54 @@
+{
+  "title": "Is Bone Broth Concentrate Healthy?",
+  "thumb": "BONE BROTH",
+  "scenes": [
+    {
+      "hook_top": "BONE BROTH",
+      "query": "bone broth concentrate",
+      "query2": "protein powder comparison",
+      "role": "hook",
+      "text": "10 grams of protein per cup"
+    },
+    {
+      "label": "Magic Cure",
+      "query": "bone broth benefits",
+      "query2": "joint pain relief",
+      "role": "myth",
+      "text": "Bone broth concentrate is a magic cure-all for joint pain and inflammation"
+    },
+    {
+      "label": "Nutritious Addition",
+      "query": "bone broth recipe",
+      "query2": "balanced diet comparison",
+      "role": "truth",
+      "text": "While bone broth concentrate can be a nutritious addition to your diet, it's not a replacement for a balanced diet and lifestyle"
+    },
+    {
+      "label": "Add to Diet",
+      "sub": "for added nutrition",
+      "label_on": "bone broth",
+      "query": "bone broth recipe ideas",
+      "query2": "healthy meal prep",
+      "role": "callout",
+      "text": "Incorporate bone broth concentrate into your diet for added nutrition, but don't rely on it as a cure-all"
+    },
+    {
+      "query": "social media icons",
+      "query2": "health blog",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Bone broth concentrate is a popular trend, but is it really a healthy addition to your diet? Find out. Follow us for more health and nutrition tips.",
+  "hashtags": [
+    "#bonebrothconcentrate",
+    "#healthyliving",
+    "#nutritiontips",
+    "#addednutrition",
+    "#balanceddiet",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

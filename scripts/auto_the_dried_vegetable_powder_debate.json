@@ -1,0 +1,54 @@
+{
+  "title": "The Dried Vegetable Powder Debate",
+  "thumb": "VEGGIE POWDER",
+  "scenes": [
+    {
+      "hook_top": "VEGGIE POWER",
+      "query": "dried vegetable powder",
+      "query2": "veggie juice",
+      "role": "hook",
+      "text": "1 cup of dried veggie powder"
+    },
+    {
+      "label": "Convenient",
+      "query": "dried vegetable powder nutrition label",
+      "query2": "juice cleanse",
+      "role": "myth",
+      "text": "Dried vegetable powder is a convenient and nutritious way to get your daily veggies"
+    },
+    {
+      "label": "Supplement Only",
+      "query": "whole vegetables",
+      "query2": "salad comparison",
+      "role": "truth",
+      "text": "While dried vegetable powder can be a good supplement, it's no replacement for whole vegetables"
+    },
+    {
+      "label": "Supplement Wisely",
+      "sub": "for added nutrition",
+      "label_on": "supplement",
+      "query": "dried vegetable powder recipe",
+      "query2": "healthy smoothie",
+      "role": "callout",
+      "text": "Use dried vegetable powder as a supplement, not a replacement for whole veggies"
+    },
+    {
+      "query": "social media icons",
+      "query2": "health blog",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Dried vegetable powder is a popular trend, but is it really a convenient and nutritious way to get your daily veggies? Find out. Follow us for more health and wellness tips.",
+  "hashtags": [
+    "#driedveggiepowder",
+    "#healthyliving",
+    "#nutritiontips",
+    "#supplementwise",
+    "#wholeveggies",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
