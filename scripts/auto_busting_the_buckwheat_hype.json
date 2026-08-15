@@ -1,0 +1,52 @@
+{
+  "title": "Busting the Buckwheat Hype",
+  "thumb": "BUCKWHEAT FACTS",
+  "scenes": [
+    {
+      "hook_top": "BUCKWHEAT BENEFITS",
+      "query": "buckwheat groats",
+      "query2": "buckwheat nutrition",
+      "role": "hook",
+      "text": "1 in 5 people include buckwheat in their diet"
+    },
+    {
+      "num": 1,
+      "label": "HIGH PROTEIN",
+      "label_on": "protein",
+      "query": "buckwheat protein content",
+      "query2": "vegan protein sources",
+      "role": "count",
+      "text": "High protein content makes it a great vegan option"
+    },
+    {
+      "num": 2,
+      "label": "FIBER RICH",
+      "label_on": "fiber",
+      "query": "buckwheat fiber benefits",
+      "query2": "high fiber foods",
+      "role": "count",
+      "text": "Rich in fiber, which can help lower cholesterol"
+    },
+    {
+      "num": 3,
+      "label": "GLUTEN FREE",
+      "label_on": "gluten",
+      "query": "gluten free grains",
+      "query2": "buckwheat gluten free",
+      "role": "count",
+      "text": "Gluten-free, making it a great option for those with gluten intolerance"
+    },
+    {
+      "query": "nutrition facts",
+      "query2": "health myths",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "Buckwheat is a popular superfood, but what are its real benefits? From high protein content to being gluten-free, let's bust the buckwheat hype. Follow us for more nutrition facts and myths!",
+  "hashtags": [
+    "#buckwheat #superfood #nutrition #glutenfree #vegan #protein"
+  ],
+  "place": "",
+  "country": ""
+}

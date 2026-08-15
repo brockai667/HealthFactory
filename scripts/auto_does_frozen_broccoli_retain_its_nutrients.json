@@ -1,0 +1,53 @@
+{
+  "title": "Does Frozen Broccoli Retain Its Nutrients?",
+  "thumb": "FROZEN VEGGIES",
+  "scenes": [
+    {
+      "hook_top": "FROZEN BROCCOLI FACTS",
+      "query": "frozen broccoli",
+      "query2": "broccoli nutrition",
+      "role": "hook",
+      "text": "80% of broccoli"
+    },
+    {
+      "label": "Myth: Nutrient Loss",
+      "query": "broccoli nutrient loss",
+      "query2": "frozen vegetable nutrition",
+      "role": "myth",
+      "text": "Frozen broccoli loses its nutrients"
+    },
+    {
+      "label": "Truth: Nutrients Retained",
+      "query": "flash frozen broccoli",
+      "query2": "frozen vegetable nutrition facts",
+      "role": "truth",
+      "text": "Frozen broccoli retains its nutrients due to flash freezing"
+    },
+    {
+      "label": "Nutrient Power",
+      "sub": "Retains nutrients",
+      "label_on": "Flash frozen",
+      "query": "frozen broccoli benefits",
+      "query2": "healthy frozen vegetables",
+      "role": "callout",
+      "text": "Make the most of frozen broccoli"
+    },
+    {
+      "query": "nutrition tips",
+      "query2": "healthy eating advice",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Get the facts on frozen broccoli and its nutritional value. Learn how to make the most of this healthy food. Follow for more nutrition tips!",
+  "hashtags": [
+    "#frozenbroccoli",
+    "#nutritiontips",
+    "#healthyfood",
+    "#broccolibeans",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
