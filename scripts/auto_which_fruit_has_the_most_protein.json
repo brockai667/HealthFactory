@@ -1,0 +1,58 @@
+{
+  "title": "Which Fruit Has the Most Protein?",
+  "thumb": "PROTEIN POWER",
+  "scenes": [
+    {
+      "hook_top": "FRUIT PROTEIN",
+      "query": "guava fruit",
+      "query2": "high protein fruits",
+      "role": "hook",
+      "text": "Guava has a secret"
+    },
+    {
+      "num": 1,
+      "label": "GUAVA LEADS",
+      "label_on": "the top contender",
+      "query": "guava nutrition facts",
+      "query2": "high protein fruits",
+      "role": "count",
+      "text": "guava contains 4g of protein per cup"
+    },
+    {
+      "num": 2,
+      "label": "BANANA BENEFITS",
+      "label_on": "a close second",
+      "query": "banana nutrition facts",
+      "query2": "good sources of protein",
+      "role": "count",
+      "text": "bananas have 2g of protein per medium fruit"
+    },
+    {
+      "num": 3,
+      "label": "AVOCADO ADVANTAGE",
+      "label_on": "a creamy surprise",
+      "query": "avocado nutrition facts",
+      "query2": "healthy fats and protein",
+      "role": "count",
+      "text": "avocados provide 3g of protein per medium fruit"
+    },
+    {
+      "query": "healthy eating habits",
+      "query2": "nutrition advice",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Find out which fruit has the most protein. Discover the top contenders and add them to your diet. Follow us for more nutrition tips!",
+  "hashtags": [
+    "#proteinpower",
+    "#fruitprotein",
+    "#guava",
+    "#banana",
+    "#avocado",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
