@@ -1,0 +1,54 @@
+{
+  "title": "Probiotics: Separating Fact from Fiction",
+  "thumb": "PROBIOTICS",
+  "scenes": [
+    {
+      "hook_top": "GUT HEALTH MATTERS",
+      "query": "gut health and probiotics",
+      "query2": "probiotic benefits",
+      "role": "hook",
+      "text": "80% of gut health"
+    },
+    {
+      "label": "Probiotics Limited",
+      "query": "probiotic functions",
+      "query2": "probiotic benefits beyond digestion",
+      "role": "myth",
+      "text": "Probiotics only aid digestion"
+    },
+    {
+      "label": "Probiotics Powerful",
+      "query": "probiotic health benefits",
+      "query2": "probiotics and immune system",
+      "role": "truth",
+      "text": "Probiotics support overall health"
+    },
+    {
+      "label": "Probiotics Work",
+      "sub": "Probiotics support overall well-being",
+      "label_on": "The truth is",
+      "query": "probiotic benefits for overall health",
+      "query2": "probiotics and mental health",
+      "role": "callout",
+      "text": "Probiotics are a game-changer"
+    },
+    {
+      "query": "health and wellness insights",
+      "query2": "nutrition and probiotics",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Discover the real benefits of probiotics and how they can improve your overall health. Follow for more health insights.",
+  "hashtags": [
+    "#probiotics",
+    "#guthealth",
+    "#healthbenefits",
+    "#wellness",
+    "#nutrition",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

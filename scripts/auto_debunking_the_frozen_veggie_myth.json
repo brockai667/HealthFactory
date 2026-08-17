@@ -1,0 +1,54 @@
+{
+  "title": "Debunking the Frozen Veggie Myth",
+  "thumb": "FROZEN VEGGIES",
+  "scenes": [
+    {
+      "hook_top": "FROZEN FOOD FACTS",
+      "query": "frozen vegetables",
+      "query2": "fresh vegetables",
+      "role": "hook",
+      "text": "70% of frozen veggies"
+    },
+    {
+      "label": "Frozen Veggies Bad",
+      "query": "nutrient loss in frozen vegetables",
+      "query2": "fresh vs frozen vegetables",
+      "role": "myth",
+      "text": "Frozen veggies lose nutrients"
+    },
+    {
+      "label": "Frozen Veggies Good",
+      "query": "frozen vegetable nutrition",
+      "query2": "frozen vs fresh vegetable comparison",
+      "role": "truth",
+      "text": "Frozen veggies retain nutrients"
+    },
+    {
+      "label": "Go Frozen",
+      "sub": "Frozen veggies are just as healthy",
+      "label_on": "The truth is",
+      "query": "frozen vegetables benefits",
+      "query2": "convenience of frozen vegetables",
+      "role": "callout",
+      "text": "Choose frozen for convenience"
+    },
+    {
+      "query": "health and wellness tips",
+      "query2": "nutrition advice",
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "Get the facts on frozen veggies and make informed choices. Follow for more health tips.",
+  "hashtags": [
+    "#frozenveggies",
+    "#healthtips",
+    "#nutrition",
+    "#foodmyths",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
