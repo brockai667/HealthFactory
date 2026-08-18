@@ -1,0 +1,58 @@
+{
+  "title": "The Fiber Fix: 3 Daily Habits",
+  "thumb": "FIBER BOOST",
+  "scenes": [
+    {
+      "hook_top": "FIBER FIX",
+      "query": "high fiber foods",
+      "query2": "healthy snacks",
+      "role": "hook",
+      "text": "5 grams of fiber daily"
+    },
+    {
+      "num": 1,
+      "label": "WHOLE FOODS",
+      "label_on": "whole foods",
+      "query": "whole fruits and vegetables",
+      "query2": "fresh produce",
+      "role": "count",
+      "text": "Eating whole foods like fruits and vegetables can provide essential fiber"
+    },
+    {
+      "num": 2,
+      "label": "LEGUMES",
+      "label_on": "legumes",
+      "query": "legumes",
+      "query2": "beans and lentils",
+      "role": "count",
+      "text": "Incorporating legumes like beans and lentils into meals can increase fiber intake"
+    },
+    {
+      "num": 3,
+      "label": "HYDRATION",
+      "label_on": "water",
+      "query": "water glass",
+      "query2": "hydration",
+      "role": "count",
+      "text": "Drinking enough water helps fiber move through the digestive system"
+    },
+    {
+      "query": "healthy habits",
+      "query2": "wellness tips",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Discover the fiber fix with these 3 daily habits. Improve your overall health and wellbeing by incorporating more fiber into your diet. Follow for more daily health tips",
+  "hashtags": [
+    "#fiber",
+    "#healthytips",
+    "#wellness",
+    "#nutrition",
+    "#digestivehealth",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

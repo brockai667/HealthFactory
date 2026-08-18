@@ -1,0 +1,54 @@
+{
+  "title": "Frozen vs Fresh: The Great Debate",
+  "thumb": "FROZEN VS FRESH",
+  "scenes": [
+    {
+      "hook_top": "FROZEN PRODUCE FACTS",
+      "query": "frozen produce vs fresh produce",
+      "query2": "frozen fruits and vegetables",
+      "role": "hook",
+      "text": "60% of produce is frozen"
+    },
+    {
+      "label": "Fresh Is Best",
+      "query": "fresh vs frozen produce debate",
+      "query2": "frozen produce nutrition",
+      "role": "myth",
+      "text": "Fresh is always better than frozen"
+    },
+    {
+      "label": "Frozen Is Fine",
+      "query": "frozen produce nutrition facts",
+      "query2": "fresh vs frozen comparison",
+      "role": "truth",
+      "text": "Frozen can be just as nutritious"
+    },
+    {
+      "label": "Make Informed Choices",
+      "sub": "Both frozen and fresh have benefits",
+      "label_on": "The truth is",
+      "query": "frozen and fresh produce benefits",
+      "query2": "convenience of frozen produce",
+      "role": "callout",
+      "text": "Choose what works for you"
+    },
+    {
+      "query": "nutrition tips and advice",
+      "query2": "healthy eating habits",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Get the facts on frozen and fresh produce and make informed choices for your health. Follow for more nutrition tips.",
+  "hashtags": [
+    "#frozenvsfresh",
+    "#producedeate",
+    "#nutrition",
+    "#healthtips",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
