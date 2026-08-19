@@ -7270,5 +7270,132 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "What Happens If You Drink 2 Cups of Green Tea Every Day?",
+    "thumb": "GREEN TEA POWER",
+    "scenes": [
+      {
+        "text": "What happens when you sip 2 cups of green tea each day?",
+        "hook_top": "2 CUPS GREEN TEA",
+        "query": "green tea cup",
+        "query2": "green tea beverage",
+        "role": "hook"
+      },
+      {
+        "text": "It adds about 30–50 mg of caffeine, giving a gentle alertness without jitters.",
+        "num": 1,
+        "label": "CAFFEINE BOOST",
+        "label_on": "caffeine",
+        "query": "caffeine content green tea",
+        "query2": "green tea caffeine",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Rich in L‑theanine, it promotes relaxation while maintaining focus, balancing stress hormones.",
+        "num": 2,
+        "label": "L‑THEANINE RELAX",
+        "label_on": "theanine",
+        "query": "L-theanine green tea",
+        "query2": "green tea amino acid",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "The antioxidants, especially EGCG, support heart health and may improve metabolism.",
+        "num": 3,
+        "label": "EGCG ANTIOXIDANTS",
+        "label_on": "antioxidants",
+        "query": "EGCG green tea",
+        "query2": "green tea antioxidants",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for your daily dose of vitality.",
+        "query": "follow button",
+        "query2": "subscribe button",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how just two cups of green tea a day can boost alertness, calm stress, and support your heart. Simple, science‑backed benefits you can start today. Follow for more quick health hacks!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#greentea",
+      "#healthtips",
+      "#wellness",
+      "#nutrition",
+      "#science",
+      "#dailyhabits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is Your Afternoon Coffee Killing Your Sleep?",
+    "thumb": "AFTERNOON COFFEE SLEEP",
+    "scenes": [
+      {
+        "text": "Coffee after 2 PM? Your sleep might suffer.",
+        "hook_top": "COFFEE AFTER 2PM",
+        "query": "coffee after 2pm sleep",
+        "query2": "afternoon coffee sleep impact",
+        "role": "hook"
+      },
+      {
+        "text": "Caffeine’s half‑life is about 5–6 hours in most adults.",
+        "chips": [
+          {
+            "t": "5‑6 HOURS",
+            "on": "caffeine",
+            "style": "accent"
+          }
+        ],
+        "query": "caffeine half-life",
+        "query2": "caffeine metabolism time",
+        "role": "fact"
+      },
+      {
+        "text": "Drinking caffeine six hours before bed can delay sleep onset by up to 40 minutes.",
+        "chips": [
+          {
+            "t": "40 MINUTES",
+            "on": "delay",
+            "style": "accent"
+          }
+        ],
+        "query": "caffeine bedtime delay",
+        "query2": "caffeine sleep onset study",
+        "role": "fact"
+      },
+      {
+        "text": "Even a small cup after 2 PM can wreck your night’s sleep.",
+        "reveal_top": "SMALL CUP, BIG PROBLEMS",
+        "query": "coffee timing sleep",
+        "query2": "caffeine evening effects",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for the wellness basics that matter.",
+        "query": "follow sleep tips",
+        "query2": "follow health hacks",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn how a simple coffee habit after 2 PM can sabotage your nightly rest. Follow for more evidence‑based health hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#sleep",
+      "#caffeine",
+      "#healthtips",
+      "#wellness",
+      "#science"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

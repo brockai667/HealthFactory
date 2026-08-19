@@ -1,0 +1,58 @@
+{
+  "title": "Frozen vs Fresh: What's the Difference?",
+  "thumb": "FROZEN VS FRESH",
+  "scenes": [
+    {
+      "hook_top": "FROZEN PRODUCE",
+      "query": "frozen vegetables",
+      "query2": "fresh produce",
+      "role": "hook",
+      "text": "70% of produce is frozen"
+    },
+    {
+      "num": 1,
+      "label": "NUTRIENT PRESERVATION",
+      "label_on": "frozen produce",
+      "query": "frozen fruits and vegetables",
+      "query2": "nutrient preservation",
+      "role": "count",
+      "text": "Frozen produce is often picked at peak ripeness and then frozen, preserving nutrients"
+    },
+    {
+      "num": 2,
+      "label": "NUTRIENT LOSS",
+      "label_on": "fresh produce",
+      "query": "fresh fruits and vegetables",
+      "query2": "nutrient loss",
+      "role": "count",
+      "text": "Fresh produce can lose nutrients during transportation and storage"
+    },
+    {
+      "num": 3,
+      "label": "HEALTHY CHOICES",
+      "label_on": "healthy choices",
+      "query": "healthy eating",
+      "query2": "balanced diet",
+      "role": "count",
+      "text": "Both frozen and fresh produce can be part of a healthy diet when chosen wisely"
+    },
+    {
+      "query": "nutrition tips",
+      "query2": "health and wellness",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Discover the truth about frozen vs fresh produce. Learn how to make healthy choices and preserve nutrients in your diet. Follow for more nutrition and health tips",
+  "hashtags": [
+    "#frozenvsfresh",
+    "#produce",
+    "#nutrition",
+    "#healthytips",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

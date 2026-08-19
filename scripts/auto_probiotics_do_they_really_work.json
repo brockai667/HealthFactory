@@ -1,0 +1,59 @@
+{
+  "title": "Probiotics: Do They Really Work?",
+  "thumb": "PROBIOTICS",
+  "scenes": [
+    {
+      "hook_top": "GUT HEALTH",
+      "query": "probiotic supplements",
+      "query2": "gut health",
+      "role": "hook",
+      "text": "80% of immunity starts in the gut"
+    },
+    {
+      "num": 1,
+      "label": "DIGESTION",
+      "label_on": "digestion",
+      "query": "probiotic bacteria",
+      "query2": "gut health",
+      "role": "count",
+      "text": "Probiotics can aid digestion and absorption of essential nutrients"
+    },
+    {
+      "num": 2,
+      "label": "IBS RELIEF",
+      "label_on": "IBS",
+      "query": "probiotic supplements for IBS",
+      "query2": "IBS treatment",
+      "role": "count",
+      "text": "Certain probiotic strains can help reduce symptoms of IBS"
+    },
+    {
+      "num": 3,
+      "label": "PROBIOTIC FOODS",
+      "label_on": "probiotic foods",
+      "query": "probiotic rich foods",
+      "query2": "yogurt and kefir",
+      "role": "count",
+      "text": "Incorporating probiotic-rich foods like yogurt and kefir into your diet can support gut health"
+    },
+    {
+      "query": "health and wellness",
+      "query2": "wellness tips",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Discover the truth about probiotics and how they can benefit your health. From digestion to IBS relief, learn how probiotics can support your overall wellbeing. Follow for more health and wellness tips",
+  "hashtags": [
+    "#probiotics",
+    "#guthealth",
+    "#digestion",
+    "#IBS",
+    "#healthytips",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
