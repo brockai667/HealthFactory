@@ -1,0 +1,55 @@
+{
+  "title": "The Protein Content of Common Fruits",
+  "thumb": "FRUIT PROTEIN",
+  "scenes": [
+    {
+      "hook_top": "FRUIT POWER",
+      "query": "banana fruit",
+      "query2": "banana nutrition facts",
+      "role": "hook",
+      "text": "1 banana contains"
+    },
+    {
+      "label": "Low Protein",
+      "query": "fruit protein content",
+      "query2": "high protein fruits",
+      "role": "myth",
+      "text": "Fruits are low in protein and not a good source"
+    },
+    {
+      "label": "Good Protein",
+      "query": "high protein fruit list",
+      "query2": "fruit protein comparison",
+      "role": "truth",
+      "text": "Some fruits like bananas and avocados are good sources of protein"
+    },
+    {
+      "label": "Eat Protein",
+      "sub": "add to oatmeal or yogurt",
+      "label_on": "try it today",
+      "query": "high protein fruit smoothie",
+      "query2": "fruit and yogurt parfait",
+      "role": "callout",
+      "text": "Incorporate high protein fruits into your diet"
+    },
+    {
+      "query": "health and nutrition blog",
+      "query2": "follow for nutrition tips",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "Learn about the protein content of common fruits and how to incorporate them into your diet. Discover which fruits are high in protein and how to make the most of them. Follow us for more nutrition and health tips!",
+  "hashtags": [
+    "#fruitprotein",
+    "#highproteinfruits",
+    "#healthyliving",
+    "#nutritiontips",
+    "#foodfacts",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Do Avocados Really Support Heart Health?",
+  "thumb": "AVOCADO HEALTH",
+  "scenes": [
+    {
+      "hook_top": "AVOCADO POWER",
+      "query": "avocado on toast",
+      "query2": "avocado fruit",
+      "role": "hook",
+      "text": "1 avocado a day"
+    },
+    {
+      "label": "Too Fatty",
+      "query": "avocado fat content",
+      "query2": "healthy fats in avocados",
+      "role": "myth",
+      "text": "Avocados are too high in fat to be healthy"
+    },
+    {
+      "label": "Healthy Fats",
+      "query": "avocado health benefits",
+      "query2": "monounsaturated fats in avocados",
+      "role": "truth",
+      "text": "Avocados contain healthy fats that support heart health"
+    },
+    {
+      "label": "Eat Avocados",
+      "sub": "add to salads or smoothies",
+      "label_on": "get started now",
+      "query": "avocado in salads",
+      "query2": "avocado smoothie recipe",
+      "role": "callout",
+      "text": "Add avocados to your diet for a healthier heart"
+    },
+    {
+      "query": "health and wellness blog",
+      "query2": "follow for wellness tips",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "Discover the truth about avocados and their role in supporting heart health. Learn more about the benefits of avocados and how to incorporate them into your diet. Follow us for more health and wellness tips!",
+  "hashtags": [
+    "#avocadobenefits",
+    "#hearthealth",
+    "#healthyliving",
+    "#avocadorecipes",
+    "#foodfacts",
+    "#wellness",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
