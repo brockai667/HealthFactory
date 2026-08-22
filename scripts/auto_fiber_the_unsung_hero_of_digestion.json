@@ -1,0 +1,58 @@
+{
+  "title": "Fiber: The Unsung Hero of Digestion",
+  "thumb": "FIBER POWER",
+  "scenes": [
+    {
+      "hook_top": "FIBER INTAKE",
+      "query": "high fiber foods",
+      "query2": "fiber rich breakfast",
+      "role": "hook",
+      "text": "10 grams of fiber daily"
+    },
+    {
+      "num": 1,
+      "label": "WEIGHT LOSS",
+      "label_on": "losing weight",
+      "query": "satiety and weight loss",
+      "query2": "weight loss foods",
+      "role": "count",
+      "text": "1. Boosts satiety and aids weight loss"
+    },
+    {
+      "num": 2,
+      "label": "BLOOD SUGAR",
+      "label_on": "blood sugar control",
+      "query": "fiber and blood sugar",
+      "query2": "blood sugar management",
+      "role": "count",
+      "text": "2. Supports healthy blood sugar levels"
+    },
+    {
+      "num": 3,
+      "label": "BOWEL HEALTH",
+      "label_on": "bowel regularity",
+      "query": "fiber and bowel health",
+      "query2": "bowel movement support",
+      "role": "count",
+      "text": "3. Promotes regular bowel movements"
+    },
+    {
+      "query": "high fiber food recipes",
+      "query2": "fiber rich meal planning",
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality."
+    }
+  ],
+  "description": "Discover the power of fiber in digestion and overall health. Learn how to incorporate more fiber into your diet with these simple tips. Follow for more fiber-rich food ideas!",
+  "hashtags": [
+    "#fiberintake",
+    "#digestion",
+    "#weightloss",
+    "#bloodsugar",
+    "#bowelhealth",
+    "#fyp",
+    "#shorts"
+  ],
+  "place": "",
+  "country": ""
+}

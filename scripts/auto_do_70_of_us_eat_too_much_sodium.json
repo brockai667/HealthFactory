@@ -1,0 +1,55 @@
+{
+  "title": "Do 70% of Us Eat Too Much Sodium?",
+  "thumb": "SODIUM ALERT",
+  "scenes": [
+    {
+      "hook_top": "SODIUM OVERLOAD",
+      "query": "sodium rich foods",
+      "query2": "high sodium warning labels",
+      "role": "hook",
+      "text": "70% of us exceed sodium limits"
+    },
+    {
+      "label": "Sea Salt Myth",
+      "query": "sea salt vs table salt",
+      "query2": "sodium content in sea salt",
+      "role": "myth",
+      "text": "Most people think sea salt is a low-sodium alternative"
+    },
+    {
+      "label": "Sodium Truth",
+      "query": "sodium content comparison",
+      "query2": "sea salt nutrition facts",
+      "role": "truth",
+      "text": "Table salt and sea salt have similar sodium content"
+    },
+    {
+      "label": "Sodium Swap",
+      "sub": "Try herbs for flavor",
+      "label_on": "Swap",
+      "query": "low sodium food options",
+      "query2": "herbs and spices for flavor",
+      "role": "callout",
+      "text": "Reduce sodium intake by choosing low-sodium options"
+    },
+    {
+      "query": "healthy living tips",
+      "query2": "wellness advice",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Discover the truth about sodium intake and how to reduce it. Follow us for more health tips!",
+  "hashtags": [
+    "#sodiumawareness",
+    "#healthtips",
+    "#wellness",
+    "#lowodium",
+    "#healthyhabits",
+    "#nutritionfacts",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
