@@ -1,0 +1,54 @@
+{
+  "title": "Is 1 in 5 Produce Recalled Due to Salmonella?",
+  "thumb": "SALMONELLA ALERT",
+  "scenes": [
+    {
+      "hook_top": "SALMONELLA RISK",
+      "query": "salmonella outbreaks",
+      "query2": "produce recalls",
+      "role": "hook",
+      "text": "1 in 5 produce recalled due to salmonella"
+    },
+    {
+      "label": "Washing Myth",
+      "query": "washing produce",
+      "query2": "bacteria on produce",
+      "role": "myth",
+      "text": "Most people think washing produce removes all bacteria"
+    },
+    {
+      "label": "Bacteria Truth",
+      "query": "produce washing effectiveness",
+      "query2": "bacteria removal methods",
+      "role": "truth",
+      "text": "Washing produce can reduce but not eliminate bacteria"
+    },
+    {
+      "label": "Produce Safety",
+      "sub": "Check recall lists",
+      "label_on": "Handle",
+      "query": "safe produce handling",
+      "query2": "recall lists",
+      "role": "callout",
+      "text": "Handle produce safely to reduce salmonella risk"
+    },
+    {
+      "query": "food safety tips",
+      "query2": "healthy eating advice",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Learn how to handle produce safely and reduce salmonella risk. Follow us for more food safety tips!",
+  "hashtags": [
+    "#salmonellaawareness",
+    "#foodsafety",
+    "#healthtips",
+    "#producerecalls",
+    "#safehandling",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

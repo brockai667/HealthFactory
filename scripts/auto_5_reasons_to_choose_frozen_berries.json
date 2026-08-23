@@ -1,0 +1,58 @@
+{
+  "title": "5 Reasons to Choose Frozen Berries",
+  "thumb": "FROZEN BERRIES",
+  "scenes": [
+    {
+      "hook_top": "FROZEN FOOD FACTS",
+      "query": "frozen mixed berries",
+      "query2": "frozen fruit",
+      "role": "hook",
+      "text": "77% of Americans eat frozen food daily"
+    },
+    {
+      "num": 1,
+      "label": "ANTIOXIDANT",
+      "label_on": "blasting",
+      "query": "frozen mixed berries",
+      "query2": "frozen fruit",
+      "role": "count",
+      "text": "1. Higher antioxidant content"
+    },
+    {
+      "num": 2,
+      "label": "SUGAR CONTENT",
+      "label_on": "compared",
+      "query": "frozen mixed berries nutrition label",
+      "query2": "frozen fruit nutrition facts",
+      "role": "count",
+      "text": "2. Lower sugar content than fresh"
+    },
+    {
+      "num": 3,
+      "label": "AVAILABILITY",
+      "label_on": "enjoyed",
+      "query": "frozen mixed berries in supermarket",
+      "query2": "frozen fruit section",
+      "role": "count",
+      "text": "3. Year-round availability"
+    },
+    {
+      "query": "person following a healthy diet",
+      "query2": "healthy eating habits",
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "Discover the benefits of choosing frozen berries over fresh ones. From higher antioxidant content to lower sugar content, there are many reasons to make the switch. Follow us for more nutrition tips and tricks!",
+  "hashtags": [
+    "#frozenberries",
+    "#nutritiontips",
+    "#healthyliving",
+    "#wellness",
+    "#foodfacts",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

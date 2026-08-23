@@ -7458,5 +7458,441 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Does Eating 5 Apples a Day Really Boost Immunity?",
+    "thumb": "APPLE IMMUNITY",
+    "scenes": [
+      {
+        "hook_top": "5 APPLES PROTECT",
+        "query": "apples on kitchen counter",
+        "query2": "fresh apples basket",
+        "role": "hook",
+        "text": "Can 5 apples a day actually protect you from colds?"
+      },
+      {
+        "label": "More apples = stronger immun",
+        "query": "apple health myth infographic",
+        "query2": "apple nutrition chart",
+        "role": "myth",
+        "text": "People think the old “an apple a day keeps the doctor away” means you need many apples for immune power."
+      },
+      {
+        "label": "Apples help, but not magic",
+        "query": "vitamin C content apple compare orange",
+        "query2": "antioxidant levels fruit chart",
+        "role": "truth",
+        "text": "Apples contain vitamin C and antioxidants, but the amount is modest; a balanced diet with varied fruits provides better immune support."
+      },
+      {
+        "label": "Mix Your Fruit",
+        "sub": "Combine berries, citrus, and apples daily.",
+        "label_on": "mix",
+        "query": "mixed fruit bowl",
+        "query2": "colorful fruit assortment",
+        "role": "callout",
+        "text": "Balance is key—mix fruits for full nutrients."
+      },
+      {
+        "query": "follow button animation",
+        "query2": "subscribe graphic",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "The apple myth is catchy, but the science tells a different story. Learn the real role of apples in immunity and how to truly protect yourself. Follow for more myth‑busting health tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutritionmyth",
+      "#applefacts",
+      "#immunity",
+      "#healthtips",
+      "#sciencebacked"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is Coconut Water a Better Post‑Workout Drink Than Sports Drinks?",
+    "thumb": "COCO VS SPORTS",
+    "scenes": [
+      {
+        "hook_top": "COCO VS GATORADE",
+        "query": "person drinking coconut water after workout",
+        "query2": "athlete with sports drink",
+        "role": "hook",
+        "text": "Does coconut water beat Gatorade after a 30‑minute run?"
+      },
+      {
+        "label": "Coconut water = superior ele",
+        "query": "coconut water electrolyte infographic",
+        "query2": "sports drink electrolyte comparison",
+        "role": "myth",
+        "text": "Many believe coconut water naturally replaces electrolytes better than commercial sports drinks."
+      },
+      {
+        "label": "Coconut lacks enough sodium",
+        "query": "sodium content coconut water vs sports drink",
+        "query2": "electrolyte needs after exercise chart",
+        "role": "truth",
+        "text": "Coconut water provides potassium but lacks sodium levels needed for intense sweat loss; sports drinks are formulated to match typical electrolyte loss from vigorous exercise."
+      },
+      {
+        "label": "Match Your Sweat",
+        "sub": "Long, hard sessions may need a sports drink; light activity can use coconut water.",
+        "label_on": "match",
+        "query": "runner checking sweat bands",
+        "query2": "person measuring water intake",
+        "role": "callout",
+        "text": "Choose based on sweat rate and duration."
+      },
+      {
+        "query": "follow button overlay",
+        "query2": "like and subscribe icon",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Coconut water is tasty, but is it the optimal recovery drink? We break down electrolyte science so you can hydrate smarter. Follow for more practical hydration myths debunked.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#hydration",
+      "#coconutwater",
+      "#sportsdrink",
+      "#fitnessmyth",
+      "#science"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Do You Need to Eat Protein Within 30 Minutes After Exercise?",
+    "thumb": "PROTEIN WINDOW",
+    "scenes": [
+      {
+        "hook_top": "30MIN PROTEIN",
+        "query": "clock showing 30 minutes",
+        "query2": "timer counting down after gym",
+        "role": "hook",
+        "text": "Is the 30‑minute post‑workout protein window real?"
+      },
+      {
+        "label": "Strict protein timing needed",
+        "query": "post workout protein timing chart",
+        "query2": "gym nutrition myth graphic",
+        "role": "myth",
+        "text": "The common belief says muscles only grow if protein is consumed within half an hour of training."
+      },
+      {
+        "label": "Total protein matters more",
+        "query": "study daily protein intake vs timing",
+        "query2": "nutritionist explaining protein distribution",
+        "role": "truth",
+        "text": "Research shows total daily protein matters more; a 2‑hour window after exercise is sufficient for most people."
+      },
+      {
+        "label": "Focus on Daily Goal",
+        "sub": "Spread protein evenly across meals for best results.",
+        "label_on": "focus",
+        "query": "plate with balanced protein portions",
+        "query2": "meal prep containers with protein",
+        "role": "callout",
+        "text": "Plan meals to hit your daily goal, not the clock."
+      },
+      {
+        "query": "follow button pop-up",
+        "query2": "subscribe call to action",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "The “anabolic window” sounds urgent, but evidence says your overall protein intake is the real driver of recovery. Get the facts and simplify your nutrition plan. Follow for more myth‑busting fitness tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#fitnessmyth",
+      "#protein",
+      "#workoutrecovery",
+      "#sciencebacked",
+      "#health"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Is Drinking Warm Lemon Water in the Morning a Metabolism Booster?",
+    "thumb": "LEMON BOOST",
+    "scenes": [
+      {
+        "hook_top": "LEMON METABOLISM",
+        "query": "person squeezing lemon into warm water",
+        "query2": "morning lemon water mug",
+        "role": "hook",
+        "text": "Does a warm lemon drink jump‑start your metabolism each sunrise?"
+      },
+      {
+        "label": "Lemon water = metabolism hac",
+        "query": "lemon water metabolism claim graphic",
+        "query2": "diet myth lemon water",
+        "role": "myth",
+        "text": "Many think the acidity of lemon water revs up metabolism and burns extra calories."
+      },
+      {
+        "label": "No extra calorie burn",
+        "query": "study metabolism warm water lemon",
+        "query2": "research hydration metabolism",
+        "role": "truth",
+        "text": "Studies show no measurable increase in resting metabolic rate from lemon water alone; hydration supports normal metabolism but doesn't act as a calorie‑burning catalyst."
+      },
+      {
+        "label": "Hydration, not magic",
+        "sub": "Warm water with lemon can aid digestion, but don't expect weight loss spikes.",
+        "label_on": "enjoy",
+        "query": "close-up of lemon slices in water",
+        "query2": "person sipping lemon water relaxed",
+        "role": "callout",
+        "text": "Enjoy it for taste and hydration, not calorie loss."
+      },
+      {
+        "query": "follow button animation",
+        "query2": "like subscribe icons",
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health."
+      }
+    ],
+    "description": "Warm lemon water feels refreshing, but the science says it won’t torch calories. Learn the real benefits and avoid the hype. Follow for more everyday health myth busts.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#healthmyth",
+      "#lemonwater",
+      "#hydration",
+      "#wellness",
+      "#science"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "How Much Iron Do You Actually Absorb?",
+    "thumb": "IRON ABSORPTION",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Only a tiny fraction of the iron you eat actually enters your bloodstream.",
+        "hook_top": "IRON ABSORPTION FACT",
+        "query": "iron absorption percentage diet",
+        "query2": "how much dietary iron is absorbed",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "HEME IRON: 15‑35% ABSORPTION",
+        "label_on": "ONE",
+        "text": "Iron from animal sources (heme) is absorbed at about 15 to 35 percent, the highest of any food type.",
+        "query": "heme iron absorption rate",
+        "query2": "animal iron absorption percentage",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "NON‑HEME IRON: 2‑20% ABSORPTION",
+        "label_on": "TWO",
+        "text": "Plant‑based (non‑heme) iron is taken up at roughly 2 to 20 percent, depending on diet composition.",
+        "query": "non heme iron absorption range",
+        "query2": "plant iron absorption percent",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "VITAMIN C BOOSTS ABSORPTION",
+        "label_on": "THREE",
+        "text": "Consuming vitamin C with iron‑rich foods can double non‑heme iron absorption.",
+        "query": "vitamin C increase iron absorption",
+        "query2": "vitamin C iron absorption study",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow button animation",
+        "query2": "social media follow icon",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn why most dietary iron never reaches your cells and how to boost its uptake naturally. Simple tips to make every bite count. Follow for more evidence‑based health hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#iron",
+      "#nutrition",
+      "#healthscience",
+      "#diettips",
+      "#wellness"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can 2 Liters of Water Boost Your Mood?",
+    "thumb": "MOOD WATER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What happens to your mood after drinking 2 L of water?",
+        "hook_top": "WATER MOOD",
+        "query": "water intake mood study",
+        "query2": "hydration mood research",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "A 2021 randomized trial found adults who increased intake to 2 L per day reported a 15% rise in mood‑vigor scores.",
+        "chips": [
+          {
+            "t": "2 L DAILY",
+            "on": "two liters",
+            "style": "accent"
+          },
+          {
+            "t": "15% VIGOR ↑",
+            "on": "fifteen percent",
+            "style": "white"
+          }
+        ],
+        "punch": "boost",
+        "query": "2021 water intake mood study",
+        "query2": "hydration mood improvement trial",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Proper hydration also reduces perceived stress by about 10% in the same participants.",
+        "chips": [
+          {
+            "t": "10% STRESS ↓",
+            "on": "ten percent",
+            "style": "white"
+          }
+        ],
+        "query": "hydration stress reduction study",
+        "query2": "water intake stress percentage",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Drink 2 L of water each day for a clearer mind.",
+        "label": "HYDRATE DAILY",
+        "sub": "Simple habit, measurable mood lift",
+        "label_on": "hydrate",
+        "query": "daily water habit mood benefit",
+        "query2": "2 liters water daily mood",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "follow health channel CTA",
+        "query2": "subscribe health tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how a modest water increase can brighten your day and lower stress. Try it for a week and feel the difference. 🌊",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#hydration",
+      "#moodboost",
+      "#science",
+      "#wellness",
+      "#healthtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can quinoa rival chicken protein?",
+    "thumb": "PROTEIN POWER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why does 1 cup of quinoa pack 8 g of protein?",
+        "hook_top": "QUINOA PROTEIN SURPRISE",
+        "query": "quinoa protein content per cup",
+        "query2": "cooked quinoa nutrition facts",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "One cup of cooked quinoa provides about 8 grams of protein.",
+        "chips": [
+          {
+            "t": "8 g PROTEIN",
+            "on": "protein",
+            "style": "white"
+          }
+        ],
+        "query": "quinoa protein 8 grams per cup",
+        "query2": "quinoa nutrition facts",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "A 3‑ounce (85 g) chicken breast delivers roughly 25 grams of protein.",
+        "chips": [
+          {
+            "t": "25 g PROTEIN",
+            "on": "protein",
+            "style": "accent"
+          }
+        ],
+        "query": "chicken breast protein per 3 ounces",
+        "query2": "85 g chicken breast nutrition",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "When you compare protein per calorie, beans and lentils match chicken, and quinoa is close too.",
+        "reveal_top": "BEANS MATCH CHICKEN",
+        "chips": [
+          {
+            "t": "PROTEIN PER CAL",
+            "on": "protein",
+            "style": "white"
+          }
+        ],
+        "query": "protein per calorie beans versus chicken",
+        "query2": "protein density plant foods",
+        "role": "fact"
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "follow call to action",
+        "query2": "subscribe reminder",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how plant‑based staples like quinoa, beans, and lentils can give you protein comparable to meat without extra calories. Stay tuned for more evidence‑based nutrition tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#protein",
+      "#plantbased",
+      "#healthtips",
+      "#sciencebacked"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
