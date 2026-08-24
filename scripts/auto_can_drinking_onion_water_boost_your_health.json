@@ -1,0 +1,55 @@
+{
+  "title": "Can Drinking Onion Water Boost Your Health?",
+  "thumb": "ONION WATER",
+  "scenes": [
+    {
+      "hook_top": "ONION WATER",
+      "query": "glass of onion water",
+      "query2": "onion juice",
+      "role": "hook",
+      "text": "1 in 5 people drink onion water daily"
+    },
+    {
+      "label": "Onion Water",
+      "query": "onion water bottle",
+      "query2": "health benefits",
+      "role": "myth",
+      "text": "Onion water is a cure-all for health issues"
+    },
+    {
+      "label": "Onion Water Benefits",
+      "query": "onion health benefits",
+      "query2": "medical research",
+      "role": "truth",
+      "text": "Onion water has some health benefits, but not a miracle cure"
+    },
+    {
+      "label": "Balanced Diet",
+      "sub": "Eat a variety of foods",
+      "label_on": "Onion Water",
+      "query": "balanced meal",
+      "query2": "food groups",
+      "role": "callout",
+      "text": "Incorporate onion water into a balanced diet"
+    },
+    {
+      "query": "follow button",
+      "query2": "health advice",
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "Learn the truth about onion water and its health benefits. Incorporate it into a balanced diet for optimal health. Follow for more evidence-based health advice!",
+  "hashtags": [
+    "#onionwater",
+    "#healthbenefits",
+    "#balanceddiet",
+    "#nutrition",
+    "#foodforthought",
+    "#healthadvice",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

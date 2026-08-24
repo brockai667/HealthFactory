@@ -1,0 +1,56 @@
+{
+  "title": "Do You Really Need to Avoid Rice at Night?",
+  "thumb": "RICE AT NIGHT",
+  "scenes": [
+    {
+      "hook_top": "RICE AT NIGHT",
+      "query": "plate of rice",
+      "query2": "dinner table",
+      "role": "hook",
+      "text": "50% of people eat rice for dinner"
+    },
+    {
+      "label": "Rice at Night",
+      "query": "weight scale",
+      "query2": "person eating rice",
+      "role": "myth",
+      "text": "Eating rice at night makes you gain weight"
+    },
+    {
+      "label": "Portion Control",
+      "query": "measuring cup",
+      "query2": "healthy meal",
+      "role": "truth",
+      "text": "Rice itself doesn't cause weight gain, portion size does"
+    },
+    {
+      "label": "Balanced Meals",
+      "sub": "Eat a variety of foods",
+      "label_on": "Timing",
+      "query": "balanced meal",
+      "query2": "food groups",
+      "role": "callout",
+      "text": "Focus on balanced meals, not timing"
+    },
+    {
+      "query": "follow button",
+      "query2": "health tips",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "Get the facts about eating rice at night and learn how to make balanced meal choices. Follow for more practical health tips!",
+  "hashtags": [
+    "#healthtips",
+    "#riceatnight",
+    "#balancedmeals",
+    "#portioncontrol",
+    "#weightloss",
+    "#nutrition",
+    "#foodforthought",
+    " #shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
