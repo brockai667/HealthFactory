@@ -1,0 +1,62 @@
+{
+  "title": "What Happens If You Drink 2 Cups of Green Tea Every Day?",
+  "thumb": "GREEN TEA POWER",
+  "scenes": [
+    {
+      "text": "What happens when you sip 2 cups of green tea each day?",
+      "hook_top": "2 CUPS GREEN TEA",
+      "query": "green tea cup",
+      "query2": "green tea beverage",
+      "role": "hook"
+    },
+    {
+      "text": "It adds about 30–50 mg of caffeine, giving a gentle alertness without jitters.",
+      "num": 1,
+      "label": "CAFFEINE BOOST",
+      "label_on": "caffeine",
+      "query": "caffeine content green tea",
+      "query2": "green tea caffeine",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Rich in L‑theanine, it promotes relaxation while maintaining focus, balancing stress hormones.",
+      "num": 2,
+      "label": "L‑THEANINE RELAX",
+      "label_on": "theanine",
+      "query": "L-theanine green tea",
+      "query2": "green tea amino acid",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "The antioxidants, especially EGCG, support heart health and may improve metabolism.",
+      "num": 3,
+      "label": "EGCG ANTIOXIDANTS",
+      "label_on": "antioxidants",
+      "query": "EGCG green tea",
+      "query2": "green tea antioxidants",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for your daily dose of vitality.",
+      "query": "follow button",
+      "query2": "subscribe button",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover how just two cups of green tea a day can boost alertness, calm stress, and support your heart. Simple, science‑backed benefits you can start today. Follow for more quick health hacks!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#greentea",
+    "#healthtips",
+    "#wellness",
+    "#nutrition",
+    "#science",
+    "#dailyhabits"
+  ],
+  "place": "",
+  "country": ""
+}

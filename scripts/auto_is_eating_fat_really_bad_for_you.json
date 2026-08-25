@@ -1,0 +1,55 @@
+{
+  "title": "Is Eating Fat Really Bad for You?",
+  "thumb": "EAT FAT",
+  "scenes": [
+    {
+      "hook_top": "FAT",
+      "query": "plate of fatty foods",
+      "query2": "nutrition label",
+      "role": "hook",
+      "text": "40% of daily calories come from fat"
+    },
+    {
+      "label": "Fat is Bad",
+      "query": "unhealthy fats",
+      "query2": "weight gain",
+      "role": "myth",
+      "text": "All fat is bad for your health"
+    },
+    {
+      "label": "Healthy Fats",
+      "query": "avocado",
+      "query2": "nuts",
+      "role": "truth",
+      "text": "Some fats are essential for your health"
+    },
+    {
+      "label": "Balanced Fats",
+      "sub": "Eat a variety of fats",
+      "label_on": "Fat Intake",
+      "query": "balanced meal",
+      "query2": "food groups",
+      "role": "callout",
+      "text": "Focus on balanced fat intake, not avoidance"
+    },
+    {
+      "query": "follow button",
+      "query2": "nutrition tips",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Get the facts about fat and its role in a healthy diet. Focus on balanced fat intake, not avoidance. Follow for more practical nutrition tips!",
+  "hashtags": [
+    "#fats",
+    "#nutrition",
+    "#balanceddiet",
+    "#healthyliving",
+    "#foodforthought",
+    "#dietadvice",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
