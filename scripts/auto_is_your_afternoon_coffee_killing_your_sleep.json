@@ -1,0 +1,65 @@
+{
+  "title": "Is Your Afternoon Coffee Killing Your Sleep?",
+  "thumb": "AFTERNOON COFFEE SLEEP",
+  "scenes": [
+    {
+      "text": "Coffee after 2 PM? Your sleep might suffer.",
+      "hook_top": "COFFEE AFTER 2PM",
+      "query": "coffee after 2pm sleep",
+      "query2": "afternoon coffee sleep impact",
+      "role": "hook"
+    },
+    {
+      "text": "Caffeine’s half‑life is about 5–6 hours in most adults.",
+      "chips": [
+        {
+          "t": "5‑6 HOURS",
+          "on": "caffeine",
+          "style": "accent"
+        }
+      ],
+      "query": "caffeine half-life",
+      "query2": "caffeine metabolism time",
+      "role": "fact"
+    },
+    {
+      "text": "Drinking caffeine six hours before bed can delay sleep onset by up to 40 minutes.",
+      "chips": [
+        {
+          "t": "40 MINUTES",
+          "on": "delay",
+          "style": "accent"
+        }
+      ],
+      "query": "caffeine bedtime delay",
+      "query2": "caffeine sleep onset study",
+      "role": "fact"
+    },
+    {
+      "text": "Even a small cup after 2 PM can wreck your night’s sleep.",
+      "reveal_top": "SMALL CUP, BIG PROBLEMS",
+      "query": "coffee timing sleep",
+      "query2": "caffeine evening effects",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for the wellness basics that matter.",
+      "query": "follow sleep tips",
+      "query2": "follow health hacks",
+      "role": "cta"
+    }
+  ],
+  "description": "Learn how a simple coffee habit after 2 PM can sabotage your nightly rest. Follow for more evidence‑based health hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#sleep",
+    "#caffeine",
+    "#healthtips",
+    "#wellness",
+    "#science"
+  ],
+  "place": "",
+  "country": ""
+}

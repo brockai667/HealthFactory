@@ -1,0 +1,61 @@
+{
+  "title": "What Happens When You Start Your Day with Lemon Water?",
+  "thumb": "LEMON WATER",
+  "scenes": [
+    {
+      "text": "3 science-backed benefits of drinking lemon water each morning",
+      "hook_top": "LEMON WATER BOOST",
+      "query": "lemon water benefits",
+      "query2": "lemon water health",
+      "role": "hook"
+    },
+    {
+      "num": 1,
+      "text": "Vitamin C from lemon supports immune health",
+      "label": "VITAMIN C BOOST",
+      "label_on": "first",
+      "query": "lemon vitamin c",
+      "query2": "vitamin c immune",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 2,
+      "text": "Flavored water tastes better, so you drink more",
+      "label": "MORE WATER INTAKE",
+      "label_on": "second",
+      "query": "flavored water consumption",
+      "query2": "lemon water increase intake",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "num": 3,
+      "text": "Citric acid raises urinary citrate, helping prevent kidney stones",
+      "label": "STONE PREVENTION",
+      "label_on": "third",
+      "query": "citric acid kidney stones",
+      "query2": "lemon water stone prevention",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow for daily tips to feel your best.",
+      "query": "health tips follow",
+      "query2": "science backed health",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover how a simple glass of lemon water can boost immunity, keep you hydrated, and even protect your kidneys. Stay tuned for more practical health hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#lemonwater",
+    "#healthtips",
+    "#hydration",
+    "#wellness",
+    "#sciencebacked"
+  ],
+  "place": "",
+  "country": ""
+}
