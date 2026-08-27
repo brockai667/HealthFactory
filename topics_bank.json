@@ -8254,5 +8254,195 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Do Carrots Really Boost Night Vision? The Truth",
+    "thumb": "CARROT VISION MYTH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why a 12‑minute carrot snack won't sharpen your night sight",
+        "hook_top": "12MIN CARROT TRICK",
+        "query": "carrot snack",
+        "query2": "carrot bite",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "People believe eating carrots makes you see better in the dark.",
+        "label": "Carrots improve night vision",
+        "query": "night vision myth",
+        "query2": "vision carrots",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Carrots provide vitamin A, essential for normal vision, but once you meet daily needs, extra carrots don’t further enhance night sight.",
+        "label": "Vitamin A supports normal vision only",
+        "query": "vitamin A eye health",
+        "query2": "carrots vitamin A",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Focus on a balanced diet for eye health, not mega‑carrot doses.",
+        "label": "Balanced eye diet",
+        "sub": "Eat varied veggies, not just carrots",
+        "label_on": "eye",
+        "query": "eye health fact",
+        "query2": "vision fact",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow health channel",
+        "query2": "subscribe health",
+        "role": "cta"
+      }
+    ],
+    "description": "Carrots are great, but they won’t give you superhero night vision. Learn the real role of vitamin A and how to protect your eyes. Follow for daily science‑backed tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#healthmyths",
+      "#vision",
+      "#nutrition",
+      "#factcheck",
+      "#wellness"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can Skipping Breakfast for 7 Days Melt Belly Fat?",
+    "thumb": "BREAKFAST SKIP MYTH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Can skipping breakfast for 7 days melt belly fat?",
+        "hook_top": "7DAY SKIP MYTH",
+        "query": "skipping breakfast",
+        "query2": "breakfast fast",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Many think that never eating in the morning automatically leads to weight loss.",
+        "label": "Skipping breakfast burns fat",
+        "query": "breakfast weight loss myth",
+        "query2": "fasting fat loss",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Research shows that overall calorie balance matters more than meal timing; skipping breakfast can even increase hunger later, making weight control harder for most people.",
+        "label": "Total calories decide weight",
+        "query": "calorie balance weight loss",
+        "query2": "meal timing research",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Instead of ditching breakfast, choose protein‑rich options to curb cravings.",
+        "label": "Protein‑rich start",
+        "sub": "Eggs, Greek yogurt, or nuts",
+        "label_on": "protein",
+        "query": "healthy breakfast protein",
+        "query2": "breakfast protein ideas",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "follow nutrition channel",
+        "query2": "subscribe health tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Skipping the morning meal isn’t a magic fat‑burner. Discover why calorie balance and smart food choices matter more than timing. Stay tuned for everyday health hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#weightloss",
+      "#mythbusting",
+      "#healthtips",
+      "#wellness"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can Daily Sardines Supercharge Your Health?",
+    "thumb": "SARDINES POWER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why 1 can of sardines a day can boost your nutrition",
+        "hook_top": "1 CAN DAILY",
+        "query": "canned sardines nutrition label",
+        "query2": "sardine can nutrition facts",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Rich source of EPA/DHA omega‑3s that support heart health",
+        "label": "EPA/DHA OMEGA‑3S",
+        "label_on": "omega‑3s",
+        "query": "sardines omega‑3 content",
+        "query2": "EPA DHA sardine nutrition",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Provides about 20 g of high‑quality protein per serving",
+        "label": "HIGH‑QUALITY PROTEIN",
+        "label_on": "protein",
+        "query": "sardines protein grams per can",
+        "query2": "sardine protein content",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Contains calcium and vitamin D for bone strength",
+        "label": "CALCIUM & VITAMIN D",
+        "label_on": "bones",
+        "query": "sardines calcium vitamin d",
+        "query2": "nutrient profile sardines bone health",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "call to action follow button graphic",
+        "query2": "social media follow prompt",
+        "role": "cta"
+      }
+    ],
+    "description": "A single can of sardines packs heart‑loving omega‑3s, quality protein, and bone‑supporting calcium and vitamin D. Add this budget‑friendly fish to your meals and reap daily benefits. Follow for more easy health tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#omega3",
+      "#protein",
+      "#bonehealth",
+      "#budgetfood"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

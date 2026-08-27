@@ -1,0 +1,54 @@
+{
+  "title": "Is Coconut Water a Better Post‑Workout Drink Than Sports Drinks?",
+  "thumb": "COCO VS SPORTS",
+  "scenes": [
+    {
+      "hook_top": "COCO VS GATORADE",
+      "query": "person drinking coconut water after workout",
+      "query2": "athlete with sports drink",
+      "role": "hook",
+      "text": "Does coconut water beat Gatorade after a 30‑minute run?"
+    },
+    {
+      "label": "Coconut water = superior ele",
+      "query": "coconut water electrolyte infographic",
+      "query2": "sports drink electrolyte comparison",
+      "role": "myth",
+      "text": "Many believe coconut water naturally replaces electrolytes better than commercial sports drinks."
+    },
+    {
+      "label": "Coconut lacks enough sodium",
+      "query": "sodium content coconut water vs sports drink",
+      "query2": "electrolyte needs after exercise chart",
+      "role": "truth",
+      "text": "Coconut water provides potassium but lacks sodium levels needed for intense sweat loss; sports drinks are formulated to match typical electrolyte loss from vigorous exercise."
+    },
+    {
+      "label": "Match Your Sweat",
+      "sub": "Long, hard sessions may need a sports drink; light activity can use coconut water.",
+      "label_on": "match",
+      "query": "runner checking sweat bands",
+      "query2": "person measuring water intake",
+      "role": "callout",
+      "text": "Choose based on sweat rate and duration."
+    },
+    {
+      "query": "follow button overlay",
+      "query2": "like and subscribe icon",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Coconut water is tasty, but is it the optimal recovery drink? We break down electrolyte science so you can hydrate smarter. Follow for more practical hydration myths debunked.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#hydration",
+    "#coconutwater",
+    "#sportsdrink",
+    "#fitnessmyth",
+    "#science"
+  ],
+  "place": "",
+  "country": ""
+}

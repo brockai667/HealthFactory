@@ -1,0 +1,54 @@
+{
+  "title": "Does Eating 5 Apples a Day Really Boost Immunity?",
+  "thumb": "APPLE IMMUNITY",
+  "scenes": [
+    {
+      "hook_top": "5 APPLES PROTECT",
+      "query": "apples on kitchen counter",
+      "query2": "fresh apples basket",
+      "role": "hook",
+      "text": "Can 5 apples a day actually protect you from colds?"
+    },
+    {
+      "label": "More apples = stronger immun",
+      "query": "apple health myth infographic",
+      "query2": "apple nutrition chart",
+      "role": "myth",
+      "text": "People think the old “an apple a day keeps the doctor away” means you need many apples for immune power."
+    },
+    {
+      "label": "Apples help, but not magic",
+      "query": "vitamin C content apple compare orange",
+      "query2": "antioxidant levels fruit chart",
+      "role": "truth",
+      "text": "Apples contain vitamin C and antioxidants, but the amount is modest; a balanced diet with varied fruits provides better immune support."
+    },
+    {
+      "label": "Mix Your Fruit",
+      "sub": "Combine berries, citrus, and apples daily.",
+      "label_on": "mix",
+      "query": "mixed fruit bowl",
+      "query2": "colorful fruit assortment",
+      "role": "callout",
+      "text": "Balance is key—mix fruits for full nutrients."
+    },
+    {
+      "query": "follow button animation",
+      "query2": "subscribe graphic",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "The apple myth is catchy, but the science tells a different story. Learn the real role of apples in immunity and how to truly protect yourself. Follow for more myth‑busting health tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutritionmyth",
+    "#applefacts",
+    "#immunity",
+    "#healthtips",
+    "#sciencebacked"
+  ],
+  "place": "",
+  "country": ""
+}
