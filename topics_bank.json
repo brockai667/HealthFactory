@@ -8444,5 +8444,205 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "The Fat Myth: Why a Little Saturated Fat Isn't Harmful",
+    "thumb": "FAT MYTH",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What if 3 g of saturated fat daily isn’t a disaster?",
+        "hook_top": "3G SAT FAT",
+        "query": "saturated fat amount daily",
+        "query2": "saturated fat grams per day",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Most people believe any saturated fat will raise cholesterol and cause heart disease.",
+        "label": "All saturated fat is bad",
+        "query": "saturated fat heart disease myth",
+        "query2": "saturated fat bad belief",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Research shows that moderate saturated fat (≈3 g) in the context of a balanced diet does not significantly raise LDL cholesterol for most people.",
+        "label": "Moderate sat fat ok",
+        "query": "moderate saturated fat health study",
+        "query2": "saturated fat 3g impact cholesterol",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Focus on overall diet quality, not just one nutrient.",
+        "label": "Diet Quality Over Fat",
+        "sub": "Balance matters more than a single gram count",
+        "label_on": "Balance",
+        "query": "balanced diet vs saturated fat",
+        "query2": "overall diet quality importance",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "nutrition facts short",
+        "query2": "science backed health tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Busting the idea that every gram of saturated fat is dangerous. Learn the real impact of a modest amount and how to keep your meals balanced. Follow for more practical health hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#fatmyth",
+      "#healthfacts",
+      "#balanced diet"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can One Medium Potato a Day Boost Your Health?",
+    "thumb": "POTATO POWER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "One medium potato a day—what does it really do for you?",
+        "hook_top": "POTATO DAILY IMPACT",
+        "query": "medium potato on a plate",
+        "query2": "cooked potato serving",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "It delivers about 400 mg of potassium, supporting blood pressure and muscle function.",
+        "label": "POTASSIUM BOOST",
+        "label_on": "potassium",
+        "query": "potassium content in potato",
+        "query2": "potassium levels cooked potato",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "When cooled, it forms resistant starch, a fiber‑like carb that feeds good gut bacteria.",
+        "label": "RESISTANT STARCH",
+        "label_on": "starch",
+        "query": "cooled potato resistant starch",
+        "query2": "cold potato gut health",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "It also provides vitamin C and dietary fiber, helping immunity and digestion.",
+        "label": "VITAMIN C & FIBER",
+        "label_on": "vitamin C",
+        "query": "vitamin C in potatoes",
+        "query2": "fiber content potato",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "follow button animation",
+        "query2": "call to action graphic",
+        "role": "cta"
+      }
+    ],
+    "description": "A single potato does more than fill you up—learn three science‑backed benefits you can tap into every day. Try it and see the difference!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#potato",
+      "#healthtips",
+      "#fiber",
+      "#guthealth"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Can a 30‑Minute Walk Lift Your Mood?",
+    "thumb": "WALK BOOST",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "A 30‑minute walk can change your brain chemistry",
+        "hook_top": "30MIN WALK POWER",
+        "query": "30 minute walk mood study",
+        "query2": "walking brain chemistry research",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Research shows 30 minutes of brisk walking raises endorphin levels by up to 20%",
+        "chips": [
+          {
+            "t": "ENDORPHIN ↑",
+            "on": "endorphin",
+            "style": "accent"
+          }
+        ],
+        "punch": "boost",
+        "query": "endorphin increase walking study",
+        "query2": "exercise endorphin percentage",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "A daily 30‑minute walk also improves sleep quality, which further enhances daytime mood",
+        "chips": [
+          {
+            "t": "BETTER SLEEP",
+            "on": "sleep",
+            "style": "white"
+          }
+        ],
+        "query": "walk improves sleep quality study",
+        "query2": "exercise sleep quality research",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Walk daily for a mood lift",
+        "label": "MIND BOOST",
+        "sub": "Just half an hour each day",
+        "label_on": "boost",
+        "query": "daily walking mood benefits",
+        "query2": "30 minute walk mental health",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "health hacks follow",
+        "query2": "simple health tips subscribe",
+        "role": "cta"
+      }
+    ],
+    "description": "A quick 30‑minute walk can spike endorphins and help you sleep better, giving you a natural mood lift. Try it today and feel the difference. 🌟",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#walkforhealth",
+      "#moodboost",
+      "#dailyhabits",
+      "#wellness",
+      "#healthtips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

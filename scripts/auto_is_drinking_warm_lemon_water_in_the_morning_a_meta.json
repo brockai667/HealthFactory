@@ -1,0 +1,54 @@
+{
+  "title": "Is Drinking Warm Lemon Water in the Morning a Metabolism Booster?",
+  "thumb": "LEMON BOOST",
+  "scenes": [
+    {
+      "hook_top": "LEMON METABOLISM",
+      "query": "person squeezing lemon into warm water",
+      "query2": "morning lemon water mug",
+      "role": "hook",
+      "text": "Does a warm lemon drink jump‑start your metabolism each sunrise?"
+    },
+    {
+      "label": "Lemon water = metabolism hac",
+      "query": "lemon water metabolism claim graphic",
+      "query2": "diet myth lemon water",
+      "role": "myth",
+      "text": "Many think the acidity of lemon water revs up metabolism and burns extra calories."
+    },
+    {
+      "label": "No extra calorie burn",
+      "query": "study metabolism warm water lemon",
+      "query2": "research hydration metabolism",
+      "role": "truth",
+      "text": "Studies show no measurable increase in resting metabolic rate from lemon water alone; hydration supports normal metabolism but doesn't act as a calorie‑burning catalyst."
+    },
+    {
+      "label": "Hydration, not magic",
+      "sub": "Warm water with lemon can aid digestion, but don't expect weight loss spikes.",
+      "label_on": "enjoy",
+      "query": "close-up of lemon slices in water",
+      "query2": "person sipping lemon water relaxed",
+      "role": "callout",
+      "text": "Enjoy it for taste and hydration, not calorie loss."
+    },
+    {
+      "query": "follow button animation",
+      "query2": "like subscribe icons",
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "Warm lemon water feels refreshing, but the science says it won’t torch calories. Learn the real benefits and avoid the hype. Follow for more everyday health myth busts.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#healthmyth",
+    "#lemonwater",
+    "#hydration",
+    "#wellness",
+    "#science"
+  ],
+  "place": "",
+  "country": ""
+}

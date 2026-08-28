@@ -1,0 +1,54 @@
+{
+  "title": "Do You Need to Eat Protein Within 30 Minutes After Exercise?",
+  "thumb": "PROTEIN WINDOW",
+  "scenes": [
+    {
+      "hook_top": "30MIN PROTEIN",
+      "query": "clock showing 30 minutes",
+      "query2": "timer counting down after gym",
+      "role": "hook",
+      "text": "Is the 30‑minute post‑workout protein window real?"
+    },
+    {
+      "label": "Strict protein timing needed",
+      "query": "post workout protein timing chart",
+      "query2": "gym nutrition myth graphic",
+      "role": "myth",
+      "text": "The common belief says muscles only grow if protein is consumed within half an hour of training."
+    },
+    {
+      "label": "Total protein matters more",
+      "query": "study daily protein intake vs timing",
+      "query2": "nutritionist explaining protein distribution",
+      "role": "truth",
+      "text": "Research shows total daily protein matters more; a 2‑hour window after exercise is sufficient for most people."
+    },
+    {
+      "label": "Focus on Daily Goal",
+      "sub": "Spread protein evenly across meals for best results.",
+      "label_on": "focus",
+      "query": "plate with balanced protein portions",
+      "query2": "meal prep containers with protein",
+      "role": "callout",
+      "text": "Plan meals to hit your daily goal, not the clock."
+    },
+    {
+      "query": "follow button pop-up",
+      "query2": "subscribe call to action",
+      "role": "cta",
+      "text": "Follow if your body is worth 60 seconds a day."
+    }
+  ],
+  "description": "The “anabolic window” sounds urgent, but evidence says your overall protein intake is the real driver of recovery. Get the facts and simplify your nutrition plan. Follow for more myth‑busting fitness tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#fitnessmyth",
+    "#protein",
+    "#workoutrecovery",
+    "#sciencebacked",
+    "#health"
+  ],
+  "place": "",
+  "country": ""
+}
