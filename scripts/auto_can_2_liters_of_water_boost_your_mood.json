@@ -1,0 +1,78 @@
+{
+  "title": "Can 2 Liters of Water Boost Your Mood?",
+  "thumb": "MOOD WATER",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What happens to your mood after drinking 2 L of water?",
+      "hook_top": "WATER MOOD",
+      "query": "water intake mood study",
+      "query2": "hydration mood research",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "A 2021 randomized trial found adults who increased intake to 2 L per day reported a 15% rise in mood‑vigor scores.",
+      "chips": [
+        {
+          "t": "2 L DAILY",
+          "on": "two liters",
+          "style": "accent"
+        },
+        {
+          "t": "15% VIGOR ↑",
+          "on": "fifteen percent",
+          "style": "white"
+        }
+      ],
+      "punch": "boost",
+      "query": "2021 water intake mood study",
+      "query2": "hydration mood improvement trial",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Proper hydration also reduces perceived stress by about 10% in the same participants.",
+      "chips": [
+        {
+          "t": "10% STRESS ↓",
+          "on": "ten percent",
+          "style": "white"
+        }
+      ],
+      "query": "hydration stress reduction study",
+      "query2": "water intake stress percentage",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Drink 2 L of water each day for a clearer mind.",
+      "label": "HYDRATE DAILY",
+      "sub": "Simple habit, measurable mood lift",
+      "label_on": "hydrate",
+      "query": "daily water habit mood benefit",
+      "query2": "2 liters water daily mood",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "follow health channel CTA",
+      "query2": "subscribe health tips",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover how a modest water increase can brighten your day and lower stress. Try it for a week and feel the difference. 🌊",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#hydration",
+    "#moodboost",
+    "#science",
+    "#wellness",
+    "#healthtips"
+  ],
+  "place": "",
+  "country": ""
+}

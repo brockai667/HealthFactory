@@ -1,0 +1,66 @@
+{
+  "title": "How Much Iron Do You Actually Absorb?",
+  "thumb": "IRON ABSORPTION",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Only a tiny fraction of the iron you eat actually enters your bloodstream.",
+      "hook_top": "IRON ABSORPTION FACT",
+      "query": "iron absorption percentage diet",
+      "query2": "how much dietary iron is absorbed",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "HEME IRON: 15‑35% ABSORPTION",
+      "label_on": "ONE",
+      "text": "Iron from animal sources (heme) is absorbed at about 15 to 35 percent, the highest of any food type.",
+      "query": "heme iron absorption rate",
+      "query2": "animal iron absorption percentage",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "NON‑HEME IRON: 2‑20% ABSORPTION",
+      "label_on": "TWO",
+      "text": "Plant‑based (non‑heme) iron is taken up at roughly 2 to 20 percent, depending on diet composition.",
+      "query": "non heme iron absorption range",
+      "query2": "plant iron absorption percent",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "VITAMIN C BOOSTS ABSORPTION",
+      "label_on": "THREE",
+      "text": "Consuming vitamin C with iron‑rich foods can double non‑heme iron absorption.",
+      "query": "vitamin C increase iron absorption",
+      "query2": "vitamin C iron absorption study",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "follow button animation",
+      "query2": "social media follow icon",
+      "role": "cta"
+    }
+  ],
+  "description": "Learn why most dietary iron never reaches your cells and how to boost its uptake naturally. Simple tips to make every bite count. Follow for more evidence‑based health hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#iron",
+    "#nutrition",
+    "#healthscience",
+    "#diettips",
+    "#wellness"
+  ],
+  "place": "",
+  "country": ""
+}
