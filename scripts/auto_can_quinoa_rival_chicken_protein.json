@@ -1,0 +1,76 @@
+{
+  "title": "Can quinoa rival chicken protein?",
+  "thumb": "PROTEIN POWER",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why does 1 cup of quinoa pack 8 g of protein?",
+      "hook_top": "QUINOA PROTEIN SURPRISE",
+      "query": "quinoa protein content per cup",
+      "query2": "cooked quinoa nutrition facts",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "One cup of cooked quinoa provides about 8 grams of protein.",
+      "chips": [
+        {
+          "t": "8 g PROTEIN",
+          "on": "protein",
+          "style": "white"
+        }
+      ],
+      "query": "quinoa protein 8 grams per cup",
+      "query2": "quinoa nutrition facts",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "A 3‑ounce (85 g) chicken breast delivers roughly 25 grams of protein.",
+      "chips": [
+        {
+          "t": "25 g PROTEIN",
+          "on": "protein",
+          "style": "accent"
+        }
+      ],
+      "query": "chicken breast protein per 3 ounces",
+      "query2": "85 g chicken breast nutrition",
+      "role": "fact"
+    },
+    {
+      "type": "reveal",
+      "text": "When you compare protein per calorie, beans and lentils match chicken, and quinoa is close too.",
+      "reveal_top": "BEANS MATCH CHICKEN",
+      "chips": [
+        {
+          "t": "PROTEIN PER CAL",
+          "on": "protein",
+          "style": "white"
+        }
+      ],
+      "query": "protein per calorie beans versus chicken",
+      "query2": "protein density plant foods",
+      "role": "fact"
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "follow call to action",
+      "query2": "subscribe reminder",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover how plant‑based staples like quinoa, beans, and lentils can give you protein comparable to meat without extra calories. Stay tuned for more evidence‑based nutrition tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#protein",
+    "#plantbased",
+    "#healthtips",
+    "#sciencebacked"
+  ],
+  "place": "",
+  "country": ""
+}

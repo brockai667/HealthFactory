@@ -1,0 +1,62 @@
+{
+  "title": "Apple Cider Vinegar: Fat‑Melting Myth?",
+  "thumb": "ACV FAT MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Does a tablespoon of apple cider vinegar melt belly fat overnight?",
+      "hook_top": "ACV MELTS FAT",
+      "query": "apple cider vinegar bottle",
+      "query2": "spoon pouring ACV",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "The popular claim says ACV speeds up fat loss just by sipping it daily.",
+      "label": "ACV burns fat fast",
+      "query": "person holding ACV with scale",
+      "query2": "apple cider vinegar diet meme",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Scientific studies find no direct fat‑burning effect; ACV may modestly curb appetite but isn’t a weight‑loss shortcut.",
+      "label": "No direct fat‑burning effect",
+      "query": "research paper on ACV and weight",
+      "query2": "nutrition study ACV appetite",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Use ACV sparingly for flavor, not as a diet miracle.",
+      "label": "Flavor, not miracle",
+      "sub": "Add to salads, limit to a tablespoon",
+      "label_on": "use",
+      "query": "salad dressing with ACV",
+      "query2": "measuring spoon of ACV",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "follow button animation",
+      "query2": "hand clicking follow icon",
+      "role": "cta"
+    }
+  ],
+  "description": "We separate fact from fiction on apple cider vinegar and weight loss. Discover what the research actually says and how to use ACV wisely. Follow for more myth‑busting nutrition insights.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutritionmyth",
+    "#acv",
+    "#weightloss",
+    "#sciencefacts",
+    "#healthtips"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -8644,5 +8644,128 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Does Well‑Done Steak Lose Protein?",
+    "thumb": "PROTEIN LOSS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What happens to protein when you grill a steak to 165°F?",
+        "hook_top": "STEAK PROTEIN MYTH",
+        "query": "well done steak protein content",
+        "query2": "cooked steak nutrition",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "People say a well‑done steak has far less protein than a medium‑rare one.",
+        "label": "Well‑done loses protein",
+        "query": "protein loss well done steak",
+        "query2": "steak cooking level protein",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Scientific analysis shows cooking only changes water content; total protein stays virtually the same, just slightly less digestible at very high temperatures.",
+        "label": "Protein stays mostly intact",
+        "query": "protein stability high heat meat",
+        "query2": "nutrient retention steak cooking",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Choose doneness for taste, not protein.",
+        "label": "Taste > protein myth",
+        "sub": "Protein loss is minimal, focus on flavor and safety.",
+        "label_on": "MythBusted",
+        "query": "steak doneness taste vs nutrition",
+        "query2": "how cooking level affects steak flavor",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "food myth busting channel",
+        "query2": "nutrition myth short",
+        "role": "cta"
+      }
+    ],
+    "description": "Many worry that cooking steak well kills its protein power. The truth is it barely changes. Choose how you like it and stay fueled. Follow for more practical nutrition insights.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#protein",
+      "#foodmyths",
+      "#cooking"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Are Sardines Unsafe Due to Mercury?",
+    "thumb": "SAFE SARDINES",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Do the tiny sardines you snack on contain dangerous mercury levels?",
+        "hook_top": "SARDINE MERCURY MYTH",
+        "query": "sardine mercury content",
+        "query2": "mercury levels canned fish",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "A common belief is that all small oily fish, like sardines, are high in mercury.",
+        "label": "Sardines high mercury",
+        "query": "sardine mercury myth",
+        "query2": "small fish mercury risk",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Research shows sardines are low in mercury because they are low on the food chain; they provide omega‑3s with minimal contaminant risk.",
+        "label": "Low mercury, high omega‑3",
+        "query": "sardine mercury study",
+        "query2": "omega-3 fish low mercury",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Enjoy a serving a few times a week for heart health.",
+        "label": "Heart‑healthy snack",
+        "sub": "Sardines give EPA/DHA safely.",
+        "label_on": "FactCheck",
+        "query": "sardine health benefits frequency",
+        "query2": "how often eat sardines",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "seafood myth busting channel",
+        "query2": "fish nutrition short",
+        "role": "cta"
+      }
+    ],
+    "description": "Worried that sardines might poison you with mercury? Science says they're actually one of the safest omega‑3 sources. Stay informed and keep snacking smart. Follow for more evidence‑based health tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#seafood",
+      "#sardines",
+      "#mercury",
+      "#healthmyths",
+      "#omega3"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
