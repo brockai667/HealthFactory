@@ -1,0 +1,62 @@
+{
+  "title": "Does an Apple After Lunch Really Spike Your Sugar?",
+  "thumb": "FRUIT MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Apple after lunch? Does it spike sugar?",
+      "hook_top": "APPLE AFTER LUNCH",
+      "query": "Apple after lunch",
+      "query2": "fruit post-meal blood sugar",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Many believe fruit right after a meal causes a big blood‑sugar jump.",
+      "label": "Fruit spikes sugar",
+      "query": "fruit after meals myth",
+      "query2": "post‑meal fruit blood sugar belief",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "The fiber in fruit slows digestion, so the overall glucose rise is modest.",
+      "label": "Fiber balances glucose",
+      "query": "fruit fiber glucose impact",
+      "query2": "post‑meal fruit blood sugar study",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Enjoy fruit with meals – it’s fine for most people.",
+      "label": "Fruit is fine",
+      "sub": "Fiber keeps the sugar rise gentle",
+      "label_on": "Fact",
+      "query": "fruit with meals healthy",
+      "query2": "fruit fiber blood sugar",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "follow nutrition channel",
+      "query2": "subscribe health tips",
+      "role": "cta"
+    }
+  ],
+  "description": "A quick look at why eating fruit after a meal isn’t the blood‑sugar villain it’s made out to be. Stay tuned for more myth‑busting health facts.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#mythbusting",
+    "#healthtips",
+    "#fruitfacts",
+    "#bloodsugar"
+  ],
+  "place": "",
+  "country": ""
+}

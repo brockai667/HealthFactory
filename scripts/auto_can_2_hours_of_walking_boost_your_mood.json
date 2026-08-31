@@ -1,0 +1,66 @@
+{
+  "title": "Can 2 Hours of Walking Boost Your Mood?",
+  "thumb": "WALKING BOOST",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2 hours of walking can lift your mood instantly",
+      "hook_top": "2 HOURS WALKING BOOST",
+      "query": "person walking in a park",
+      "query2": "individual walking outdoors",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "ENDORPHIN RELEASE",
+      "label_on": "endorphins",
+      "text": "Walking triggers endorphin release, the body’s natural feel‑good chemicals",
+      "query": "brain endorphin release during exercise",
+      "query2": "endorphin boost walking",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "HEART HEALTH IMPROVEMENT",
+      "label_on": "heart health",
+      "text": "Regular brisk walks improve cardiovascular fitness, lowering resting heart rate",
+      "query": "heart rate monitor during brisk walk",
+      "query2": "cardiovascular benefits walking",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "BETTER SLEEP QUALITY",
+      "label_on": "sleep",
+      "text": "Evening walks help regulate circadian rhythms, leading to deeper, more restful sleep",
+      "query": "person walking at sunset before bedtime",
+      "query2": "evening walk sleep benefits",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "follow button graphic",
+      "query2": "social media follow icon",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover three science‑backed reasons why adding two hours of walking each week can instantly lift your mood. Follow for more simple, evidence‑based health habits!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#walking",
+    "#moodboost",
+    "#healthtips",
+    "#wellness",
+    "#dailyhabits"
+  ],
+  "place": "",
+  "country": ""
+}

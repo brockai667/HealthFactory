@@ -8767,5 +8767,77 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Can a Daily Handful of Almonds Boost Your Bone Health?",
+    "thumb": "ALMONDS BOOST",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What if 30 g of almonds could strengthen your bones?",
+        "hook_top": "ALMONDS BONES",
+        "query": "almonds bone health study",
+        "query2": "almond calcium content",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Almonds provide about 75 mg of calcium per ounce, supporting bone density.",
+        "chips": [
+          {
+            "t": "75 MG CALCIUM",
+            "on": "calcium",
+            "style": "white"
+          }
+        ],
+        "query": "almonds calcium per ounce",
+        "query2": "nutrient profile almonds",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "They also contain magnesium, which aids vitamin D activation for calcium absorption.",
+        "chips": [
+          {
+            "t": "MAGNESIUM HELP",
+            "on": "magnesium",
+            "style": "accent"
+          }
+        ],
+        "query": "almonds magnesium bone health",
+        "query2": "magnesium vitamin D activation",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Add a small handful (≈30 g) of almonds daily for bone support.",
+        "label": "DAILY HANDFUL",
+        "sub": "Just 30 g a day can help keep bones strong",
+        "label_on": "handful",
+        "query": "daily almond serving size",
+        "query2": "30 grams almonds",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "nutrition tips short video",
+        "query2": "healthy habit short",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how a modest daily portion of almonds packs calcium, magnesium, and other bone‑friendly nutrients. Try it today and feel the difference.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#bonehealth",
+      "#almonds",
+      "#nutrition",
+      "#healthtips",
+      "#everydaywellness"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
