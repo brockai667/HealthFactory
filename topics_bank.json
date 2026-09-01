@@ -8839,5 +8839,77 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Can a Potato Beat a Banana for Potassium?",
+    "thumb": "POTATO POWER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why 1 medium potato can outshine a banana in potassium?",
+        "hook_top": "POTATO BANANA",
+        "query": "medium potato potassium compared to banana",
+        "query2": "potassium content potato versus banana",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "A medium potato (≈150 g) contains about 620 mg potassium.",
+        "chips": [
+          {
+            "t": "620 MG POTASSIUM",
+            "on": "potassium",
+            "style": "white"
+          }
+        ],
+        "punch": "wow",
+        "query": "potassium content medium potato",
+        "query2": "potassium amount in 150g potato",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "A banana of similar size provides roughly 450 mg potassium.",
+        "chips": [
+          {
+            "t": "450 MG POTASSIUM",
+            "on": "banana",
+            "style": "accent"
+          }
+        ],
+        "punch": "note",
+        "query": "potassium content banana",
+        "query2": "potassium amount in medium banana",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "Surprise: the potato gives you more potassium than the banana!",
+        "reveal_top": "MORE POTASSIUM THAN BANANA",
+        "query": "potassium comparison potato banana",
+        "query2": "which has more potassium potato or banana",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for your daily dose of vitality.",
+        "query": "nutrition tips follow",
+        "query2": "follow nutrition channel",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover why the humble potato packs a potassium punch that beats bananas. Simple swap, big benefit – follow for more practical nutrition tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#potassium",
+      "#healthyfood",
+      "#foodfacts",
+      "#eatwell"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

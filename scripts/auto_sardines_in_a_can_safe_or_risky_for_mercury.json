@@ -1,0 +1,62 @@
+{
+  "title": "Sardines in a Can: Safe or Risky for Mercury?",
+  "thumb": "SARDINE FACT",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Sardines in a can: safe or risky?",
+      "hook_top": "SARDINES IN A CAN",
+      "query": "canned sardines safety",
+      "query2": "sardine mercury risk",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "A common belief is that canned sardines are loaded with mercury.",
+      "label": "Sardines contain mercury",
+      "query": "sardine mercury myth",
+      "query2": "fish mercury misconceptions",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Sardines are actually low‑mercury and provide a rich source of omega‑3 fatty acids.",
+      "label": "Low mercury, high omega‑3",
+      "query": "sardine mercury low",
+      "query2": "sardine omega-3 benefits",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Canned sardines are a safe, nutrient‑dense snack.",
+      "label": "Safe omega‑3",
+      "sub": "Low mercury, high omega‑3 fish",
+      "label_on": "Truth",
+      "query": "benefits of canned sardines",
+      "query2": "sardine nutrition facts",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for simple habits that boost your health.",
+      "query": "follow food myth channel",
+      "query2": "subscribe nutrition myths",
+      "role": "cta"
+    }
+  ],
+  "description": "Find out why those little canned fish are actually a mercury‑friendly source of heart‑healthy fats. Hit follow for more fact‑checked food insights.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#foodmyths",
+    "#sardines",
+    "#omega3",
+    "#healthyeating",
+    "#nutritionfacts"
+  ],
+  "place": "",
+  "country": ""
+}

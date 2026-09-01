@@ -1,0 +1,54 @@
+{
+  "title": "Does One Potato Really Pack on the Pounds?",
+  "thumb": "POTATO POWER",
+  "scenes": [
+    {
+      "hook_top": "POTATO VS CHIPS",
+      "query": "medium potato calories",
+      "query2": "potato nutrition facts",
+      "role": "hook",
+      "text": "One medium potato vs a bag of chips—who’s the real calorie culprit?"
+    },
+    {
+      "label": "Potatoes cause weight gain",
+      "query": "potato weight gain myth",
+      "query2": "potato diet myth",
+      "role": "myth",
+      "text": "Potatoes are fattening and should be avoided for weight loss."
+    },
+    {
+      "label": "Potatoes are nutrient‑dense",
+      "query": "potato calorie count",
+      "query2": "potato nutrition profile",
+      "role": "truth",
+      "text": "A potato provides about 110 calories, fiber, potassium and vitamin C; weight change depends on total daily calories, not a single food."
+    },
+    {
+      "label": "Portion balance",
+      "sub": "Combine carbs with protein and veg for satiety",
+      "label_on": "balance",
+      "query": "balanced meal plate",
+      "query2": "portion control potatoes",
+      "role": "callout",
+      "text": "Balance portions and pair potatoes with protein and veggies."
+    },
+    {
+      "query": "nutrition myth busting",
+      "query2": "healthy eating tips",
+      "role": "cta",
+      "text": "Follow for daily tips to feel your best."
+    }
+  ],
+  "description": "Many think potatoes sabotage diets, but the science says otherwise. Learn how to enjoy them without guilt. 👉 Follow for daily fact checks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutritionmyth",
+    "#potatoes",
+    "#weightloss",
+    "#healthyfood",
+    "#mythbusting"
+  ],
+  "place": "",
+  "country": ""
+}
