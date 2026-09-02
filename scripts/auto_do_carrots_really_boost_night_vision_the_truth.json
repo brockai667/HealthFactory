@@ -1,0 +1,62 @@
+{
+  "title": "Do Carrots Really Boost Night Vision? The Truth",
+  "thumb": "CARROT VISION MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why a 12‑minute carrot snack won't sharpen your night sight",
+      "hook_top": "12MIN CARROT TRICK",
+      "query": "carrot snack",
+      "query2": "carrot bite",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "People believe eating carrots makes you see better in the dark.",
+      "label": "Carrots improve night vision",
+      "query": "night vision myth",
+      "query2": "vision carrots",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Carrots provide vitamin A, essential for normal vision, but once you meet daily needs, extra carrots don’t further enhance night sight.",
+      "label": "Vitamin A supports normal vision only",
+      "query": "vitamin A eye health",
+      "query2": "carrots vitamin A",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Focus on a balanced diet for eye health, not mega‑carrot doses.",
+      "label": "Balanced eye diet",
+      "sub": "Eat varied veggies, not just carrots",
+      "label_on": "eye",
+      "query": "eye health fact",
+      "query2": "vision fact",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "follow health channel",
+      "query2": "subscribe health",
+      "role": "cta"
+    }
+  ],
+  "description": "Carrots are great, but they won’t give you superhero night vision. Learn the real role of vitamin A and how to protect your eyes. Follow for daily science‑backed tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#healthmyths",
+    "#vision",
+    "#nutrition",
+    "#factcheck",
+    "#wellness"
+  ],
+  "place": "",
+  "country": ""
+}

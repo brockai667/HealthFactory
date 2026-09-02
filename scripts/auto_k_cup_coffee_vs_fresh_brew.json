@@ -1,0 +1,54 @@
+{
+  "title": "K‑Cup Coffee vs Fresh Brew",
+  "thumb": "COFFEE FACTS",
+  "scenes": [
+    {
+      "hook_top": "BREW VS KCUP",
+      "query": "fresh coffee antioxidant content",
+      "query2": "k‑cup antioxidant levels",
+      "role": "hook",
+      "text": "12 oz of fresh brew versus a single K‑cup—antioxidant difference?"
+    },
+    {
+      "label": "K‑cup equals fresh coffee",
+      "query": "k‑cup antioxidant myth",
+      "query2": "coffee pod health myth",
+      "role": "myth",
+      "text": "K‑cup pods deliver the same antioxidants as freshly ground coffee."
+    },
+    {
+      "label": "Brewed coffee has more antio",
+      "query": "coffee polyphenol study",
+      "query2": "antioxidant loss in coffee pods",
+      "role": "truth",
+      "text": "Research shows brewed coffee retains more polyphenols than the sealed pods, which lose some during processing and storage."
+    },
+    {
+      "label": "Fresh brew wins",
+      "sub": "Opt for ground beans or reusable pods",
+      "label_on": "choose",
+      "query": "reusable coffee pod",
+      "query2": "fresh coffee benefits",
+      "role": "callout",
+      "text": "Choose freshly ground or use a reusable pod for better antioxidant intake."
+    },
+    {
+      "query": "coffee health tips",
+      "query2": "science coffee advice",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Think your K‑cup is as healthy as a fresh cup? The data says otherwise. Get the real scoop and upgrade your coffee routine. 👉 Follow for more evidence‑based hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#coffeemyth",
+    "#antioxidants",
+    "#healthtips",
+    "#coffee",
+    "#mythbusting"
+  ],
+  "place": "",
+  "country": ""
+}

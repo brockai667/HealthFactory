@@ -8911,5 +8911,230 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Steak Doneness and Nutrient Retention",
+    "thumb": "STEAK NUTRIENT MYTH",
+    "scenes": [
+      {
+        "hook_top": "MEDIUMRARE NUTRIENT BOOST",
+        "query": "medium rare steak nutrients",
+        "query2": "well done steak nutrition",
+        "role": "hook",
+        "text": "Does cooking a steak to medium‑rare keep more nutrients than well‑done?"
+      },
+      {
+        "label": "Rarer steak = healthier",
+        "query": "rare steak health myth",
+        "query2": "steak doneness misconception",
+        "role": "myth",
+        "text": "People believe the rarer the steak, the healthier it is."
+      },
+      {
+        "label": "Nutrients stable across done",
+        "query": "steak nutrient loss cooking temperature",
+        "query2": "protein iron steak doneness",
+        "role": "truth",
+        "text": "Scientific studies show that protein and iron content stay stable across doneness; only minor loss of B‑vitamins occurs with higher heat."
+      },
+      {
+        "label": "Taste over myth",
+        "sub": "Nutrition stays similar, so cook how you enjoy.",
+        "label_on": "Taste",
+        "query": "steak cooking preference",
+        "query2": "steak doneness taste",
+        "role": "callout",
+        "text": "Choose doneness for taste, not nutrition."
+      },
+      {
+        "query": "follow health channel",
+        "query2": "subscribe nutrition tips",
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality."
+      }
+    ],
+    "description": "We bust the myth that a rarer steak is automatically healthier. Learn what really changes when you cook meat and how to pick your perfect doneness. Follow for more science‑backed food tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#steak",
+      "#foodmyths",
+      "#healthfacts"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Greek Yogurt Fat Content Explained",
+    "thumb": "YOGURT FAT FACT",
+    "scenes": [
+      {
+        "hook_top": "ZERO FAT YOGURT QUESTION",
+        "query": "zero fat greek yogurt vs full fat",
+        "query2": "low fat greek yogurt health",
+        "role": "hook",
+        "text": "Is 0 % fat Greek yogurt worse for you than full‑fat varieties?"
+      },
+      {
+        "label": "Fat‑free is healthiest",
+        "query": "fat free greek yogurt myth",
+        "query2": "low fat yogurt misconception",
+        "role": "myth",
+        "text": "Many think fat‑free Greek yogurt is the healthiest option."
+      },
+      {
+        "label": "Full‑fat offers satiety",
+        "query": "full fat greek yogurt benefits",
+        "query2": "protein probiotic greek yogurt comparison",
+        "role": "truth",
+        "text": "Research shows that the protein and probiotic content are similar; full‑fat versions provide satiety and aid vitamin D absorption without extra calories when portion‑controlled."
+      },
+      {
+        "label": "Satiety matters",
+        "sub": "Both have protein; choose based on hunger control.",
+        "label_on": "Full‑fat",
+        "query": "yogurt satiety study",
+        "query2": "full fat greek yogurt fullness",
+        "role": "callout",
+        "text": "Pick the version that keeps you full."
+      },
+      {
+        "query": "follow dairy health channel",
+        "query2": "subscribe yogurt myths",
+        "role": "cta",
+        "text": "Follow for the wellness basics that matter."
+      }
+    ],
+    "description": "Zero‑fat Greek yogurt isn’t automatically superior. We compare the nutritional impact of both versions and explain why satiety matters. Follow for more clear‑cut dairy insights.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#dairy",
+      "#yogurt",
+      "#nutritionmyths",
+      "#healthtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Frozen Berries vs Fresh Nutrition",
+    "thumb": "FROZEN BERRY MYTH",
+    "scenes": [
+      {
+        "hook_top": "FROZEN STRAWBERRY NUTRIENTS",
+        "query": "frozen strawberries nutrition vs fresh",
+        "query2": "berry frozen vs fresh nutrient content",
+        "role": "hook",
+        "text": "Do frozen strawberries retain as many nutrients as fresh ones?"
+      },
+      {
+        "label": "Frozen loses vitamins",
+        "query": "frozen fruit vitamin loss myth",
+        "query2": "frozen berries nutrient myth",
+        "role": "myth",
+        "text": "People assume frozen berries lose most of their vitamins."
+      },
+      {
+        "label": "Flash‑freezing preserves nut",
+        "query": "flash freezing berry nutrients study",
+        "query2": "frozen vs fresh berry nutrient comparison",
+        "role": "truth",
+        "text": "Studies show that flash‑freezing preserves vitamin C and polyphenols almost on par with fresh berries harvested at peak ripeness."
+      },
+      {
+        "label": "Convenient nutrition",
+        "sub": "Both are nutritious; frozen adds year‑round access.",
+        "label_on": "Frozen",
+        "query": "benefits of frozen berries",
+        "query2": "frozen fruit convenience health",
+        "role": "callout",
+        "text": "Choose frozen for convenience without nutrient sacrifice."
+      },
+      {
+        "query": "follow nutrition channel",
+        "query2": "subscribe health myths",
+        "role": "cta",
+        "text": "Follow for simple habits that boost your health."
+      }
+    ],
+    "description": "We break down the truth about frozen berries and their nutrient profile compared with fresh. Get practical tips on making the best fruit choices year‑round. Follow for more evidence‑based nutrition.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#berries",
+      "#frozenfood",
+      "#nutritionfacts",
+      "#healthyliving"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Better Sleep With Simple Night Ritual",
+    "thumb": "SLEEP HACK",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "The 3‑minute habit that transforms sleep tonight",
+        "hook_top": "3MINUTE SLEEP TRICK",
+        "query": "3 minute bedtime routine",
+        "query2": "quick sleep habit",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Dim the lights about 30 minutes before bed to boost melatonin production",
+        "label": "DIM LIGHTS BEFORE BED",
+        "label_on": "dim",
+        "query": "dim bedroom lights evening",
+        "query2": "low lighting bedtime",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Enable a blue‑light filter on screens or avoid devices entirely after sunset",
+        "label": "LIMIT BLUE LIGHT",
+        "label_on": "filter",
+        "query": "blue light filter phone",
+        "query2": "screen night mode",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Keep your bedroom around 65°F (18‑19°C) for optimal sleep cycles",
+        "label": "COOL BEDROOM TEMPERATURE",
+        "label_on": "cool",
+        "query": "optimal bedroom temperature sleep",
+        "query2": "cool room sleep tips",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow button illustration",
+        "query2": "subscribe animation",
+        "role": "cta"
+      }
+    ],
+    "description": "Three tiny tweaks you can add tonight to improve sleep quality without medication. Try them tomorrow and feel the difference. Stay tuned for more simple science‑backed habits.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#sleep",
+      "#healthtips",
+      "#wellness",
+      "#nightroutine",
+      "#betterrest"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
