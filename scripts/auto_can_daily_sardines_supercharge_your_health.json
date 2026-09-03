@@ -1,0 +1,66 @@
+{
+  "title": "Can Daily Sardines Supercharge Your Health?",
+  "thumb": "SARDINES POWER",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why 1 can of sardines a day can boost your nutrition",
+      "hook_top": "1 CAN DAILY",
+      "query": "canned sardines nutrition label",
+      "query2": "sardine can nutrition facts",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Rich source of EPA/DHA omega‑3s that support heart health",
+      "label": "EPA/DHA OMEGA‑3S",
+      "label_on": "omega‑3s",
+      "query": "sardines omega‑3 content",
+      "query2": "EPA DHA sardine nutrition",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Provides about 20 g of high‑quality protein per serving",
+      "label": "HIGH‑QUALITY PROTEIN",
+      "label_on": "protein",
+      "query": "sardines protein grams per can",
+      "query2": "sardine protein content",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Contains calcium and vitamin D for bone strength",
+      "label": "CALCIUM & VITAMIN D",
+      "label_on": "bones",
+      "query": "sardines calcium vitamin d",
+      "query2": "nutrient profile sardines bone health",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for the wellness basics that matter.",
+      "query": "call to action follow button graphic",
+      "query2": "social media follow prompt",
+      "role": "cta"
+    }
+  ],
+  "description": "A single can of sardines packs heart‑loving omega‑3s, quality protein, and bone‑supporting calcium and vitamin D. Add this budget‑friendly fish to your meals and reap daily benefits. Follow for more easy health tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#omega3",
+    "#protein",
+    "#bonehealth",
+    "#budgetfood"
+  ],
+  "place": "",
+  "country": ""
+}

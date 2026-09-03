@@ -9136,5 +9136,62 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Zero Fat Yogurt Health Myth",
+    "thumb": "ZERO FAT YOGURT",
+    "scenes": [
+      {
+        "text": "Zero‑Fat Greek Yogurt claims lower calories and better health",
+        "hook_top": "ZEROFAT YOGURT CLAIM",
+        "query": "zero fat Greek yogurt label",
+        "query2": "low calorie yogurt packaging",
+        "role": "hook"
+      },
+      {
+        "text": "People assume 0% fat yogurt is automatically the healthiest option",
+        "label": "Zero fat equals healthiest",
+        "query": "zero fat yogurt health belief",
+        "query2": "fat free yogurt myth",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Research shows fat‑free dairy often adds extra sugar to improve taste, which can offset calorie advantage",
+        "label": "Added sugar in fat‑free",
+        "query": "sugar content zero fat Greek yogurt study",
+        "query2": "fat free yogurt added sugar research",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Choose plain full‑fat Greek yogurt and add fresh fruit for natural sweetness",
+        "label": "Full‑fat + fruit",
+        "sub": "Natural sweetness without extra sugar",
+        "label_on": "full‑fat",
+        "query": "plain full fat Greek yogurt benefits",
+        "query2": "Greek yogurt fruit topping",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for daily tips to feel your best.",
+        "query": "follow nutrition myth busting",
+        "query2": "subscribe health facts",
+        "role": "cta"
+      }
+    ],
+    "description": "Zero‑fat Greek yogurt sounds healthy, but added sugars can cancel the benefits. Discover the smarter choice for your snack. Follow for more science‑backed nutrition tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutritionmyths",
+      "#yogurt",
+      "#healthyfood",
+      "#diettips",
+      "#sciencebased"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
