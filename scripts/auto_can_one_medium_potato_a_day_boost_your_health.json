@@ -1,0 +1,66 @@
+{
+  "title": "Can One Medium Potato a Day Boost Your Health?",
+  "thumb": "POTATO POWER",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "One medium potato a day—what does it really do for you?",
+      "hook_top": "POTATO DAILY IMPACT",
+      "query": "medium potato on a plate",
+      "query2": "cooked potato serving",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "It delivers about 400 mg of potassium, supporting blood pressure and muscle function.",
+      "label": "POTASSIUM BOOST",
+      "label_on": "potassium",
+      "query": "potassium content in potato",
+      "query2": "potassium levels cooked potato",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "When cooled, it forms resistant starch, a fiber‑like carb that feeds good gut bacteria.",
+      "label": "RESISTANT STARCH",
+      "label_on": "starch",
+      "query": "cooled potato resistant starch",
+      "query2": "cold potato gut health",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "It also provides vitamin C and dietary fiber, helping immunity and digestion.",
+      "label": "VITAMIN C & FIBER",
+      "label_on": "vitamin C",
+      "query": "vitamin C in potatoes",
+      "query2": "fiber content potato",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for simple habits that boost your health.",
+      "query": "follow button animation",
+      "query2": "call to action graphic",
+      "role": "cta"
+    }
+  ],
+  "description": "A single potato does more than fill you up—learn three science‑backed benefits you can tap into every day. Try it and see the difference!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#potato",
+    "#healthtips",
+    "#fiber",
+    "#guthealth"
+  ],
+  "place": "",
+  "country": ""
+}

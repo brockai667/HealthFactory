@@ -9193,5 +9193,193 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Ginger Daily Benefits Myth",
+    "thumb": "GINGER POWER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Can 2 teaspoons of fresh ginger really change your health?",
+        "hook_top": "GINGER DAILY POWER",
+        "query": "fresh ginger root",
+        "query2": "ginger powder",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Many believe eating ginger every day dramatically burns fat and cures colds.",
+        "label": "Ginger burns fat instantly",
+        "query": "ginger fat loss claim",
+        "query2": "ginger cold cure myth",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Research shows ginger may reduce inflammation and nausea, but its effect on weight loss is modest and requires overall calorie control.",
+        "label": "Ginger eases inflammation",
+        "query": "ginger anti‑inflammatory study",
+        "query2": "ginger weight loss research",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Add a small slice to tea or meals for real benefits.",
+        "label": "Use ginger wisely",
+        "sub": "A pinch daily supports digestion and joint comfort.",
+        "label_on": "Ginger tip",
+        "query": "ginger tea preparation",
+        "query2": "ginger in cooking",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow button animation",
+        "query2": "like and subscribe icon",
+        "role": "cta"
+      }
+    ],
+    "description": "We bust the hype around daily ginger and reveal what science actually says. Small, consistent use = real benefit. Follow for more evidence‑based nutrition tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#ginger",
+      "#nutritionmyth",
+      "#healthfacts",
+      "#dailyhabits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Rare Steak Nutrient Myth",
+    "thumb": "STEAK FACTS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Does a rare steak keep more iron than a well‑done one?",
+        "hook_top": "RARE STEAK IRON",
+        "query": "rare steak iron content",
+        "query2": "well done steak nutrients",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "People often think cooking steak to well done destroys most of its iron and protein.",
+        "label": "Cooking kills steak iron",
+        "query": "well done steak iron loss myth",
+        "query2": "steak cooking nutrient myth",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Studies show only a small reduction in iron (about 5‑10%) with higher doneness, while protein remains largely intact.",
+        "label": "Iron loss is minimal",
+        "query": "steak doneness iron study",
+        "query2": "protein retention steak cooking",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Choose doneness you enjoy; pair with vitamin‑C foods to boost iron absorption.",
+        "label": "Enjoy your steak",
+        "sub": "Add citrus or bell peppers for better iron uptake.",
+        "label_on": "Steak tip",
+        "query": "steak with lemon side dish",
+        "query2": "vitamin C iron absorption",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for the wellness basics that matter.",
+        "query": "follow button animation",
+        "query2": "like and subscribe icon",
+        "role": "cta"
+      }
+    ],
+    "description": "We separate fact from fiction on steak cooking and nutrient loss. Learn the real impact and how to maximize iron absorption. Follow for more evidence‑based food advice.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#steakmyth",
+      "#foodfacts",
+      "#nutrition",
+      "#healthtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Steak Doneness Nutrition Countdown",
+    "thumb": "MEDIUM‑RARE VS WELL‑DONE",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why a 3‑oz steak loses nutrients when cooked well done",
+        "hook_top": "STEAK NUTRIENT LOSS",
+        "query": "well done steak nutrient loss 3 oz",
+        "query2": "steak cooking level nutrient comparison",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Well‑done steaks lose up to 20% more water, reducing juiciness and some B‑vitamin content",
+        "label": "MORE WATER LOSS",
+        "label_on": "Fact",
+        "query": "well done steak water loss percentage",
+        "query2": "steak cooking level water retention",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "Medium‑rare retains more iron because high heat can convert heme iron to less absorbable forms",
+        "label": "IRON RETENTION",
+        "label_on": "Fact",
+        "query": "medium rare steak iron retention",
+        "query2": "steak cooking level iron bioavailability",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Cooking to 145°F (medium‑rare) keeps more creatine, supporting muscle recovery after exercise",
+        "label": "CREATINE PRESERVATION",
+        "label_on": "Fact",
+        "query": "medium rare steak creatine content 145°F",
+        "query2": "steak temperature creatine preservation",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow button graphic",
+        "query2": "call to action overlay",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover three practical reasons to aim for medium‑rare the next time you grill a steak. Simple tweaks, big nutrition wins. Follow for more evidence‑based tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#steak",
+      "#foodfacts",
+      "#healthyliving",
+      "#sciencebacked"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

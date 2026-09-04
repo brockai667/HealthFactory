@@ -1,0 +1,61 @@
+{
+  "title": "The Fat Myth",
+  "thumb": "FAT MYTH",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What if 3 g of saturated fat daily isn’t a disaster?",
+      "hook_top": "3G SAT FAT",
+      "query": "saturated fat amount daily",
+      "query2": "saturated fat grams per day",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "Most people believe any saturated fat will raise cholesterol and cause heart disease.",
+      "label": "All saturated fat is bad",
+      "query": "saturated fat heart disease myth",
+      "query2": "saturated fat bad belief",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Research shows that moderate saturated fat (≈3 g) in the context of a balanced diet does not significantly raise LDL cholesterol for most people.",
+      "label": "Moderate sat fat ok",
+      "query": "moderate saturated fat health study",
+      "query2": "saturated fat 3g impact cholesterol",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Focus on overall diet quality, not just one nutrient.",
+      "label": "Diet Quality Over Fat",
+      "sub": "Balance matters more than a single gram count",
+      "label_on": "Balance",
+      "query": "balanced diet vs saturated fat",
+      "query2": "overall diet quality importance",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "nutrition facts short",
+      "query2": "science backed health tips",
+      "role": "cta"
+    }
+  ],
+  "description": "Busting the idea that every gram of saturated fat is dangerous. Learn the real impact of a modest amount and how to keep your meals balanced. Follow for more practical health hacks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#fatmyth",
+    "#healthfacts",
+    "#balanced diet"
+  ],
+  "place": "",
+  "country": ""
+}
