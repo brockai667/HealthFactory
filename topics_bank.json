@@ -9381,5 +9381,135 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Pumpkin Seed Daily Dose Myth",
+    "thumb": "PUMPKIN SEED LIMIT",
+    "scenes": [
+      {
+        "text": "Can you safely eat 150 grams of pumpkin seeds each day?",
+        "hook_top": "150 GRAMS PUMPKIN SEEDS",
+        "query": "pumpkin seeds daily amount",
+        "query2": "pumpkin seed serving size",
+        "role": "hook"
+      },
+      {
+        "text": "Eating 150 g of pumpkin seeds daily is safe for everyone.",
+        "label": "150g safe for all",
+        "query": "large pumpkin seed intake myth",
+        "query2": "pumpkin seed safety claim",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Even a modest handful supplies nutrients; excess adds calories and high omega‑6 fats that can upset balance.",
+        "label": "Too much adds calories",
+        "query": "pumpkin seed portion control",
+        "query2": "pumpkin seed calorie count",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Stick to a handful (≈30 g) daily.",
+        "label": "Handful limit",
+        "sub": "About 1 ounce keeps balance",
+        "label_on": "Handful",
+        "query": "pumpkin seed handful size",
+        "query2": "pumpkin seed serving weight",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for daily tips to feel your best.",
+        "query": "follow button",
+        "query2": "subscribe call to action",
+        "role": "cta"
+      }
+    ],
+    "description": "A popular belief says you can munch a cup of pumpkin seeds daily. The evidence shows a small handful is enough for benefits without extra calories. Follow for more evidence‑based nutrition hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#mythbusting",
+      "#pumpkinseeds",
+      "#healthyhabits",
+      "#foodfacts"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Pumpkin Seeds Daily Benefits",
+    "thumb": "PUMPKIN POWER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Eating 100 grams of pumpkin seeds daily boosts protein intake",
+        "hook_top": "100G PUMPKIN SEEDS BOOST",
+        "query": "pumpkin seeds 100 grams protein",
+        "query2": "pumpkin seeds serving protein",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "One hundred grams provides about 30 grams of protein.",
+        "chips": [
+          {
+            "t": "30G PROTEIN",
+            "on": "protein",
+            "style": "accent"
+          }
+        ],
+        "query": "pumpkin seeds protein content per 100g",
+        "query2": "pumpkin seed protein amount",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "The same serving supplies roughly 5 grams of fiber, supporting digestion.",
+        "chips": [
+          {
+            "t": "5G FIBER",
+            "on": "fiber",
+            "style": "accent"
+          }
+        ],
+        "query": "pumpkin seeds fiber per 100g",
+        "query2": "pumpkin seed dietary fiber amount",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Add a handful daily for protein and gut health.",
+        "label": "DAILY HANDFUL",
+        "sub": "Boost protein and fiber",
+        "label_on": "boost",
+        "query": "how many pumpkin seeds in a handful",
+        "query2": "pumpkin seed serving size",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow nutrition tips call to action",
+        "query2": "cta follow health channel",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how a simple daily serving of pumpkin seeds can up your protein and fiber intake. Simple habit, big benefit. 🌱",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#healthtips",
+      "#pumpkinseeds",
+      "#protein",
+      "#fiber",
+      "#easyhabits"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

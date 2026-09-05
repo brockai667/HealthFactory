@@ -1,0 +1,73 @@
+{
+  "title": "Can a 30‑Minute Walk Lift Your Mood?",
+  "thumb": "WALK BOOST",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "A 30‑minute walk can change your brain chemistry",
+      "hook_top": "30MIN WALK POWER",
+      "query": "30 minute walk mood study",
+      "query2": "walking brain chemistry research",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "Research shows 30 minutes of brisk walking raises endorphin levels by up to 20%",
+      "chips": [
+        {
+          "t": "ENDORPHIN ↑",
+          "on": "endorphin",
+          "style": "accent"
+        }
+      ],
+      "punch": "boost",
+      "query": "endorphin increase walking study",
+      "query2": "exercise endorphin percentage",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "A daily 30‑minute walk also improves sleep quality, which further enhances daytime mood",
+      "chips": [
+        {
+          "t": "BETTER SLEEP",
+          "on": "sleep",
+          "style": "white"
+        }
+      ],
+      "query": "walk improves sleep quality study",
+      "query2": "exercise sleep quality research",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Walk daily for a mood lift",
+      "label": "MIND BOOST",
+      "sub": "Just half an hour each day",
+      "label_on": "boost",
+      "query": "daily walking mood benefits",
+      "query2": "30 minute walk mental health",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "health hacks follow",
+      "query2": "simple health tips subscribe",
+      "role": "cta"
+    }
+  ],
+  "description": "A quick 30‑minute walk can spike endorphins and help you sleep better, giving you a natural mood lift. Try it today and feel the difference. 🌟",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#walkforhealth",
+    "#moodboost",
+    "#dailyhabits",
+    "#wellness",
+    "#healthtips"
+  ],
+  "place": "",
+  "country": ""
+}

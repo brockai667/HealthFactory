@@ -1,0 +1,61 @@
+{
+  "title": "Does Well‑Done Steak Lose Protein?",
+  "thumb": "PROTEIN LOSS",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "What happens to protein when you grill a steak to 165°F?",
+      "hook_top": "STEAK PROTEIN MYTH",
+      "query": "well done steak protein content",
+      "query2": "cooked steak nutrition",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "People say a well‑done steak has far less protein than a medium‑rare one.",
+      "label": "Well‑done loses protein",
+      "query": "protein loss well done steak",
+      "query2": "steak cooking level protein",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Scientific analysis shows cooking only changes water content; total protein stays virtually the same, just slightly less digestible at very high temperatures.",
+      "label": "Protein stays mostly intact",
+      "query": "protein stability high heat meat",
+      "query2": "nutrient retention steak cooking",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "Choose doneness for taste, not protein.",
+      "label": "Taste > protein myth",
+      "sub": "Protein loss is minimal, focus on flavor and safety.",
+      "label_on": "MythBusted",
+      "query": "steak doneness taste vs nutrition",
+      "query2": "how cooking level affects steak flavor",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for simple habits that boost your health.",
+      "query": "food myth busting channel",
+      "query2": "nutrition myth short",
+      "role": "cta"
+    }
+  ],
+  "description": "Many worry that cooking steak well kills its protein power. The truth is it barely changes. Choose how you like it and stay fueled. Follow for more practical nutrition insights.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#protein",
+    "#foodmyths",
+    "#cooking"
+  ],
+  "place": "",
+  "country": ""
+}
