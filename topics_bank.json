@@ -9511,5 +9511,213 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Cold Brew Sleep Myth",
+    "thumb": "COFFEE SLEEP FACT",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Does a 16‑oz cold brew after 5 PM ruin sleep?",
+        "hook_top": "COFFEE AFTER 5",
+        "query": "large cold brew coffee glass",
+        "query2": "iced coffee cup evening",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "People assume any coffee after early evening automatically disrupts sleep.",
+        "label": "All evening coffee harms sleep",
+        "query": "person drinking coffee at night illustration",
+        "query2": "coffee night myth graphic",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Caffeine’s impact depends on total intake and individual sensitivity; 16 oz may contain 150‑200 mg, which can affect sleep if consumed within six hours for most adults.",
+        "label": "Timing and dose matter",
+        "query": "caffeine half‑life chart",
+        "query2": "coffee caffeine amount infographic",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "If you need evening caffeine, limit to 100 mg and finish at least 4‑5 hours before bed.",
+        "label": "Limit & schedule",
+        "sub": "Small dose, early cutoff",
+        "label_on": "Schedule",
+        "query": "clock showing coffee cutoff time",
+        "query2": "timer coffee evening schedule",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow button animation",
+        "query2": "subscribe icon",
+        "role": "cta"
+      }
+    ],
+    "description": "Explore why not all late‑day coffee is equal and how to enjoy it without sabotaging sleep. Simple adjustments, better rest.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#caffeine",
+      "#sleep",
+      "#coffee",
+      "#healthmyth",
+      "#wellness",
+      "#nighttime"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Boost Morning Energy with Simple Hacks",
+    "thumb": "MORNING ENERGY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Three quick tricks to energize your morning at home",
+        "hook_top": "3 QUICK MORNING ENERGY TRICKS",
+        "query": "morning energy tricks home",
+        "query2": "quick morning boost tips",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "label": "DRINK COLD WATER",
+        "label_on": "First",
+        "text": "Drink a glass of cold water right after waking",
+        "query": "glass of cold water morning",
+        "query2": "cold water after waking",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "label": "SUNLIGHT EXPOSURE",
+        "label_on": "Second",
+        "text": "Get five to ten minutes of natural sunlight within the first hour",
+        "query": "morning sunlight window",
+        "query2": "sunlight exposure early day",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "label": "LIGHT MOVEMENT",
+        "label_on": "Third",
+        "text": "Do five minutes of gentle stretching or walking",
+        "query": "morning stretching routine",
+        "query2": "light movement after waking",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "follow button",
+        "query2": "subscribe icon",
+        "role": "cta"
+      }
+    ],
+    "description": "Start your day with three easy, science‑backed habits that boost alertness and mood. Try them tomorrow and feel the difference. Follow for more practical health tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#healthtips",
+      "#morningroutine",
+      "#wellness",
+      "#dailyhabits",
+      "#energyboost"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Green Tea Mood Boost",
+    "thumb": "GREEN TEA POWER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Two cups of green tea daily can lift your mood",
+        "hook_top": "GREEN TEA MOOD",
+        "query": "green tea mood benefits",
+        "query2": "green tea mental health",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "A typical 8‑oz cup contains about 200 mg of catechins, antioxidants linked to improved brain function",
+        "chips": [
+          {
+            "t": "200 MG CATECHINS",
+            "on": "catechins",
+            "style": "accent"
+          }
+        ],
+        "punch": "boost",
+        "query": "green tea catechin amount",
+        "query2": "green tea antioxidants",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Studies show drinking two cups a day is associated with a modest reduction in feelings of anxiety and depression",
+        "chips": [
+          {
+            "t": "ANXIETY ↓",
+            "on": "anxiety",
+            "style": "white"
+          },
+          {
+            "t": "DEPRESSION ↓",
+            "on": "depression",
+            "style": "white"
+          }
+        ],
+        "query": "green tea anxiety study",
+        "query2": "green tea depression research",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Sip twice daily for a calmer mind",
+        "label": "Twice‑Daily Sip",
+        "sub": "Just two cups a day can make a difference",
+        "label_on": "sip",
+        "query": "green tea daily routine",
+        "query2": "green tea habit tips",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow health tips",
+        "query2": "subscribe wellness channel",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how a simple habit of two green tea cups can support a better mood. Try it today and feel the difference. 🌱",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#greentea",
+      "#moodboost",
+      "#mentalhealth",
+      "#healthylifestyle",
+      "#wellness",
+      "#antioxidants"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
