@@ -1,0 +1,53 @@
+{
+  "title": "Steak Doneness and Nutrient Retention",
+  "thumb": "STEAK NUTRIENT MYTH",
+  "scenes": [
+    {
+      "hook_top": "MEDIUMRARE NUTRIENT BOOST",
+      "query": "medium rare steak nutrients",
+      "query2": "well done steak nutrition",
+      "role": "hook",
+      "text": "Does cooking a steak to medium‑rare keep more nutrients than well‑done?"
+    },
+    {
+      "label": "Rarer steak = healthier",
+      "query": "rare steak health myth",
+      "query2": "steak doneness misconception",
+      "role": "myth",
+      "text": "People believe the rarer the steak, the healthier it is."
+    },
+    {
+      "label": "Nutrients stable across done",
+      "query": "steak nutrient loss cooking temperature",
+      "query2": "protein iron steak doneness",
+      "role": "truth",
+      "text": "Scientific studies show that protein and iron content stay stable across doneness; only minor loss of B‑vitamins occurs with higher heat."
+    },
+    {
+      "label": "Taste over myth",
+      "sub": "Nutrition stays similar, so cook how you enjoy.",
+      "label_on": "Taste",
+      "query": "steak cooking preference",
+      "query2": "steak doneness taste",
+      "role": "callout",
+      "text": "Choose doneness for taste, not nutrition."
+    },
+    {
+      "query": "follow health channel",
+      "query2": "subscribe nutrition tips",
+      "role": "cta",
+      "text": "Follow for your daily dose of vitality."
+    }
+  ],
+  "description": "We bust the myth that a rarer steak is automatically healthier. Learn what really changes when you cook meat and how to pick your perfect doneness. Follow for more science‑backed food tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#steak",
+    "#foodmyths",
+    "#healthfacts"
+  ],
+  "place": "",
+  "country": ""
+}

@@ -9719,5 +9719,66 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Best Plant Milk for Bone Health",
+    "thumb": "PLANT MILK",
+    "scenes": [
+      {
+        "text": "Which of the top 3 plant milks boosts calcium?",
+        "hook_top": "TOP 3 PLANT MILKS",
+        "query": "plant milk calcium content comparison",
+        "query2": "calcium in almond soy oat milk",
+        "role": "hook"
+      },
+      {
+        "num": 1,
+        "text": "Fortified soy milk delivers calcium levels comparable to dairy.",
+        "label": "SOY MILK CALCIUM",
+        "label_on": "Fact",
+        "query": "fortified soy milk calcium amount",
+        "query2": "soy milk calcium dairy equivalent",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "text": "Almond milk often contains less calcium unless it’s fortified.",
+        "label": "ALMOND MILK LOW CALCIUM",
+        "label_on": "Fact",
+        "query": "almond milk calcium content",
+        "query2": "almond milk calcium fortified",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "text": "Oat milk usually has the lowest calcium, so choose a fortified brand.",
+        "label": "OAT MILK FORTIFIED",
+        "label_on": "Fact",
+        "query": "oat milk calcium fortified",
+        "query2": "oat milk calcium content",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for the wellness basics that matter.",
+        "query": "nutrition short tips",
+        "query2": "health quick advice",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn which plant‑based milks give you the most calcium for strong bones. Choose the right fortified option and boost your daily intake.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#plantmilk",
+      "#bonehealth",
+      "#calcium",
+      "#nutrition",
+      "#healthtips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
