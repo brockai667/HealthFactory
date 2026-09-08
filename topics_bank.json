@@ -9780,5 +9780,130 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Raw Steel Cut Oats Myth",
+    "thumb": "RAW OATS",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Why 30 minutes of soaking steel cut oats changes everything",
+        "hook_top": "SOAK STEEL CUT OATS",
+        "query": "steel cut oats soaking",
+        "query2": "steel cut oats preparation",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "People think raw steel cut oats are inedible and provide no nutrition",
+        "label": "Raw oats are useless",
+        "query": "raw steel cut oats",
+        "query2": "uncooked oats",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Soaking softens oats, makes nutrients more absorbable, but they’re still nutritious raw",
+        "label": "Soaked oats improve digestibility",
+        "query": "soaked steel cut oats nutrition",
+        "query2": "steel cut oats benefits",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Soak before cooking for better texture and nutrient access",
+        "label": "SOAK FIRST",
+        "sub": "Softens texture and boosts nutrient access",
+        "label_on": "soak",
+        "query": "soaking oats before cooking",
+        "query2": "pre-soak oats",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "follow health myth bust",
+        "query2": "follow channel",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how a simple soak can unlock the nutrition in steel‑cut oats. Simple habit, big benefit. Follow for more evidence‑based hacks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#mythbusting",
+      "#oats",
+      "#healthtips",
+      "#foodfacts"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Dairy Longevity Myth",
+    "thumb": "DAIRY LONGEVITY",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Does French cheese really extend lifespan in studies?",
+        "hook_top": "FRENCH CHEESE LONGEVITY",
+        "query": "French cheese longevity study",
+        "query2": "dairy longevity research",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Many believe drinking dairy daily adds years to life",
+        "label": "Dairy adds lifespan",
+        "query": "daily dairy lifespan claim",
+        "query2": "dairy longevity myth",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Large cohort studies show no clear longevity benefit; plant milks offer similar calcium with less saturated fat",
+        "label": "No proven dairy edge",
+        "query": "dairy vs plant milk longevity study",
+        "query2": "dairy plant milk health comparison",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Choose calcium sources wisely – plant milks give calcium without the extra saturated fat",
+        "label": "CALCIUM COUNTS",
+        "sub": "Plant milks provide calcium with less saturated fat",
+        "label_on": "calcium",
+        "query": "calcium sources dairy vs plant",
+        "query2": "plant milk calcium",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "follow health channel",
+        "query2": "follow for tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Unpack the truth behind dairy and longevity—what the research actually says. Simple swaps can keep your bones strong. Follow for more science‑backed advice.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#dairy",
+      "#mythbusting",
+      "#health",
+      "#nutrition",
+      "#longevity",
+      "#plantmilk"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

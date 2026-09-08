@@ -1,0 +1,53 @@
+{
+  "title": "Greek Yogurt Fat Content Explained",
+  "thumb": "YOGURT FAT FACT",
+  "scenes": [
+    {
+      "hook_top": "ZERO FAT YOGURT QUESTION",
+      "query": "zero fat greek yogurt vs full fat",
+      "query2": "low fat greek yogurt health",
+      "role": "hook",
+      "text": "Is 0 % fat Greek yogurt worse for you than full‑fat varieties?"
+    },
+    {
+      "label": "Fat‑free is healthiest",
+      "query": "fat free greek yogurt myth",
+      "query2": "low fat yogurt misconception",
+      "role": "myth",
+      "text": "Many think fat‑free Greek yogurt is the healthiest option."
+    },
+    {
+      "label": "Full‑fat offers satiety",
+      "query": "full fat greek yogurt benefits",
+      "query2": "protein probiotic greek yogurt comparison",
+      "role": "truth",
+      "text": "Research shows that the protein and probiotic content are similar; full‑fat versions provide satiety and aid vitamin D absorption without extra calories when portion‑controlled."
+    },
+    {
+      "label": "Satiety matters",
+      "sub": "Both have protein; choose based on hunger control.",
+      "label_on": "Full‑fat",
+      "query": "yogurt satiety study",
+      "query2": "full fat greek yogurt fullness",
+      "role": "callout",
+      "text": "Pick the version that keeps you full."
+    },
+    {
+      "query": "follow dairy health channel",
+      "query2": "subscribe yogurt myths",
+      "role": "cta",
+      "text": "Follow for the wellness basics that matter."
+    }
+  ],
+  "description": "Zero‑fat Greek yogurt isn’t automatically superior. We compare the nutritional impact of both versions and explain why satiety matters. Follow for more clear‑cut dairy insights.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#dairy",
+    "#yogurt",
+    "#nutritionmyths",
+    "#healthtips"
+  ],
+  "place": "",
+  "country": ""
+}

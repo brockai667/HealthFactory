@@ -1,0 +1,53 @@
+{
+  "title": "Frozen Berries vs Fresh Nutrition",
+  "thumb": "FROZEN BERRY MYTH",
+  "scenes": [
+    {
+      "hook_top": "FROZEN STRAWBERRY NUTRIENTS",
+      "query": "frozen strawberries nutrition vs fresh",
+      "query2": "berry frozen vs fresh nutrient content",
+      "role": "hook",
+      "text": "Do frozen strawberries retain as many nutrients as fresh ones?"
+    },
+    {
+      "label": "Frozen loses vitamins",
+      "query": "frozen fruit vitamin loss myth",
+      "query2": "frozen berries nutrient myth",
+      "role": "myth",
+      "text": "People assume frozen berries lose most of their vitamins."
+    },
+    {
+      "label": "Flash‑freezing preserves nut",
+      "query": "flash freezing berry nutrients study",
+      "query2": "frozen vs fresh berry nutrient comparison",
+      "role": "truth",
+      "text": "Studies show that flash‑freezing preserves vitamin C and polyphenols almost on par with fresh berries harvested at peak ripeness."
+    },
+    {
+      "label": "Convenient nutrition",
+      "sub": "Both are nutritious; frozen adds year‑round access.",
+      "label_on": "Frozen",
+      "query": "benefits of frozen berries",
+      "query2": "frozen fruit convenience health",
+      "role": "callout",
+      "text": "Choose frozen for convenience without nutrient sacrifice."
+    },
+    {
+      "query": "follow nutrition channel",
+      "query2": "subscribe health myths",
+      "role": "cta",
+      "text": "Follow for simple habits that boost your health."
+    }
+  ],
+  "description": "We break down the truth about frozen berries and their nutrient profile compared with fresh. Get practical tips on making the best fruit choices year‑round. Follow for more evidence‑based nutrition.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#berries",
+    "#frozenfood",
+    "#nutritionfacts",
+    "#healthyliving"
+  ],
+  "place": "",
+  "country": ""
+}
