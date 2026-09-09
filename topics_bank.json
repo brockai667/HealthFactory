@@ -9905,5 +9905,202 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Butternut Squash Fruit Myth",
+    "thumb": "FRUIT OR VEGETABLE",
+    "scenes": [
+      {
+        "text": "Butternut squash weighs about two pounds",
+        "hook_top": "BUTTERNUT SQUASH WEIGHT",
+        "query": "butternut squash size",
+        "query2": "butternut squash weight",
+        "role": "hook"
+      },
+      {
+        "text": "Many label it as a vegetable on grocery shelves",
+        "label": "Squash is a veg",
+        "query": "butternut squash vegetable",
+        "query2": "vegetable classification squash",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Botanically it’s a fruit because it develops from the flower’s ovary",
+        "label": "Botanical fruit",
+        "query": "botanical fruit definition",
+        "query2": "fruit vs veg botany",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Treat it like fruit in meals for more variety",
+        "label": "Eat it fruit style",
+        "sub": "Add to salads or smoothies",
+        "label_on": "fruit",
+        "query": "butternut squash salad",
+        "query2": "squash smoothie",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow",
+        "query2": "subscribe",
+        "role": "cta"
+      }
+    ],
+    "description": "The butternut squash is often called a veggie, yet botanically it’s a fruit. Use this tip to diversify your plate. Follow for daily food myths busted.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#foodmyth",
+      "#nutrition",
+      "#healthyhabits",
+      "#veggies"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Cold Rice Keeps Calories Safe",
+    "thumb": "COLD RICE",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Storing cooked rice for 4 hours changes its calories?",
+        "hook_top": "STORAGE RICE CALORIES",
+        "query": "cooked rice stored 4 hours refrigerator",
+        "query2": "refrigerated cooked rice calorie change",
+        "role": "hook"
+      },
+      {
+        "type": "count",
+        "num": 1,
+        "text": "Cooling rice slows the growth of starch‑digesting enzymes, keeping the glycemic impact lower.",
+        "label": "ENZYME ACTIVITY REDUCED",
+        "label_on": "ENZYME",
+        "query": "rice cooling enzyme activity",
+        "query2": "starch digesting enzymes cooled rice",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 2,
+        "text": "A 1‑cup serving of chilled rice has about 10‑15% fewer usable calories than hot rice, due to resistant starch formation.",
+        "label": "MORE RESISTANT STARCH",
+        "label_on": "STARCH",
+        "query": "resistant starch in cooled rice calories",
+        "query2": "cold rice resistant starch calorie reduction",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "count",
+        "num": 3,
+        "text": "Refrigerating rice for up to 24 hours keeps it safe and makes it easier to portion for meals, preventing overeating.",
+        "label": "SAFE & SATISFYING PORTIONS",
+        "label_on": "PORTION",
+        "query": "refrigerated rice safety 24 hours",
+        "query2": "cold rice meal prep portion control",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "food hack follow call to action",
+        "query2": "simple nutrition tip CTA",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn how a simple fridge can tweak rice’s calorie profile and keep you fuller longer. Try it tonight and feel the difference. Follow for more everyday health tricks.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#foodhacks",
+      "#healthtips",
+      "#rice",
+      "#mealprep"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Cool Rice for Better Health",
+    "thumb": "COOL RICE",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "What happens when you cool 1 cup of rice?",
+        "hook_top": "COOL RICE TRICK",
+        "query": "cooling cooked rice 1 cup effect",
+        "query2": "rice cooling health impact",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Cooling cooked rice for 12 hours adds about 3 grams of resistant starch per cup.",
+        "chips": [
+          {
+            "t": "3 GRAMS",
+            "on": "resistant",
+            "style": "white"
+          }
+        ],
+        "punch": "Boost",
+        "query": "resistant starch increase cooled rice 12 hours",
+        "query2": "resistant starch amount per cup cooled rice",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "That extra fiber can lower the post‑meal glucose rise by roughly 10 % versus hot rice.",
+        "chips": [
+          {
+            "t": "10% LOWER",
+            "on": "glucose",
+            "style": "accent"
+          }
+        ],
+        "punch": "Drop",
+        "query": "post‑meal glucose response cooled rice vs hot rice",
+        "query2": "blood sugar effect resistant starch rice",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Cool your rice to boost fiber and tame spikes.",
+        "label": "FIBER BOOST",
+        "sub": "Simple cooling adds resistant starch",
+        "label_on": "boost",
+        "query": "fiber boost cooling rice",
+        "query2": "resistant starch benefit rice cooling",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "follow nutrition hacks call to action",
+        "query2": "subscribe health tips CTA",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn how a simple cooling step turns ordinary rice into a fiber‑rich food that steadies blood sugar. Try it tonight and feel the difference!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#foodhacks",
+      "#healthyhabits",
+      "#resistantstarch",
+      "#bloodsugar",
+      "#simpletips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

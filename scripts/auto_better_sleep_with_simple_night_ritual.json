@@ -1,0 +1,66 @@
+{
+  "title": "Better Sleep With Simple Night Ritual",
+  "thumb": "SLEEP HACK",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "The 3‑minute habit that transforms sleep tonight",
+      "hook_top": "3MINUTE SLEEP TRICK",
+      "query": "3 minute bedtime routine",
+      "query2": "quick sleep habit",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Dim the lights about 30 minutes before bed to boost melatonin production",
+      "label": "DIM LIGHTS BEFORE BED",
+      "label_on": "dim",
+      "query": "dim bedroom lights evening",
+      "query2": "low lighting bedtime",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Enable a blue‑light filter on screens or avoid devices entirely after sunset",
+      "label": "LIMIT BLUE LIGHT",
+      "label_on": "filter",
+      "query": "blue light filter phone",
+      "query2": "screen night mode",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Keep your bedroom around 65°F (18‑19°C) for optimal sleep cycles",
+      "label": "COOL BEDROOM TEMPERATURE",
+      "label_on": "cool",
+      "query": "optimal bedroom temperature sleep",
+      "query2": "cool room sleep tips",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "follow button illustration",
+      "query2": "subscribe animation",
+      "role": "cta"
+    }
+  ],
+  "description": "Three tiny tweaks you can add tonight to improve sleep quality without medication. Try them tomorrow and feel the difference. Stay tuned for more simple science‑backed habits.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#sleep",
+    "#healthtips",
+    "#wellness",
+    "#nightroutine",
+    "#betterrest"
+  ],
+  "place": "",
+  "country": ""
+}
