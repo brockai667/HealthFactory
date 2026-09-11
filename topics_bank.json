@@ -10102,5 +10102,62 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Rice Cooling Myth Explained",
+    "thumb": "COOL RICE MYTH",
+    "scenes": [
+      {
+        "text": "What happens to calories when you chill 1 cup of cooked rice?",
+        "hook_top": "CHILLING RICE CALORIES",
+        "query": "cooked rice cooling",
+        "query2": "refrigerated rice",
+        "role": "hook"
+      },
+      {
+        "text": "Many believe cooling rice cuts its calories.",
+        "label": "Cooling rice cuts calories",
+        "query": "cooled rice myth",
+        "query2": "rice calorie myth",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Cooling rice does not change its calorie count; only texture and resistant starch shift slightly.",
+        "label": "Calories stay the same",
+        "query": "rice calorie content",
+        "query2": "calories in cooled rice",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Calorie count unchanged – cooling affects texture, not energy.",
+        "label": "No calorie loss",
+        "sub": "Cooling changes texture, not energy",
+        "label_on": "Fact",
+        "query": "rice nutrition label",
+        "query2": "rice calories",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow health brand",
+        "query2": "subscribe nutrition channel",
+        "role": "cta"
+      }
+    ],
+    "description": "Debunk the popular idea that refrigerating rice burns calories. Learn the real impact on nutrition and how to store rice safely. Follow for more practical health facts.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#foodmyths",
+      "#rice",
+      "#healthtips",
+      "#sciencebacked"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

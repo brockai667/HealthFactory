@@ -1,0 +1,66 @@
+{
+  "title": "Steak Doneness Nutrition Countdown",
+  "thumb": "MEDIUM‑RARE VS WELL‑DONE",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Why a 3‑oz steak loses nutrients when cooked well done",
+      "hook_top": "STEAK NUTRIENT LOSS",
+      "query": "well done steak nutrient loss 3 oz",
+      "query2": "steak cooking level nutrient comparison",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Well‑done steaks lose up to 20% more water, reducing juiciness and some B‑vitamin content",
+      "label": "MORE WATER LOSS",
+      "label_on": "Fact",
+      "query": "well done steak water loss percentage",
+      "query2": "steak cooking level water retention",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "Medium‑rare retains more iron because high heat can convert heme iron to less absorbable forms",
+      "label": "IRON RETENTION",
+      "label_on": "Fact",
+      "query": "medium rare steak iron retention",
+      "query2": "steak cooking level iron bioavailability",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Cooking to 145°F (medium‑rare) keeps more creatine, supporting muscle recovery after exercise",
+      "label": "CREATINE PRESERVATION",
+      "label_on": "Fact",
+      "query": "medium rare steak creatine content 145°F",
+      "query2": "steak temperature creatine preservation",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "follow button graphic",
+      "query2": "call to action overlay",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover three practical reasons to aim for medium‑rare the next time you grill a steak. Simple tweaks, big nutrition wins. Follow for more evidence‑based tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#steak",
+    "#foodfacts",
+    "#healthyliving",
+    "#sciencebacked"
+  ],
+  "place": "",
+  "country": ""
+}
