@@ -1,0 +1,63 @@
+{
+  "title": "Cold Brew Sleep Myth",
+  "thumb": "COFFEE SLEEP FACT",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Does a 16‑oz cold brew after 5 PM ruin sleep?",
+      "hook_top": "COFFEE AFTER 5",
+      "query": "large cold brew coffee glass",
+      "query2": "iced coffee cup evening",
+      "role": "hook"
+    },
+    {
+      "type": "myth",
+      "text": "People assume any coffee after early evening automatically disrupts sleep.",
+      "label": "All evening coffee harms sleep",
+      "query": "person drinking coffee at night illustration",
+      "query2": "coffee night myth graphic",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "truth",
+      "text": "Caffeine’s impact depends on total intake and individual sensitivity; 16 oz may contain 150‑200 mg, which can affect sleep if consumed within six hours for most adults.",
+      "label": "Timing and dose matter",
+      "query": "caffeine half‑life chart",
+      "query2": "coffee caffeine amount infographic",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "callout",
+      "text": "If you need evening caffeine, limit to 100 mg and finish at least 4‑5 hours before bed.",
+      "label": "Limit & schedule",
+      "sub": "Small dose, early cutoff",
+      "label_on": "Schedule",
+      "query": "clock showing coffee cutoff time",
+      "query2": "timer coffee evening schedule",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "follow button animation",
+      "query2": "subscribe icon",
+      "role": "cta"
+    }
+  ],
+  "description": "Explore why not all late‑day coffee is equal and how to enjoy it without sabotaging sleep. Simple adjustments, better rest.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#caffeine",
+    "#sleep",
+    "#coffee",
+    "#healthmyth",
+    "#wellness",
+    "#nighttime"
+  ],
+  "place": "",
+  "country": ""
+}

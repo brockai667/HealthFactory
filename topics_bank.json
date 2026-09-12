@@ -10159,5 +10159,201 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Refrigerated Rice Calorie Myth",
+    "thumb": "RICE CALORIES FALSE",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Does storing rice in the fridge really keep calories low?",
+        "hook_top": "FRIDGE RICE CALORIES",
+        "query": "refrigerated rice calorie claim",
+        "query2": "cold rice calorie myth",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "A common belief is that chilled rice has fewer calories than hot rice.",
+        "label": "Cold rice cuts calories",
+        "query": "cold rice fewer calories belief",
+        "query2": "refrigerated rice calorie reduction",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Calorie content is unchanged; cooling only alters starch structure, not energy value.",
+        "label": "Calories stay the same",
+        "query": "rice cooling calorie unchanged",
+        "query2": "starch retrogradation rice calories",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Cooling rice makes it easier to digest for some, but not lower in calories.",
+        "label": "Easier digestion",
+        "sub": "Cold rice may feel lighter, not lighter in energy.",
+        "label_on": "Cool",
+        "query": "refrigerated rice digestion",
+        "query2": "cold rice easier digestion",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow if your body is worth 60 seconds a day.",
+        "query": "follow health myth busting",
+        "query2": "subscribe nutrition tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Storing rice doesn't magically cut calories, but it can change the starch. Learn what really happens and keep your meals on track. 🍚",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#mythbusting",
+      "#rice",
+      "#nutrition",
+      "#healthfacts"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Dehydrated Veggie Powder Truth",
+    "thumb": "VEGGIE POWDER FACT",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Can a single spoon of dehydrated broccoli powder replace a serving of veg?",
+        "hook_top": "BROCCOLI POWDER SPOON",
+        "query": "broccoli powder serving size comparison",
+        "query2": "dehydrated vegetable powder nutrition",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Many think powdered veggies give the same fiber and nutrients as fresh.",
+        "label": "Powder equals fresh veg",
+        "query": "vegetable powder same as fresh myth",
+        "query2": "dehydrated veg fiber claim",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "While vitamins remain, fiber drops and some phytonutrients degrade during drying.",
+        "label": "Less fiber, some loss",
+        "query": "fiber loss in dehydrated vegetables",
+        "query2": "nutrient degradation vegetable powder",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Use powder as a supplement, not a full veg replacement.",
+        "label": "Supplement, not replace",
+        "sub": "Add fresh veg for full fiber and phytonutrients.",
+        "label_on": "Supplement",
+        "query": "using vegetable powder supplement",
+        "query2": "veg powder alongside fresh vegetables",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for your daily dose of vitality.",
+        "query": "follow nutrition shortcuts",
+        "query2": "subscribe health hacks",
+        "role": "cta"
+      }
+    ],
+    "description": "Dehydrated veggie powders can boost convenience, but they aren't a complete swap for fresh produce. Learn how to use them wisely. 🌱",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#vegpowder",
+      "#mythbusting",
+      "#healthtips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Instant Rice vs Traditional Rice",
+    "thumb": "RICE SHOWDOWN",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Can 5‑minute instant rice match slow‑cooked rice?",
+        "hook_top": "5MINUTE RICE CHALLENGE",
+        "query": "instant rice vs traditional rice",
+        "query2": "quick rice versus regular rice",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "Both instant and regular cooked rice provide roughly 28 g of carbs per 100 g.",
+        "chips": [
+          {
+            "t": "28 g carbs",
+            "on": "carbs",
+            "style": "white"
+          }
+        ],
+        "punch": "same",
+        "query": "carbohydrate content of instant rice",
+        "query2": "carb content cooked rice",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "Instant rice usually contains about 200 mg sodium per serving, while plain rice has less than 5 mg.",
+        "chips": [
+          {
+            "t": "200 mg sodium",
+            "on": "sodium",
+            "style": "accent"
+          }
+        ],
+        "punch": "salty",
+        "query": "sodium content instant rice",
+        "query2": "sodium in quick rice",
+        "role": "fact"
+      },
+      {
+        "type": "callout",
+        "text": "Choose low‑sodium options for a healthier bowl.",
+        "label": "Low‑Sodium Choice",
+        "sub": "Pick plain or low‑salt instant rice.",
+        "label_on": "choose",
+        "query": "low sodium rice options",
+        "query2": "healthy instant rice choices",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for your daily dose of vitality.",
+        "query": "follow health channel",
+        "query2": "subscribe food tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover how instant rice stacks up against the traditional variety in carbs and sodium. Choose smarter, eat better. Follow for quick, science‑backed tips.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#foodfacts",
+      "#instantrice",
+      "#healthyeating",
+      "#simplehabits"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

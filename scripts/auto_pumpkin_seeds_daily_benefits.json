@@ -1,0 +1,73 @@
+{
+  "title": "Pumpkin Seeds Daily Benefits",
+  "thumb": "PUMPKIN POWER",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Eating 100 grams of pumpkin seeds daily boosts protein intake",
+      "hook_top": "100G PUMPKIN SEEDS BOOST",
+      "query": "pumpkin seeds 100 grams protein",
+      "query2": "pumpkin seeds serving protein",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "One hundred grams provides about 30 grams of protein.",
+      "chips": [
+        {
+          "t": "30G PROTEIN",
+          "on": "protein",
+          "style": "accent"
+        }
+      ],
+      "query": "pumpkin seeds protein content per 100g",
+      "query2": "pumpkin seed protein amount",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "The same serving supplies roughly 5 grams of fiber, supporting digestion.",
+      "chips": [
+        {
+          "t": "5G FIBER",
+          "on": "fiber",
+          "style": "accent"
+        }
+      ],
+      "query": "pumpkin seeds fiber per 100g",
+      "query2": "pumpkin seed dietary fiber amount",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Add a handful daily for protein and gut health.",
+      "label": "DAILY HANDFUL",
+      "sub": "Boost protein and fiber",
+      "label_on": "boost",
+      "query": "how many pumpkin seeds in a handful",
+      "query2": "pumpkin seed serving size",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "follow nutrition tips call to action",
+      "query2": "cta follow health channel",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover how a simple daily serving of pumpkin seeds can up your protein and fiber intake. Simple habit, big benefit. 🌱",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#healthtips",
+    "#pumpkinseeds",
+    "#protein",
+    "#fiber",
+    "#easyhabits"
+  ],
+  "place": "",
+  "country": ""
+}
