@@ -1,0 +1,66 @@
+{
+  "title": "Boost Morning Energy with Simple Hacks",
+  "thumb": "MORNING ENERGY",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Three quick tricks to energize your morning at home",
+      "hook_top": "3 QUICK MORNING ENERGY TRICKS",
+      "query": "morning energy tricks home",
+      "query2": "quick morning boost tips",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "label": "DRINK COLD WATER",
+      "label_on": "First",
+      "text": "Drink a glass of cold water right after waking",
+      "query": "glass of cold water morning",
+      "query2": "cold water after waking",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "label": "SUNLIGHT EXPOSURE",
+      "label_on": "Second",
+      "text": "Get five to ten minutes of natural sunlight within the first hour",
+      "query": "morning sunlight window",
+      "query2": "sunlight exposure early day",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "label": "LIGHT MOVEMENT",
+      "label_on": "Third",
+      "text": "Do five minutes of gentle stretching or walking",
+      "query": "morning stretching routine",
+      "query2": "light movement after waking",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow for daily tips to feel your best.",
+      "query": "follow button",
+      "query2": "subscribe icon",
+      "role": "cta"
+    }
+  ],
+  "description": "Start your day with three easy, science‑backed habits that boost alertness and mood. Try them tomorrow and feel the difference. Follow for more practical health tips.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#healthtips",
+    "#morningroutine",
+    "#wellness",
+    "#dailyhabits",
+    "#energyboost"
+  ],
+  "place": "",
+  "country": ""
+}

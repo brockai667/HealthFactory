@@ -1,0 +1,79 @@
+{
+  "title": "Green Tea Mood Boost",
+  "thumb": "GREEN TEA POWER",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Two cups of green tea daily can lift your mood",
+      "hook_top": "GREEN TEA MOOD",
+      "query": "green tea mood benefits",
+      "query2": "green tea mental health",
+      "role": "hook"
+    },
+    {
+      "type": "fact",
+      "text": "A typical 8‑oz cup contains about 200 mg of catechins, antioxidants linked to improved brain function",
+      "chips": [
+        {
+          "t": "200 MG CATECHINS",
+          "on": "catechins",
+          "style": "accent"
+        }
+      ],
+      "punch": "boost",
+      "query": "green tea catechin amount",
+      "query2": "green tea antioxidants",
+      "role": "fact"
+    },
+    {
+      "type": "fact",
+      "text": "Studies show drinking two cups a day is associated with a modest reduction in feelings of anxiety and depression",
+      "chips": [
+        {
+          "t": "ANXIETY ↓",
+          "on": "anxiety",
+          "style": "white"
+        },
+        {
+          "t": "DEPRESSION ↓",
+          "on": "depression",
+          "style": "white"
+        }
+      ],
+      "query": "green tea anxiety study",
+      "query2": "green tea depression research",
+      "role": "fact"
+    },
+    {
+      "type": "callout",
+      "text": "Sip twice daily for a calmer mind",
+      "label": "Twice‑Daily Sip",
+      "sub": "Just two cups a day can make a difference",
+      "label_on": "sip",
+      "query": "green tea daily routine",
+      "query2": "green tea habit tips",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "follow health tips",
+      "query2": "subscribe wellness channel",
+      "role": "cta"
+    }
+  ],
+  "description": "Discover how a simple habit of two green tea cups can support a better mood. Try it today and feel the difference. 🌱",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#greentea",
+    "#moodboost",
+    "#mentalhealth",
+    "#healthylifestyle",
+    "#wellness",
+    "#antioxidants"
+  ],
+  "place": "",
+  "country": ""
+}
