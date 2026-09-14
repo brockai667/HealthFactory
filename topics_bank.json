@@ -10417,5 +10417,67 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Veggie Powder Fiber Myth",
+    "thumb": "VEGGIE POWDER",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Can homemade dehydrated veggie powder replace fresh vegetables?",
+        "hook_top": "POWDER VS FRESH",
+        "query": "homemade vegetable powder nutrition",
+        "query2": "dehydrated veggie powder benefits",
+        "role": "hook"
+      },
+      {
+        "type": "myth",
+        "text": "Some think a cup of powder gives the same fiber as a cup of fresh veggies.",
+        "label": "Powder equals fresh fiber",
+        "query": "vegetable powder fiber claim",
+        "query2": "veggie powder fiber myth",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "truth",
+        "text": "Drying concentrates vitamins but removes most insoluble fiber; you get far less fiber than fresh produce.",
+        "label": "Much less fiber",
+        "query": "fiber loss in dehydrated vegetables",
+        "query2": "vegetable powder fiber content",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "callout",
+        "text": "Use powder for a nutrient boost, but keep whole veggies for fiber.",
+        "label": "Blend both sources",
+        "sub": "Add powder to soups, still eat fresh veggies",
+        "label_on": "Mix",
+        "query": "using vegetable powder in meals",
+        "query2": "veggie powder recipe ideas",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for simple habits that boost your health.",
+        "query": "nutrition myth follow prompt",
+        "query2": "health myth bust follow",
+        "role": "cta"
+      }
+    ],
+    "description": "We separate fact from fiction on dehydrated vegetable powders and their fiber content. Learn how to use them wisely while preserving daily fiber intake. Follow for more practical nutrition myths.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#vegetables",
+      "#fiber",
+      "#mythbusting",
+      "#nutrition",
+      "#healthtips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
