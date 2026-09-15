@@ -1,0 +1,56 @@
+{
+  "title": "Butternut Squash Fruit Myth",
+  "thumb": "FRUIT OR VEGETABLE",
+  "scenes": [
+    {
+      "text": "Butternut squash weighs about two pounds",
+      "hook_top": "BUTTERNUT SQUASH WEIGHT",
+      "query": "butternut squash size",
+      "query2": "butternut squash weight",
+      "role": "hook"
+    },
+    {
+      "text": "Many label it as a vegetable on grocery shelves",
+      "label": "Squash is a veg",
+      "query": "butternut squash vegetable",
+      "query2": "vegetable classification squash",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Botanically it’s a fruit because it develops from the flower’s ovary",
+      "label": "Botanical fruit",
+      "query": "botanical fruit definition",
+      "query2": "fruit vs veg botany",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Treat it like fruit in meals for more variety",
+      "label": "Eat it fruit style",
+      "sub": "Add to salads or smoothies",
+      "label_on": "fruit",
+      "query": "butternut squash salad",
+      "query2": "squash smoothie",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "follow",
+      "query2": "subscribe",
+      "role": "cta"
+    }
+  ],
+  "description": "The butternut squash is often called a veggie, yet botanically it’s a fruit. Use this tip to diversify your plate. Follow for daily food myths busted.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#foodmyth",
+    "#nutrition",
+    "#healthyhabits",
+    "#veggies"
+  ],
+  "place": "",
+  "country": ""
+}

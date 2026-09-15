@@ -10479,5 +10479,260 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Morning Smoothie Sugar Myth",
+    "thumb": "SMOOTHIE SUGAR TRAP",
+    "scenes": [
+      {
+        "hook_top": "BANANA SMOOTHIE SUGAR",
+        "query": "banana smoothie sugar content",
+        "query2": "fruit smoothie sugar levels",
+        "role": "hook",
+        "text": "Does a banana really spike your smoothie sugar?"
+      },
+      {
+        "label": "All fruit = high sugar",
+        "query": "fruit sugar in smoothies",
+        "query2": "smoothie sugar myth",
+        "role": "myth",
+        "text": "Adding any fruit makes a smoothie high in sugar."
+      },
+      {
+        "label": "Fiber slows sugar rise",
+        "query": "fiber effect on blood sugar",
+        "query2": "fruit fiber glucose response",
+        "role": "truth",
+        "text": "Whole fruit adds fiber that slows sugar absorption, keeping blood sugar stable."
+      },
+      {
+        "label": "Low‑GI fruit tip",
+        "sub": "Berries or greens keep sugar steady",
+        "label_on": "Balance",
+        "query": "low glycemic fruits smoothie",
+        "query2": "berries greens smoothie recipe",
+        "role": "callout",
+        "text": "Choose low‑glycemic fruits like berries and add greens for balance."
+      },
+      {
+        "query": "nutrition myth busting",
+        "query2": "healthy habit tips",
+        "role": "cta",
+        "text": "Follow for your daily dose of vitality."
+      }
+    ],
+    "description": "We break down why fruit doesn’t automatically mean a sugary drink and give you a simple swap for a balanced morning boost. Follow for more quick health facts.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#smoothie",
+      "#sugarmyth",
+      "#healthtips",
+      "#fiber"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Morning Smoothie Power Hacks",
+    "thumb": "SMOOTHIE BOOST",
+    "scenes": [
+      {
+        "text": "What 3 ingredients top athletes add to their morning smoothie?",
+        "hook_top": "TOP 3 SMOOTHIE INGREDIENTS",
+        "query": "morning smoothie ingredients",
+        "query2": "smoothie recipe",
+        "role": "hook"
+      },
+      {
+        "num": 1,
+        "label": "SPINACH FOR IRON",
+        "label_on": "Spinach",
+        "text": "Spinach adds iron and magnesium with minimal calories.",
+        "query": "spinach nutrition",
+        "query2": "leafy greens iron",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "label": "BERRY ANTIOXIDANTS",
+        "label_on": "Berries",
+        "text": "Blueberries provide antioxidants that support brain health.",
+        "query": "blueberries antioxidants",
+        "query2": "berries brain health",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "label": "GREEK YOGURT PROTEIN",
+        "label_on": "Greek yogurt",
+        "text": "Greek yogurt boosts protein for sustained energy.",
+        "query": "greek yogurt protein",
+        "query2": "yogurt protein",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for simple habits that boost your health.",
+        "query": "follow call to action",
+        "query2": "follow CTA",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover three science‑backed ingredients that level up your morning smoothie for energy and nutrition. Simple swaps, big impact.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#health",
+      "#nutrition",
+      "#smoothie",
+      "#wellness",
+      "#quicktips"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Morning Smoothie Nutrition Boost",
+    "thumb": "GREEN POWER",
+    "scenes": [
+      {
+        "text": "Add 1 cup spinach for a vitamin surge",
+        "hook_top": "SPINACH BOOSTS MORNING SMOOTHIE",
+        "query": "spinach in smoothie",
+        "query2": "spinach benefits",
+        "role": "hook"
+      },
+      {
+        "text": "Spinach provides about 6 mg iron per cup, aiding energy",
+        "chips": [
+          {
+            "t": "6 MG IRON",
+            "on": "iron",
+            "style": "white"
+          }
+        ],
+        "query": "spinach iron content",
+        "query2": "iron in spinach",
+        "role": "fact"
+      },
+      {
+        "text": "Greek yogurt adds roughly 10 g protein per 100 g, supporting satiety",
+        "chips": [
+          {
+            "t": "10G PROTEIN",
+            "on": "protein",
+            "style": "accent"
+          }
+        ],
+        "query": "greek yogurt protein per 100g",
+        "query2": "protein content greek yogurt",
+        "role": "fact"
+      },
+      {
+        "text": "Boost nutrient density",
+        "label": "NUTRIENT POWER",
+        "sub": "Add greens and protein for lasting energy",
+        "label_on": "boost",
+        "query": "nutrient dense smoothie tips",
+        "query2": "smoothie nutrition",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "text": "Follow for simple habits that boost your health.",
+        "query": "follow health brand",
+        "query2": "nutrition channel follow",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn how a simple spin‑filled smoothie can supercharge your morning with iron and protein. Small tweaks, big results. 🌱💪 Follow for more easy nutrition hacks!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#smoothie",
+      "#healthtips",
+      "#iron",
+      "#protein",
+      "#wellness"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Quinoa vs Egg Protein Power",
+    "thumb": "QUINOA VS EGG",
+    "scenes": [
+      {
+        "type": "hook",
+        "text": "Can a single cup of quinoa out‑protein an egg?",
+        "hook_top": "QUINOA OUTPROTEINS EGG",
+        "query": "cooked quinoa protein content",
+        "query2": "quinoa nutrition facts",
+        "role": "hook"
+      },
+      {
+        "type": "fact",
+        "text": "One cup of cooked quinoa provides about 8 grams of protein.",
+        "chips": [
+          {
+            "t": "8 g PROTEIN",
+            "on": "protein",
+            "style": "accent"
+          }
+        ],
+        "punch": "wow",
+        "query": "protein in one cup cooked quinoa",
+        "query2": "quinoa protein grams",
+        "role": "fact"
+      },
+      {
+        "type": "fact",
+        "text": "A large chicken egg contains roughly 6 grams of protein.",
+        "chips": [
+          {
+            "t": "6 g PROTEIN",
+            "on": "egg",
+            "style": "white"
+          }
+        ],
+        "punch": "simple",
+        "query": "protein content of large egg",
+        "query2": "egg nutrition facts",
+        "role": "fact"
+      },
+      {
+        "type": "reveal",
+        "text": "So quinoa actually gives you more protein per serving than an egg – plus fiber and minerals.",
+        "reveal_top": "QUINOA GIVES MORE PROTEIN",
+        "query": "quinoa protein versus egg comparison",
+        "query2": "quinoa vs egg nutrition",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "type": "cta",
+        "text": "Follow for daily tips to feel your best.",
+        "query": "follow health nutrition channel",
+        "query2": "subscribe practical health tips",
+        "role": "cta"
+      }
+    ],
+    "description": "Discover why swapping an egg for quinoa can boost your protein intake while adding extra fiber and micronutrients. Simple, evidence‑based kitchen swaps made easy.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#nutrition",
+      "#protein",
+      "#quinoa",
+      "#foodswap",
+      "#healthtips"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
