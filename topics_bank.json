@@ -10734,5 +10734,59 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Coffee After Dinner Sleep Myth",
+    "thumb": "COFFEE SLEEP",
+    "scenes": [
+      {
+        "hook_top": "COFFEE AFTER 8PM",
+        "query": "coffee after dinner sleep myth",
+        "query2": "coffee evening sleep belief",
+        "role": "hook",
+        "text": "What happens when you sip 2 cups of coffee after 8 PM?"
+      },
+      {
+        "label": "Coffee ruins sleep",
+        "query": "coffee after dinner sleep myth",
+        "query2": "coffee evening sleep belief",
+        "role": "myth",
+        "text": "Many believe coffee after dinner ruins your sleep."
+      },
+      {
+        "label": "Caffeine wears off after six",
+        "query": "caffeine half life sleep",
+        "query2": "caffeine metabolism evening",
+        "role": "truth",
+        "text": "Caffeine’s effect wanes after ~6 hours; a single cup after 8 PM may not disrupt sleep for most adults, though sensitivity varies."
+      },
+      {
+        "label": "Know your tolerance",
+        "sub": "Caffeine timing depends on individual sensitivity",
+        "label_on": "SleepTip",
+        "query": "evening caffeine tolerance",
+        "query2": "caffeine sensitivity",
+        "role": "callout",
+        "text": "Know your tolerance before skipping coffee."
+      },
+      {
+        "query": "follow sleep tips",
+        "query2": "subscribe sleep advice",
+        "role": "cta",
+        "text": "Follow if your body is worth 60 seconds a day."
+      }
+    ],
+    "description": "A cup of coffee at night isn’t automatically a sleep killer—caffeine fades after about six hours and impacts each person differently. Find out how to gauge your own tolerance. 👉 Follow for more practical sleep advice.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#sleepmyth",
+      "#caffeine",
+      "#healthtips",
+      "#sleepquality",
+      "#mythbusting"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

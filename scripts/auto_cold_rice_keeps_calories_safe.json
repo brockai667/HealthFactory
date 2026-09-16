@@ -1,0 +1,66 @@
+{
+  "title": "Cold Rice Keeps Calories Safe",
+  "thumb": "COLD RICE",
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Storing cooked rice for 4 hours changes its calories?",
+      "hook_top": "STORAGE RICE CALORIES",
+      "query": "cooked rice stored 4 hours refrigerator",
+      "query2": "refrigerated cooked rice calorie change",
+      "role": "hook"
+    },
+    {
+      "type": "count",
+      "num": 1,
+      "text": "Cooling rice slows the growth of starch‑digesting enzymes, keeping the glycemic impact lower.",
+      "label": "ENZYME ACTIVITY REDUCED",
+      "label_on": "ENZYME",
+      "query": "rice cooling enzyme activity",
+      "query2": "starch digesting enzymes cooled rice",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 2,
+      "text": "A 1‑cup serving of chilled rice has about 10‑15% fewer usable calories than hot rice, due to resistant starch formation.",
+      "label": "MORE RESISTANT STARCH",
+      "label_on": "STARCH",
+      "query": "resistant starch in cooled rice calories",
+      "query2": "cold rice resistant starch calorie reduction",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "count",
+      "num": 3,
+      "text": "Refrigerating rice for up to 24 hours keeps it safe and makes it easier to portion for meals, preventing overeating.",
+      "label": "SAFE & SATISFYING PORTIONS",
+      "label_on": "PORTION",
+      "query": "refrigerated rice safety 24 hours",
+      "query2": "cold rice meal prep portion control",
+      "role": "fact",
+      "chips": []
+    },
+    {
+      "type": "cta",
+      "text": "Follow if your body is worth 60 seconds a day.",
+      "query": "food hack follow call to action",
+      "query2": "simple nutrition tip CTA",
+      "role": "cta"
+    }
+  ],
+  "description": "Learn how a simple fridge can tweak rice’s calorie profile and keep you fuller longer. Try it tonight and feel the difference. Follow for more everyday health tricks.",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#nutrition",
+    "#foodhacks",
+    "#healthtips",
+    "#rice",
+    "#mealprep"
+  ],
+  "place": "",
+  "country": ""
+}
